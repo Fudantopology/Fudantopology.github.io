@@ -35,12 +35,12 @@
      
       Title:  Geometric structure of self covering manifolds
     
-      Abstract: A topological space is self-covering if the spaceisanon-trivial
+      Abstract: A topological space is self-covering if the space is a non-trivial
       cover of itself. I will talk about a joint work withLizhen Qin and Botong 
-      Wang on the geometric structure of self-coveringmanifolds. For example, 
-      we show that in dimension >5, aself-covering manifold with infinite cyclic 
-      fundamental groupisafiber bundle over the circle. We also construct examples
-      ofself-covering manifolds which are not fiber bundle over the circle, where 
+      Wang on the geometric structure of self-covering manifolds. For example, 
+      we show that in dimension >5, a self-covering manifold with infinite cyclic 
+      fundamental group is a fiber bundle over the circle. We also construct examples
+      of self-covering manifolds which are not fiber bundle over the circle, where 
       the fundamental group contains torsion.
       
      [Poster](https://scms.fudan.edu.cn/info/3362/4879.htm) 
@@ -53,9 +53,9 @@
      
       Title: The group of quasi-isometries of the line cannot act effectively on the line
     
-      Abstract: Let G be the group of orientation-preservingquasi-isometries of the 
-      real line. We show that Gis left-orderable, but not simple. Moreover, the group G 
-      cannot act effectivelyonthereal line R.
+      Abstract: Let G be the group of orientation-preserving quasi-isometries of the 
+      real line. We show that G is left-orderable, but not simple. Moreover, the group G 
+      cannot act effectively on the real line R.
      
    [Poster](https://scms.fudan.edu.cn/info/3362/4840.html) 
       
