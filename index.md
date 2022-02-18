@@ -53,10 +53,8 @@
       Title: The group of quasi-isometries of the line cannot act effectively on the line
     
       Abstract: Let G be the group of orientation-preservingquasi-isometries of the 
-      real line. 
-      
-      We show that Gis left-orderable, but not simple. Moreover, the group G cannot act 
-      effectivelyonthereal line R.
+      real line. We show that Gis left-orderable, but not simple. Moreover, the group G 
+      cannot act effectivelyonthereal line R.
      
    [Poster](https://scms.fudan.edu.cn/info/3362/4840.html) 
       
