@@ -36,7 +36,7 @@
       Title:  Geometric structure of self covering manifolds
     
       Abstract: A topological space is self-covering if the space is a non-trivial
-      cover of itself. I will talk about a joint work withLizhen Qin and Botong 
+      cover of itself. I will talk about a joint work with Lizhen Qin and Botong 
       Wang on the geometric structure of self-covering manifolds. For example, 
       we show that in dimension >5, a self-covering manifold with infinite cyclic 
       fundamental group is a fiber bundle over the circle. We also construct examples
