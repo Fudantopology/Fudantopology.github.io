@@ -64,11 +64,12 @@
       Time: 15:00-17:00
       Place: Tencent Meeting ID: 533-917-811 Password: 123455
      
-      Title: The group of quasi-isometries of the line cannot act effectively on the line
+      Title: The group of quasi-isometries of the line cannot act effectively on the 
+      line
     
       Abstract: Let G be the group of orientation-preserving quasi-isometries of the 
-      real line. We show that G is left-orderable, but not simple. Moreover, the group G 
-      cannot act effectively on the real line R.
+      real line. We show that G is left-orderable, but not simple. Moreover, the group
+      G cannot act effectively on the real line R.
      
    [Poster](https://scms.fudan.edu.cn/info/3362/4840.html) 
       
