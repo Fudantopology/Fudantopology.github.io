@@ -42,6 +42,7 @@
       fundamental groupisafiber bundle over the circle. We also construct examples
       ofself-covering manifolds which are not fiber bundle over the circle, where 
       the fundamental group contains torsion.
+      
      [Poster](https://scms.fudan.edu.cn/info/3362/4879.htm) 
      
       
