@@ -1,6 +1,6 @@
-## Welcome to Fudan Topology Seminar
+## Spring 2022 Schedule 
 
-Spring 2022 Schedule
+
 
 - Mar. 2022 [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/) Peking University
 
