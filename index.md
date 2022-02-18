@@ -4,7 +4,7 @@
 
 
 
-- Mar. 03 2022 [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/) Peking University
+- Mar. 03 2022, [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/) Peking University
 
       Time:
       Place:
@@ -15,7 +15,7 @@
      
      [Poster](https://mdp.ac/) 
      
-- Mar. 10 2022 [Martin  Palmer](https://mdp.ac/) Romanian Academy
+- Mar. 10 2022, [Martin  Palmer](https://mdp.ac/) Romanian Academy
  
       Time:
       Place:
@@ -41,7 +41,7 @@
 - Jun. 09 2022
       
 ## Fall 2021 Schedule   
-- Dec. 16 2021 [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) Chinese Academy of Sciences
+- Dec. 16 2021, [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) Chinese Academy of Sciences
 
       Time: 15:00-17:00
       Place: Tencent Meeting ID: 573-308-837 Password: 123455
@@ -59,7 +59,7 @@
      [Poster](https://scms.fudan.edu.cn/info/3362/4879.htm) 
      
       
-- Dec. 16 2021 [Shengkui Ye](https://yeshengkui.wordpress.com/) NYU Shanghai
+- Dec. 16 2021, [Shengkui Ye](https://yeshengkui.wordpress.com/) NYU Shanghai
 
       Time: 15:00-17:00
       Place: Tencent Meeting ID: 533-917-811 Password: 123455
