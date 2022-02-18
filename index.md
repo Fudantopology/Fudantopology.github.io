@@ -27,7 +27,7 @@
      [Poster](https://mdp.ac/) 
       
       
-## Winter 2021 Schedule   
+## Fall 2021 Schedule   
 - Dec. 16 2021 [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) NYU Shanghai
 
       Time: 15:00-17:00
