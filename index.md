@@ -15,7 +15,7 @@
      
      [Poster](https://mdp.ac/) 
      
-- Mar. 10 2022, [Martin  Palmer](https://mdp.ac/) Romanian Academy
+- Mar. 10 2022, [Martin  Palmer](https://mdp.ac/) Mathematical Institute of the Romanian Academy
  
       Time:
       Place:
