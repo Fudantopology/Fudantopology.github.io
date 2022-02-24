@@ -9,9 +9,19 @@
       Time:
       Place:
      
-      Title: TBA
+      Title: Proper actions of 3-manifold groups on finite product of quasi-trees
     
-      Abstract:
+      Abstract: Let M be a compact, connected, orientable 3-manifold. In this talk,
+      I will study when the fundamental group of M acts properly on a finite product 
+      of quasi-trees. Our main result is that this is so exactly when M does not 
+      contain Sol and Nil geometries. In addition, if there is no $\widetilde{SL(2, \mathbb{R})}$
+      geometry either, then the orbital map is a quasi-isometric embedding of $\pi_1(M)$. 
+      This is called property (QT) by Bestvina-Bromberg-Fujiwara, who established it for 
+      residually finite hyperbolic groups and mapping class groups. The main step of our 
+      proof is to show property (QT) for the classes of Croke-Kleiner admissible groups 
+      and of  relatively hyperbolic groups under natural assumptions. Accordingly, this 
+      yields that graph 3-manifold and mixed 3-manifold groups have property (QT). This 
+      represents joint work with N.T. Nguyen and S.Z. Han.
      
      [Poster](https://mdp.ac/) 
      
