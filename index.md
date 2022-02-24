@@ -17,12 +17,25 @@
      
 - Mar. 10 2022, [Martin  Palmer](https://mdp.ac/) Mathematical Institute of the Romanian Academy
  
-      Time:
-      Place:
+      Time: 15:00-17:00
+      Zoom Id: 646 617 8889  password: 123456wu
     
-      Title: TBA
+      Title: Mapping class group representations via Heisenberg, Schrödinger and Stone-von Neumann
     
-      Abstract:
+      Abstract: One of the first interesting representations of the braid groups is 
+      the Burau representation. It is the first of the family of Lawrence representations, 
+      defined topologically by viewing the braid group as the mapping class group of a 
+      punctured disc. Famously, the Burau representation is almost never faithful, but 
+      the k = 2 Lawrence representation is always faithful: this is a celebrated theorem 
+      of Bigelow and Krammer and it implies that braid groups are linear (embed into 
+      general linear groups over a field).
+
+      Motivated by this, and by the open question of whether mapping class groups are 
+      linear, I will describe recent joint work with Christian Blanchet and Awais Shaukat
+      in which we construct analogues of the Lawrence representations for mapping class 
+      groups of compact, orientable surfaces. Tools include twisted Borel-Moore homology 
+      of configuration spaces, Schrödinger representations of discrete Heisenberg groups 
+      and the Stone-von Neumann theorem.
 
      [Poster](https://mdp.ac/) 
       
