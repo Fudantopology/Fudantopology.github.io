@@ -20,7 +20,8 @@
       Time: 15:00-17:00
       Zoom Id: 646 617 8889  password: 123456wu
     
-      Title: Mapping class group representations via Heisenberg, Schrödinger and Stone-von Neumann
+      Title: Mapping class group representations via Heisenberg, Schrödinger and 
+      Stone-von Neumann
     
       Abstract: One of the first interesting representations of the braid groups is 
       the Burau representation. It is the first of the family of Lawrence representations, 
