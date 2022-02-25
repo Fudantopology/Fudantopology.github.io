@@ -6,8 +6,9 @@
 
 - Mar. 03 2022, [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/) Peking University
 
-      Time:
-      Place:
+      Time: 15:00 - 17:00
+      Tencent meeting：861-8661-7196 password: 123555
+
      
       Title: Proper actions of 3-manifold groups on finite product of quasi-trees
     
