@@ -24,7 +24,7 @@
       yields that graph 3-manifold and mixed 3-manifold groups have property (QT). This 
       represents joint work with N.T. Nguyen and S.Z. Han.
      
-     [Poster](https://mdp.ac/) 
+     [Poster](https://scms.fudan.edu.cn/info/3424/4911.htm) 
      
 - Mar. 10 2022, [Martin  Palmer](https://mdp.ac/) Mathematical Institute of the Romanian Academy
  
