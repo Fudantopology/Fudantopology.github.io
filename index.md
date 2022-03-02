@@ -52,17 +52,29 @@
      [Poster](https://mdp.ac/) 
       
 - Mar. 17 2022
+
 - Mar. 24 2022
+
 - Mar. 31 2022
+
 - Apr. 07 2022
+
 - Apr. 14 2022
+
 - Apr. 21 2022
-- Apr. 28 2022
+
+- Apr. 28 2022 Fangzhou Jin, Tongji University
+
 - May 05 2022
+
 - May 12 2022
+
 - May 19 2022
+
 - May 26 2022
+
 - Jun. 02 2022
+
 - Jun. 09 2022
       
 ## Fall 2021 Schedule   
