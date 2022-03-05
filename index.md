@@ -51,7 +51,19 @@
 
      [Poster](https://mdp.ac/) 
       
-- Mar. 17 2022
+- Mar. 17 2022 [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shangdong University
+
+      Time:
+      Place:
+
+      Title: Distinct distances on hyperbolic surfaces
+      Abstract:  Erdős (1946) proposed the question of finding the minimal number of distinct 
+      distances among any N points in the plane. Guth-Katz (2015) gave almost sharp answer for 
+      this question using incidence geometry and polynomial partitioning. We consider this problem
+      in hyperbolic surfaces associated with cofinite Fuchsian groups, i.e. the volume of the surface 
+      is finite. We prove a lower bound of the same strength as Guth-Katz. In particular, for any 
+      finite index subgroup of the modular group, we extract out the dependence of the implied 
+      constant on the index.
 
 - Mar. 24 2022
 
@@ -73,7 +85,7 @@
 
 - May 26 2022
 
-- Jun. 02 2022
+- Jun. 02 2022 [Yi Jiang](https://ymsc.tsinghua.edu.cn/info/1033/2391.htm), Tsinghua University
 
 - Jun. 09 2022
       
