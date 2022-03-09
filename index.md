@@ -51,7 +51,7 @@
 
      [Poster](https://mdp.ac/) 
       
-- Mar. 17 2022 [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shangdong University
+- Mar. 17 2022 [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shandong University
 
       Time: 15:00 - 17:00
       Tencent room：861-8661-7196 password: 123555
