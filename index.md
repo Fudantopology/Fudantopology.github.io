@@ -51,7 +51,7 @@
 
      [Poster](https://mdp.ac/) 
       
-- Mar. 17 2022 [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shandong University
+- Mar. 17 2022, [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shandong University
 
       Time: 15:00 - 17:00
       Tencent room：861-8661-7196 password: 123555
@@ -66,7 +66,7 @@
       index subgroup of the modular group, we extract out the dependence of the implied 
       constant on the index.
 
-- Mar. 24 2022 [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
+- Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
 
 
 
@@ -78,9 +78,9 @@
 
 - Apr. 21 2022
 
-- Apr. 28 2022 Fangzhou Jin, Tongji University
+- Apr. 28 2022, Fangzhou Jin, Tongji University
 
-- May 05 2022 [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
+- May 05 2022, [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
 
 - May 12 2022
 
@@ -88,7 +88,7 @@
 
 - May 26 2022
 
-- Jun. 02 2022 [Yi Jiang](https://ymsc.tsinghua.edu.cn/info/1033/2391.htm), Tsinghua University
+- Jun. 02 2022, [Yi Jiang](https://ymsc.tsinghua.edu.cn/info/1033/2391.htm), Tsinghua University
 
 - Jun. 09 2022
       
