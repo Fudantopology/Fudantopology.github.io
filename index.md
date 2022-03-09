@@ -80,7 +80,7 @@
 
 - Apr. 28 2022 Fangzhou Jin, Tongji University
 
-- May 05 2022
+- May 05 2022 [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
 
 - May 12 2022
 
