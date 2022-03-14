@@ -65,6 +65,8 @@
       a lower bound of the same strength as Guth-Katz. In particular, for any finite
       index subgroup of the modular group, we extract out the dependence of the implied 
       constant on the index.
+      
+      [Poster](https://scms.fudan.edu.cn/info/3424/4921.htm)
 
 - Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
 
@@ -72,7 +74,18 @@
 
 - Mar. 31 2022
 
-- Apr. 07 2022
+- Apr. 07 2022,  [Johh R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
+       Time:
+       Place:
+       
+       Title: Complex hyperbolic lattices
+       Abstract: I will give a survey on recent results about complex hyperbolic lattices. 
+       A lattice in a Lie group is a discrete subgroup whose quotient has finite Haar measure.
+       In this talk I will concentrate on the Lie group SU(n,1), often restricting to the case 
+       where n=2. Elements of this group act as holomorphic isometries of complex hyperbolic 
+       space. Roughly speaking, there are four methods of constructing complex hyperbolic 
+       lattices. I will discuss how these are related, with particular emphasis on a family 
+       of non-arithmetic lattices.
 
 - Apr. 14 2022
 
