@@ -49,7 +49,7 @@
       of configuration spaces, Schrödinger representations of discrete Heisenberg groups 
       and the Stone-von Neumann theorem.
 
-     [Poster](https://mdp.ac/) 
+     [Poster](https://scms.fudan.edu.cn/info/3424/4909.htm) 
       
 - Mar. 17 2022, [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shandong University
 
@@ -65,8 +65,9 @@
       a lower bound of the same strength as Guth-Katz. In particular, for any finite
       index subgroup of the modular group, we extract out the dependence of the implied 
       constant on the index.
+     
+     [Poster](https://scms.fudan.edu.cn/info/3424/4921.htm)
       
-      [Poster](https://scms.fudan.edu.cn/info/3424/4921.htm)
 
 - Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
 
