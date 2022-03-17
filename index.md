@@ -70,15 +70,31 @@
       
 
 - Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
-
-
+       Time: 15:00 - 17:00
+       Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
+       
+       Title: An exhaustion of the sphere complex by finite rigid sets
+       Abstract: A subcomplex X < C of a simplicial complex is rigid if every locally 
+       injective, simplicial map X \to C arises as the restriction of an automorphism 
+       of $C$.  Curve complexes and other surface complexes have been found to exhibit 
+       remarkable rigidity properties. Aramayona and Leininger proved that the curve complex 
+       of an orientable surface can be written as an increasing union of finite rigid sets. 
+       The sphere complex of a connect sum of $n$ copies of S^1 \times S^2 is an analog 
+       the curve complex of a surface used in the study of Out(F_n). In this talk I will
+       present joint work with C. Leininger where we prove that there is an exhaustion of 
+       the sphere complex by finite rigid sets when n >= 3.
+       
 
 - Mar. 31 2022，[Bruno Martelli](https://people.dm.unipi.it/martelli/) University of Pisa
+       Time: 15:00 - 17:00
+       Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
+       
+       Title:
+       Abstract:
 
 - Apr. 07 2022,  [Johh R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
-
-       Time:
-       Place:
+       Time: 15:00 - 17:00
+       Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
        Title: Complex hyperbolic lattices
        Abstract: I will give a survey on recent results about complex hyperbolic lattices. 
