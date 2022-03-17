@@ -70,6 +70,7 @@
       
 
 - Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
+
        Time: 15:00 - 17:00
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
@@ -86,6 +87,7 @@
        
 
 - Mar. 31 2022，[Bruno Martelli](https://people.dm.unipi.it/martelli/) University of Pisa
+
        Time: 15:00 - 17:00
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
@@ -93,6 +95,7 @@
        Abstract:
 
 - Apr. 07 2022,  [Johh R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
+
        Time: 15:00 - 17:00
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
