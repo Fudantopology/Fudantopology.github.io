@@ -84,7 +84,7 @@
        the curve complex of a surface used in the study of Out(F_n). In this talk I will
        present joint work with C. Leininger where we prove that there is an exhaustion of 
        the sphere complex by finite rigid sets when n >= 3.
-       
+     [Poster](https://scms.fudan.edu.cn/info/3424/4925.htm)  
 
 - Mar. 31 2022，[Bruno Martelli](https://people.dm.unipi.it/martelli/) University of Pisa
 
