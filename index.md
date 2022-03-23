@@ -112,7 +112,7 @@
 
 - Apr. 21 2022，[Weiyan Chen](https://ymsc.tsinghua.edu.cn/en/info/1033/1249.htm), Tsinghua University
 
-- Apr. 28 2022, Fangzhou Jin, Tongji University
+- Apr. 28 2022, [Fangzhou Jin](https://fangzhoujin.github.io/), Tongji University
 
 - May 05 2022, [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
 
