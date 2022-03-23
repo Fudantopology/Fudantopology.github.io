@@ -57,6 +57,7 @@
       Tencent room：861-8661-7196 password: 123555
       
       Title: Distinct distances on hyperbolic surfaces
+      
       Abstract:  Erdős (1946) proposed the question of finding the minimal number of 
       distinct distances among any N points in the plane. Guth-Katz (2015) gave almost
       sharp answer for this question using incidence geometry and polynomial 
@@ -75,6 +76,7 @@
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
        Title: An exhaustion of the sphere complex by finite rigid sets
+       
        Abstract: A subcomplex X < C of a simplicial complex is rigid if every locally 
        injective, simplicial map X \to C arises as the restriction of an automorphism 
        of $C$.  Curve complexes and other surface complexes have been found to exhibit 
@@ -93,6 +95,7 @@
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
        Title:
+       
        Abstract:
 
 - Apr. 07 2022,  [Johh R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
@@ -101,6 +104,7 @@
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
        Title: Complex hyperbolic lattices
+       
        Abstract: I will give a survey on recent results about complex hyperbolic lattices. 
        A lattice in a Lie group is a discrete subgroup whose quotient has finite Haar measure.
        In this talk I will concentrate on the Lie group SU(n,1), often restricting to the case 
