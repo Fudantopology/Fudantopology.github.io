@@ -113,7 +113,7 @@
        lattices. I will discuss how these are related, with particular emphasis on a family 
        of non-arithmetic lattices.
 
-- Apr. 14 2022, [Robert tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
+- Apr. 14 2022, [Robert Tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
 
 - Apr. 21 2022，[Weiyan Chen](https://ymsc.tsinghua.edu.cn/en/info/1033/1249.htm), Tsinghua University
 
