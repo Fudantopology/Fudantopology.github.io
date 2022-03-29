@@ -94,9 +94,21 @@
        Time: 15:00 - 17:00
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
-       Title:
+       Title: Fibrations on higher-dimensional hyperbolic manifolds
        
-       Abstract:
+       Abstract: One of the most intriguing aspects in low-dimensional topology is the 
+       existence, discovered by Jorgensen in the late 70s, of hyperbolic 3-manifolds that
+       fiber over the circle. In this talk we will briefly review some aspects of this 
+       beautiful theory, with the notable contributions of Thurston, and more recently 
+       of Agol and Wise. 
+
+       Then we will show that this phenomenon is not restricted to dimension 3, by 
+       exhibiting some examples in dimension 4 and 5 (in even dimension, some critical 
+       points are necessary, and we talk about perfect circle valued Morse functions 
+       instead of fibrations). As a consequence, we will deduce that a finite type subgroup
+       of a hyperbolic group needs not to be hyperbolic, thus answering a well-known open
+       question in geometric group theory (joint works with Battista, Italiano, 
+       and Migliorini)
 
 - Apr. 07 2022,  [Johh R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
 
