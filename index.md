@@ -109,6 +109,8 @@
        of a hyperbolic group needs not to be hyperbolic, thus answering a well-known open
        question in geometric group theory (joint works with Battista, Italiano, 
        and Migliorini)
+       
+     [Poster](https://math.fudan.edu.cn/_upload/article/files/28/eb/417164b74e399ed75b30b353e2cf/83cb1276-a9a0-4bf7-ace5-51bde3cb2803.pdf)
 
 - Apr. 07 2022,  [Johh R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
 
