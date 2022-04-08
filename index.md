@@ -126,8 +126,28 @@
        space. Roughly speaking, there are four methods of constructing complex hyperbolic 
        lattices. I will discuss how these are related, with particular emphasis on a family 
        of non-arithmetic lattices.
+      
+     [Poster](https://math.fudan.edu.cn/_upload/article/files/37/f6/f500b15c480b999d6e35c2bd9bda/c3adf7b4-a77b-460a-b9df-0e11782c23dd.pdf)
 
 - Apr. 14 2022, [Robert Tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
+  
+  Time: 15:00 - 17:00
+  Place:
+  
+  Title: Large-scale geometry of the saddle connection graph
+  
+  Abstract: For a translation surface, the associated saddle connection graph has saddle 
+  connections as vertices, and edges connecting pairs of non-crossing saddle connections. 
+  This can be viewed as an induced subgraph of the arc graph of the surface. In this talk,
+  I will discuss both the fine and coarse geometry of the saddle connection graph. We show
+  that the isometry type is rigid: any isomorphism between two such graphs is induced by 
+  an affine diffeomorphism between the underlying translation surfaces. However, the 
+  situation is completely different when one considers the quasi-isometry type: all 
+  saddle connection graphs form a single quasi-isometry class. We will also discuss 
+  the Gromov boundary in terms of foliations. This is based on joint work with Valentina
+  Disarlo, Huiping Pan, and Anja Randecker.
+  
+ [Poster]() 
 
 - Apr. 21 2022，[Weiyan Chen](https://ymsc.tsinghua.edu.cn/en/info/1033/1249.htm), Tsinghua University
 
