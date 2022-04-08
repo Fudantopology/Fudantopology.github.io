@@ -147,7 +147,7 @@
   the Gromov boundary in terms of foliations. This is based on joint work with Valentina
   Disarlo, Huiping Pan, and Anja Randecker.
   
- [Poster]() 
+  [Poster]() 
 
 - Apr. 21 2022，[Weiyan Chen](https://ymsc.tsinghua.edu.cn/en/info/1033/1249.htm), Tsinghua University
 
