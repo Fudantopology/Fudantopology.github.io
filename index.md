@@ -132,6 +132,7 @@
 - Apr. 14 2022, [Robert Tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
   
   Time: 15:00 - 17:00
+  
   Place:
   
   Title: Large-scale geometry of the saddle connection graph
