@@ -54,6 +54,7 @@
 - Mar. 17 2022, [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shandong University
 
       Time: 15:00 - 17:00
+      
       Tencent room：861-8661-7196 password: 123555
       
       Title: Distinct distances on hyperbolic surfaces
@@ -133,7 +134,7 @@
   
   Time: 15:00 - 17:00
   
-  Place:
+  Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
   
   Title: Large-scale geometry of the saddle connection graph
   
@@ -148,9 +149,24 @@
   the Gromov boundary in terms of foliations. This is based on joint work with Valentina
   Disarlo, Huiping Pan, and Anja Randecker.
   
-  [Poster]() 
+  [Poster](https://scms.fudan.edu.cn/info/3424/4939.htm) 
 
 - Apr. 21 2022，[Weiyan Chen](https://ymsc.tsinghua.edu.cn/en/info/1033/1249.htm), Tsinghua University
+  
+  Time: 15:00 - 17:00
+  
+  Tencent room：861-8661-7196 password: 123555
+  
+  Title: Choosing points on cubic plane curves 
+  
+  Abstract: It is a classical topic to study structures of certain special points on
+  smooth complex cubic plane curves, for example, the 9 flex points and the 27 sextactic
+  points. We consider the following topological question asked by Farb: Is it true 
+  that the known algebraic structures give all the possible ways to continuously 
+  choose n distinct points on every smooth cubic plane curve, for each given integer
+  n? This work is joint with Ishan Banerjee.
+  
+ [Poster] 
 
 - Apr. 28 2022, [Fangzhou Jin](https://fangzhoujin.github.io/), Tongji University
 
