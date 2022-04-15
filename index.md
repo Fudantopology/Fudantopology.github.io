@@ -166,7 +166,7 @@
   choose n distinct points on every smooth cubic plane curve, for each given integer
   n? This work is joint with Ishan Banerjee.
   
- [Poster] 
+ [Poster]() 
 
 - Apr. 28 2022, [Fangzhou Jin](https://fangzhoujin.github.io/), Tongji University
 
