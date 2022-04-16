@@ -7,6 +7,7 @@
 - Mar. 03 2022, [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/) Peking University
 
       Time: 15:00 - 17:00
+      
       Tencent room：861-8661-7196 password: 123555
 
      
@@ -29,6 +30,7 @@
 - Mar. 10 2022, [Martin  Palmer](https://mdp.ac/) Mathematical Institute of the Romanian Academy
  
       Time: 15:00-17:00
+      
       Zoom Id: 646 617 8889  password: 123456wu
     
       Title: Mapping class group representations via Heisenberg, Schrödinger and 
@@ -74,6 +76,7 @@
 - Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
 
        Time: 15:00 - 17:00
+       
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
        Title: An exhaustion of the sphere complex by finite rigid sets
@@ -93,6 +96,7 @@
 - Mar. 31 2022，[Bruno Martelli](https://people.dm.unipi.it/martelli/) University of Pisa
 
        Time: 15:00 - 17:00
+       
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
        Title: Fibrations on higher-dimensional hyperbolic manifolds
@@ -116,6 +120,7 @@
 - Apr. 07 2022,  [John R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
 
        Time: 15:00 - 17:00
+       
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
        Title: Complex hyperbolic lattices
@@ -166,7 +171,7 @@
   choose n distinct points on every smooth cubic plane curve, for each given integer
   n? This work is joint with Ishan Banerjee.
   
- [Poster]() 
+ [Poster](https://scms.fudan.edu.cn/info/3424/4941.htm) 
 
 - Apr. 28 2022, [Fangzhou Jin](https://fangzhoujin.github.io/), Tongji University
 
