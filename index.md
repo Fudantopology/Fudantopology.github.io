@@ -119,19 +119,19 @@
 
 - Apr. 07 2022,  [John R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
 
-       Time: 15:00 - 17:00
+     Time: 15:00 - 17:00
        
-       Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
+     Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
        
-       Title: Complex hyperbolic lattices
+     Title: Complex hyperbolic lattices
        
-       Abstract: I will give a survey on recent results about complex hyperbolic lattices. 
-       A lattice in a Lie group is a discrete subgroup whose quotient has finite Haar measure.
-       In this talk I will concentrate on the Lie group SU(n,1), often restricting to the case 
-       where n=2. Elements of this group act as holomorphic isometries of complex hyperbolic 
-       space. Roughly speaking, there are four methods of constructing complex hyperbolic 
-       lattices. I will discuss how these are related, with particular emphasis on a family 
-       of non-arithmetic lattices.
+     Abstract: I will give a survey on recent results about complex hyperbolic lattices. 
+     A lattice in a Lie group is a discrete subgroup whose quotient has finite Haar measure.
+     In this talk I will concentrate on the Lie group SU(n,1), often restricting to the case 
+     where n=2. Elements of this group act as holomorphic isometries of complex hyperbolic 
+     space. Roughly speaking, there are four methods of constructing complex hyperbolic 
+     lattices. I will discuss how these are related, with particular emphasis on a family 
+     of non-arithmetic lattices.
       
      [Poster](https://math.fudan.edu.cn/_upload/article/files/37/f6/f500b15c480b999d6e35c2bd9bda/c3adf7b4-a77b-460a-b9df-0e11782c23dd.pdf)
 
