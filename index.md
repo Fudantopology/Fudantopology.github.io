@@ -177,7 +177,7 @@
 
 - May 05 2022, [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
 
-- May 12 2022
+- May 12 2022 [Inheok Choi](https://inhyeokchoi48.github.io/), KAIST.
 
 - May 19 2022
 
