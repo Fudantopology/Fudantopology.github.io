@@ -179,7 +179,7 @@
 
 - May 12 2022 [Inheok Choi](https://inhyeokchoi48.github.io/), KAIST.
 
-- May 19 2022
+- May 19 2022 Hao Liang, Sun Yat-sen University
 
 - May 26 2022
 
