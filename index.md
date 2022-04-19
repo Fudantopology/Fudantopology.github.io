@@ -181,6 +181,21 @@
 
 - May 19 2022 Hao Liang, Sun Yat-sen University
 
+       Time: 15:00-17:00
+  
+       Place:
+
+       Title: Homomorphisms to 3-manifold groups 
+
+       Abstract: Following Sela's theory of limit groups (of free group), we define
+       and study limit groups of compact 3-manifold groups. We show that the family 
+       of compact 3-manifold groups are equationally noetherian, which answers a 
+       question of Agol and Liu.  The main application of our result is to give a 
+       positive answer to a question of Reid, Wang and Zhou about epimorphism 
+       sequence of closed orientable aspherical 3-manifold groups. This is joint work
+       with Daniel Groves and Michael Hull.
+
+
 - May 26 2022
 
 - Jun. 02 2022, [Yi Jiang](https://ymsc.tsinghua.edu.cn/info/1033/2391.htm), Tsinghua University
