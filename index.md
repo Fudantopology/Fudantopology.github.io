@@ -179,6 +179,29 @@
 
 - May 12 2022 [Inheok Choi](https://inhyeokchoi48.github.io/), KAIST.
 
+       Time: 15:00 - 17:00
+       
+       Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
+       
+       Title: Typical behavior of random mapping classes and outer automorphisms
+       
+       Abstract: Random walks on spaces that manifest hyperbolic properties
+       have been studied for decades, as a means to investigate the structure of
+       the isometry groups of such spaces. Notable results in this topic include
+       descriptions of generic random isometries and limit laws for displacements
+       and translation lengths. A recent technique called the pivoting technique
+       led to further elaborations in these directions. In this talk, I will describe
+       properties of generic random isometries of Teichmuller space or Outer
+       space. Namely, generic mapping classes are principal pseudo-Anosovs that
+       make displacements with many contracting subsegments. This frequently
+       contracting property is shared with generic outer automorphisms, which
+       are ageometric fully irreducibles and whose expansion factors differ from
+       their inverses'. If time permits, I will explain how this description is related
+       to (1) Qing-Rafi's sublinearly Mosre boundaries and (2) limit laws for
+       random 3-manifolds.
+
+   [Poster](https://scms.fudan.edu.cn/info/3424/4942.htm)
+
 - May 19 2022 Hao Liang, Sun Yat-sen University
 
        Time: 15:00-17:00
