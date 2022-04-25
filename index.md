@@ -173,7 +173,7 @@
   
  [Poster](https://scms.fudan.edu.cn/info/3424/4941.htm) 
 
-- Apr. 28 2022, [Fangzhou Jin](https://fangzhoujin.github.io/), Tongji University
+- Apr. 28 2022, [Fangzhou Jin](https://fangzhoujin.github.io/), Tongji University (Postponed)
 
 - May 05 2022, [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
 
