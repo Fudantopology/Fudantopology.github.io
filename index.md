@@ -177,6 +177,23 @@
 
 - May 05 2022, [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
 
+        Time: 15:00 - 17:00
+       
+       Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
+
+       Title: Cohomological properties of Mackey functors for totally disconnected locally compact groups
+   
+       Abstract: Mackey functors for finite groups are well understood. In the early
+       2000s this was extended to infinite discrete groups, and their cohomological 
+       finiteness conditions have been expressed in terms of relative cohomology and 
+       finiteness conditions of          classifying spaces for proper actions. In 
+       this talk I will indicate how one can extend the definition to totally 
+       disconnected groups, and will indicate some of the obstacles encountered 
+       here. This is ongoing work with Ilaria Castellano and Nadia Mazza.           
+
+    [Poster]()
+    
+
 - May 12 2022 [Inheok Choi](https://inhyeokchoi48.github.io/), KAIST.
 
        Time: 15:00 - 17:00
