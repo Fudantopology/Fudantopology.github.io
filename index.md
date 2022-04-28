@@ -181,7 +181,8 @@
        
        Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
 
-       Title: Cohomological properties of Mackey functors for totally disconnected locally compact groups
+       Title: Cohomological properties of Mackey functors for totally disconnected
+       locally compact groups
    
        Abstract: Mackey functors for finite groups are well understood. In the early
        2000s this was extended to infinite discrete groups, and their cohomological 
