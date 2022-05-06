@@ -240,7 +240,7 @@
 
 - Jun. 02 2022, [Yi Jiang](https://ymsc.tsinghua.edu.cn/info/1033/2391.htm), Tsinghua University
 
-- Jun. 09 2022. [Bin Sun](https://sites.google.com/view/binsun/), Oxford University
+- Jun. 09 2022, [Bin Sun](https://sites.google.com/view/binsun/), Oxford University
       
 ## Fall 2021 Schedule   
 - Dec. 30 2021, [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) Chinese Academy of Sciences
