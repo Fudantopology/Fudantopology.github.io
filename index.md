@@ -223,7 +223,7 @@
 
        Time: 15:00-17:00
   
-       Place:
+       Tencent room：861-8661-7196 password: 123555
 
        Title: Homomorphisms to 3-manifold groups 
 
