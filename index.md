@@ -236,7 +236,7 @@
        with Daniel Groves and Michael Hull.
 
 
-- May 26 2022
+- May 26 2022, NO Talk due to [University Anniversary](https://scms.fudan.edu.cn/info/3427/4956.htm)
 
 - Jun. 02 2022, [Yi Jiang](https://ymsc.tsinghua.edu.cn/info/1033/2391.htm), Tsinghua University
 
