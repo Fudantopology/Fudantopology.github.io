@@ -235,7 +235,7 @@
        sequence of closed orientable aspherical 3-manifold groups. This is joint work
        with Daniel Groves and Michael Hull.
        
-[Poster](https://math.fudan.edu.cn/_upload/article/files/70/d4/8c88baff4927b82b75091813d905/82ccdfdb-2d89-4bce-97f8-9c2ace327966.pdf)
+      [Poster](https://math.fudan.edu.cn/_upload/article/files/70/d4/8c88baff4927b82b75091813d905/82ccdfdb-2d89-4bce-97f8-9c2ace327966.pdf)
 
 
 - May 26 2022, NO Talk due to [University Anniversary](https://scms.fudan.edu.cn/info/3427/4956.htm)
@@ -256,7 +256,7 @@
       nonnegatively curved metrics on open manifolds. This is joint work with
       Mauricio Bustamante and Francis Thomas Farrell.
       
- [Poster]()     
+     [Poster]()     
       
 
 
