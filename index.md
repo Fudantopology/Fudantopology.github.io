@@ -234,13 +234,41 @@
        positive answer to a question of Reid, Wang and Zhou about epimorphism 
        sequence of closed orientable aspherical 3-manifold groups. This is joint work
        with Daniel Groves and Michael Hull.
+       
+[Poster](https://math.fudan.edu.cn/_upload/article/files/70/d4/8c88baff4927b82b75091813d905/82ccdfdb-2d89-4bce-97f8-9c2ace327966.pdf)
 
 
 - May 26 2022, NO Talk due to [University Anniversary](https://scms.fudan.edu.cn/info/3427/4956.htm)
 
+
 - Jun. 02 2022, [Yi Jiang](https://ymsc.tsinghua.edu.cn/info/1033/2391.htm), Tsinghua University
+  
+      Time: 15:00-17:00
+  
+      Tencent room：861-8661-7196 password: 123555
+      
+      Title: Involution on pseudoisotopy spaces
+      
+      Abstract: The involution on pseudoisotopy spaces is closely related to the 
+      homotopy type of the diffeomorphism group of a smooth compact manifold. In
+      this talk, we will introduce some background, a result on computing the 
+      involution on pseudoisotopy spaces and its application to space of 
+      nonnegatively curved metrics on open manifolds. This is joint work with
+      Mauricio Bustamante and Francis Thomas Farrell.
+      
+ [Poster]()     
+      
+
 
 - Jun. 09 2022, [Bin Sun](https://sites.google.com/view/binsun/), Oxford University
+
+  Time: 15:00 - 17:00
+       
+  Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
+  
+  Title: TBA
+  
+  Abstract: TBA
       
 ## Fall 2021 Schedule   
 - Dec. 30 2021, [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) Chinese Academy of Sciences
