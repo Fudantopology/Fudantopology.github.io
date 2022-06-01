@@ -262,13 +262,18 @@
 
 - Jun. 09 2022, [Bin Sun](https://sites.google.com/view/binsun/), Oxford University
 
-  Time: 15:00 - 17:00
+     Time: 15:00 - 17:00
        
-  Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
+     Zoom Meeting ID: 956 0945 4208 Passcode: hyperbolic
   
-  Title: TBA
+     Title: Generalized wreath products and rigidity of their von Neumann algebras
   
-  Abstract: TBA
+     Abstract: We construct the first positive examples to the Connes’ Rigidity 
+     Conjecture, i.e., we construct groups G with Kazhdan’s property (T) such 
+     that if H is a group with the same von Neumann algebra as G, then H is isomorphic
+     to G. In this talk, I will focus on the group theoretic side of this result
+     and talk about how we applied geometric group theory to solve problems from 
+     von Neumann algebra.
       
 ## Fall 2021 Schedule   
 - Dec. 30 2021, [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) Chinese Academy of Sciences
