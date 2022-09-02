@@ -3,17 +3,54 @@
 ## Fall 2022 Schedule 
 
 
-- Mar. 03 2022, [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/) Peking University
+- Sep. 15 2022, [Fangzhou Jin]([https://bicmr.pku.edu.cn/~wyang/](https://fangzhoujin.github.io/)) Tongji University
+       Time: 13:30 - 15:30
+       Place: TBA
        
 
 
 
+- Sep. 22 2022
+
+
+- Sep. 29 2022
+
+
+- Oct. 13 2022
+
+
+- Oct. 20 2022
+
+
+- Oct. 27 2022
+
+
+- Nov. 3 2022
+
+
+- Nov. 10 2022
+
+
+- Nov. 17 2022
+
+
+- Nov. 24 2022
 
 
 
+- Dec. 1 2022
 
 
+- Dec. 8 2022
 
+
+- Dec. 15 2022
+
+
+- Dec. 22 2022
+
+
+- Dec. 30 2022
 
 
 ## Spring 2022 Schedule   
