@@ -15,7 +15,11 @@
 - Sep. 22 2022
 
 
-- Sep. 29 2022
+- Sep. 29 2022, [Heng Xie](https://sites.google.com/site/xieheng16/), Sun-Yat sen University
+-
+        Time: 13:30 - 15:30
+       
+        Place: TBA  
 
 
 - Oct. 13 2022
