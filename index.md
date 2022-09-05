@@ -14,6 +14,10 @@
 
 - Sep. 22 2022 [Andrea Bianchi](https://andreabianchi.sites.ku.dk/), University of Copenhagen
 
+        Time: 13:30 - 15:30
+       
+        Place: TBA  
+        
 
 - Sep. 29 2022, [Heng Xie](https://sites.google.com/site/xieheng16/), Sun-Yat sen University
 
@@ -51,6 +55,11 @@
 
 
 - Dec. 15 2022 [Giles Gardam](https://www.gilesgardam.com/), University of Münster
+
+
+        Time: 13:30 - 15:30
+       
+        Place: TBA  
 
 
 - Dec. 22 2022
