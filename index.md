@@ -9,6 +9,11 @@
        
        Place: TBA
        
+       Title: Milnor-Witt cycle modules and perverse homotopy heart
+
+       Abstract: We define Milnor-Witt cycle modules over a base scheme and study the relations
+       with the perverse homotopy t-structure. This is a joint work with F. Déglise and N. Feld.
+       
 
 
 
