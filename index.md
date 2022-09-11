@@ -31,7 +31,7 @@
         Place: TBA  
 
 
-- Oct. 13 2022,[Gabriel Pallier](http://pallier.org/gabriel/), Sorbonne Université
+- Oct. 13 2022, [Gabriel Pallier](http://pallier.org/gabriel/), Sorbonne Université
         
         Time: 13:30 - 15:30
        
@@ -89,7 +89,7 @@
 
 ## Spring 2022 Schedule   
 
-- Mar. 03 2022, [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/) Peking University
+- Mar. 03 2022, [Wenyuan Yang](https://bicmr.pku.edu.cn/~wyang/), Peking University
 
       Time: 15:00 - 17:00
       
@@ -112,7 +112,7 @@
      
      [Poster](https://scms.fudan.edu.cn/info/3424/4911.htm) 
      
-- Mar. 10 2022, [Martin  Palmer](https://mdp.ac/) Mathematical Institute of the Romanian Academy
+- Mar. 10 2022, [Martin  Palmer](https://mdp.ac/), Mathematical Institute of the Romanian Academy
  
       Time: 15:00-17:00
       
@@ -138,7 +138,7 @@
 
      [Poster](https://scms.fudan.edu.cn/info/3424/4909.htm) 
       
-- Mar. 17 2022, [Xianchang Meng](https://sites.google.com/site/xianchangmeng/) Shandong University
+- Mar. 17 2022, [Xianchang Meng](https://sites.google.com/site/xianchangmeng/), Shandong University
 
       Time: 15:00 - 17:00
       
@@ -158,7 +158,7 @@
      [Poster](https://scms.fudan.edu.cn/info/3424/4921.htm)
       
 
-- Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home) Technion – Israel Institute of Technology
+- Mar. 24 2022, [Edgar A. Bering IV](https://sites.google.com/view/edgar-a-bering-iv/home), Technion – Israel Institute of Technology
 
        Time: 15:00 - 17:00
        
@@ -178,7 +178,7 @@
        
      [Poster](https://scms.fudan.edu.cn/info/3424/4925.htm)  
 
-- Mar. 31 2022，[Bruno Martelli](https://people.dm.unipi.it/martelli/) University of Pisa
+- Mar. 31 2022，[Bruno Martelli](https://people.dm.unipi.it/martelli/), University of Pisa
 
        Time: 15:00 - 17:00
        
@@ -202,7 +202,7 @@
        
      [Poster](https://math.fudan.edu.cn/_upload/article/files/28/eb/417164b74e399ed75b30b353e2cf/83cb1276-a9a0-4bf7-ace5-51bde3cb2803.pdf)
 
-- Apr. 07 2022,  [John R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/) Durham University
+- Apr. 07 2022,  [John R. Parker](https://www.maths.dur.ac.uk/users/j.r.parker/), Durham University
 
      Time: 15:00 - 17:00
        
@@ -260,7 +260,7 @@
 
 - Apr. 28 2022, [Fangzhou Jin](https://fangzhoujin.github.io/), Tongji University (Postponed)
 
-- May 05 2022, [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) Royal Holloway, University of London
+- May 05 2022, [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/), Royal Holloway, University of London
 
         Time: 15:00 - 17:00
        
@@ -341,7 +341,7 @@
       nonnegatively curved metrics on open manifolds. This is joint work with
       Mauricio Bustamante and Francis Thomas Farrell.
       
-     [Poster]()     
+     [Poster](https://scms.fudan.edu.cn/info/3424/4972.htm)     
       
 
 
@@ -359,6 +359,8 @@
      to G. In this talk, I will focus on the group theoretic side of this result
      and talk about how we applied geometric group theory to solve problems from 
      von Neumann algebra.
+     
+        [Poster](https://scms.fudan.edu.cn/info/3424/4997.htm)   
       
 ## Fall 2021 Schedule   
 - Dec. 30 2021, [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) Chinese Academy of Sciences
