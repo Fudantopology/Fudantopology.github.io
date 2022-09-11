@@ -31,14 +31,28 @@
         Place: TBA  
 
 
-- Oct. 13 2022
+- Oct. 13 2022,[Gabriel Pallier](http://pallier.org/gabriel/), Sorbonne Université
+        
+        Time: 13:30 - 15:30
+       
+        Place: TBA  
 
 
-- Oct. 20 2022
+- Oct. 20 2022, [Indira Chatterji](http://chatterj.perso.math.cnrs.fr/index.html), Universit´e de Nice
 
-
-- Oct. 27 2022
-
+        Time: 13:30 - 15:30
+       
+        Place: TBA  
+   
+   
+- Oct. 27 2022, [Ilya Gekhtman](), Technion in Haifa
+      
+        Time: 13:30 - 15:30
+       
+        Place: TBA  
+        
+        Title: Martin boundary covers Floyd boundary
+        Abstract:
 
 - Nov. 3 2022
 
