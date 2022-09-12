@@ -17,7 +17,7 @@
 
 
 
-- Sep. 22 2022 [Andrea Bianchi](https://andreabianchi.sites.ku.dk/), University of Copenhagen
+- Sep. 22 2022， [Andrea Bianchi](https://andreabianchi.sites.ku.dk/), University of Copenhagen
 
         Time: 13:30 - 15:30
        
