@@ -70,7 +70,7 @@
        Place: TBA
 
 
-- Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk)Technion -- Israel Institute of Technology
+- Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk), Technion -- Israel Institute of Technology
 
        Time: TBA
        
