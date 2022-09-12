@@ -7,7 +7,7 @@
 
        Time: 13:30 - 15:30
        
-       Place: 光华东主楼 2201
+       Place: Guahuang Tower East Main Building 2201
        
        Title: Milnor-Witt cycle modules and perverse homotopy heart
 
