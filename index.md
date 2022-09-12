@@ -31,7 +31,7 @@
         Place: TBA  
         
         
-- Oct. 6 2022, NO TALK, National holiday.
+- Oct. 6 2022, NO TALK due to National holiday.
 
 
 - Oct. 13 2022, [Gabriel Pallier](http://pallier.org/gabriel/), Sorbonne Université
