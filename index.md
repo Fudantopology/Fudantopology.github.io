@@ -29,6 +29,9 @@
         Time: 13:30 - 15:30
        
         Place: TBA  
+        
+        
+- Oct. 6 2022, NO TALK, National holiday.
 
 
 - Oct. 13 2022, [Gabriel Pallier](http://pallier.org/gabriel/), Sorbonne Université
@@ -43,24 +46,38 @@
         Time: 13:30 - 15:30
        
         Place: TBA  
+        
+        Title: Median geometry for spaces with measured walls and for groups
+        
+        Abstract: TBA
    
    
-- Oct. 27 2022, [Ilya Gekhtman](), Technion in Haifa
+- Oct. 27 2022, [Ilya Gekhtman](), Technion -- Israel Institute of Technology
       
         Time: 13:30 - 15:30
        
         Place: TBA  
         
         Title: Martin boundary covers Floyd boundary
+        
         Abstract:
 
-- Nov. 3 2022
+- Nov. 3 2022, [Marco Linton](https://warwick.ac.uk/fac/sci/maths/people/staff/linton/), University of Warwick
+ 
+       Time: TBA
+       
+       Place: TBA
 
 
-- Nov. 10 2022
+- Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk)Technion -- Israel Institute of Technology
 
 
-- Nov. 17 2022
+- Nov. 17 2022, [Merlin Incerti-Medici](https://www.merlinmedici.ch/), Karlsruhe Institute for Technology
+
+       Time: TBA
+       
+       Place: TBA
+ 
 
 
 - Nov. 24 2022
@@ -70,7 +87,11 @@
 - Dec. 1 2022
 
 
-- Dec. 8 2022
+- Dec. 8 2022, [Anythony genevois](https://sites.google.com/view/agenevois), University of Montpellier
+       
+       Time: TBA
+       
+       Place: TBA
 
 
 - Dec. 15 2022 [Giles Gardam](https://www.gilesgardam.com/), University of Münster
