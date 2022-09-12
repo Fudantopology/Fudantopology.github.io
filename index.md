@@ -72,6 +72,9 @@
 
 - Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk)Technion -- Israel Institute of Technology
 
+       Time: TBA
+       
+       Place: TBA
 
 - Nov. 17 2022, [Merlin Incerti-Medici](https://www.merlinmedici.ch/), Karlsruhe Institute for Technology
 
