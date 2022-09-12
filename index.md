@@ -37,7 +37,7 @@
 
 - Oct. 13 2022, [Gabriel Pallier](http://pallier.org/gabriel/), Sorbonne Université
         
-        Time: 13:30 - 15:30
+        Time: TBA
        
         Place: TBA  
 
