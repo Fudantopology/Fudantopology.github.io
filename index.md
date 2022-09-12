@@ -44,7 +44,7 @@
 
 - Oct. 20 2022, [Indira Chatterji](http://chatterj.perso.math.cnrs.fr/index.html), Universit´e de Nice
 
-        Time: 13:30 - 15:30
+        Time: TBA
        
         Place: TBA  
         
@@ -55,7 +55,7 @@
    
 - Oct. 27 2022, [Ilya Gekhtman](), Technion -- Israel Institute of Technology
       
-        Time: 13:30 - 15:30
+        Time: TBA
        
         Place: TBA  
         
