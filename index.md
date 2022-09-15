@@ -11,8 +11,9 @@
        
        Title: Milnor-Witt cycle modules and perverse homotopy heart
 
-       Abstract: We define Milnor-Witt cycle modules over a base scheme and study the relations
-       with the perverse homotopy t-structure. This is a joint work with F. Déglise and N. Feld.   
+       Abstract: We define Milnor-Witt cycle modules over a base scheme and study the 
+       relations with the perverse homotopy t-structure. This is a joint work with
+       F. Déglise and N. Feld.   
        
 [Poster](https://scms.fudan.edu.cn/info/3424/5114.htm)
 
@@ -24,16 +25,19 @@
         
         Title:Trivial and non-trivial actions of the Johnson filtration on the homology of configuration spaces
         
-        Abstract:Let S=S_{g,1} be a compact, connected, orientable surface of genus g with one
-        boundary curve, and let F_n(S) denote the space of ordered configurations of n distinct 
-        points in S. The homology groups H_*(F_n(S)) admit a natural action of the mapping class
-        group Mod(S)=pi_0(Diff_+(S,dS)), and we are broadly interested in what kind of 
-        representations of Mod(S) arise in this way; in particular, how trivial/non-trivial
-        the action of Mod(S) is. We consider the Johnson filtration on Mod(S) by subgroups
+        Abstract:Let S=S_{g,1} be a compact, connected, orientable surface of genus g
+        with one boundary curve, and let F_n(S) denote the space of ordered 
+        configurations of n distinct points in S. The homology groups H_*(F_n(S)) 
+        admit a natural action of the mapping class group Mod(S)=pi_0(Diff_+(S,dS)),
+        and we are broadly interested in what kind of representations of Mod(S) arise 
+        in this way; in particular, how trivial/non-trivial the action of Mod(S) is.
+        We consider the Johnson filtration on Mod(S) by subgroups
         J(0)>J(1)>...>J(i)>..., for i>=0. We will compare the following results:
-        1) (joint with J.Miller and J.Wilson) J(i) acts trivially on H_*(F_n(S)) for i>=n;
-        2) 2) (joint with A.Stavrou) If g>=2, J(n-1) acts non-trivially on H_n(F_n(S)).
-        3) I will discuss the main ideas of the proofs, and I will conclude with a conjecture.
+        1) (joint with J.Miller and J.Wilson) J(i) acts trivially on H_*(F_n(S)) for
+         i>=n;
+        2) (joint with A.Stavrou) If g>=2, J(n-1) acts non-trivially on H_n(F_n(S)).
+        3) I will discuss the main ideas of the proofs, and I will conclude with a 
+        conjecture.
 
         
         
