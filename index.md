@@ -23,7 +23,8 @@
        
         Place: Zoom
         
-        Title:Trivial and non-trivial actions of the Johnson filtration on the homology of configuration spaces
+        Title:Trivial and non-trivial actions of the Johnson filtration on the homology
+        of configuration spaces
         
         Abstract:Let S=S_{g,1} be a compact, connected, orientable surface of genus g
         with one boundary curve, and let F_n(S) denote the space of ordered 
