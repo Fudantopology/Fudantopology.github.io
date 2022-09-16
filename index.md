@@ -21,7 +21,7 @@
 
         Time: 13:30 - 15:30
        
-        Place: Zoom
+        Zoom Id: 853 0188 1524  password: Fudan2022
         
         Title:Trivial and non-trivial actions of the Johnson filtration on the homology
         of configuration spaces
