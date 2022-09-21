@@ -48,7 +48,20 @@
 
         Time: 13:30 - 15:30
        
-        Place: TBA  
+        Zoom Id: 853 0188 1524  password: Fudan2022 
+        
+        Title: The real cycle class map and its applications
+        
+        Abstract:What is the singular cohomology in algebraic geometry? Classically,
+        for smooth varieties X over complex numbers, there are cycle class maps 
+        from Chow groups to singular cohomology. For smooth varieties X over real
+        numbers, I will construct a real cycle class map from I-cohomology to 
+        singular cohomology and show that the real cycle class is compatible with 
+        pullbacks, pushforwards, and intersection products. These results are proved 
+        in a joint work with J. Hornbostel, M. Wendt, and M. Zibrowius. Together with
+        F. Jin, we generalize the real cycle class map construction from smooth
+        varieties to singular varieties. I will discuss some applications of the real
+        cycle class map.
         
         
 - Oct. 6 2022, NO TALK due to National holiday.
@@ -113,14 +126,18 @@
 
 
 
-- Dec. 1 2022
+- Dec. 1 2022. [Julien Paupert](), Arizona State University
+     
+       Time:  10：00-11：00 (Special Time)
+       
+       Zoom:
 
 
 - Dec. 8 2022, [Anythony genevois](https://sites.google.com/view/agenevois), University of Montpellier
-       
+     
        Time: TBA
        
-       Place: TBA
+       Place: Zoom
 
 
 - Dec. 15 2022 [Giles Gardam](https://www.gilesgardam.com/), University of Münster
