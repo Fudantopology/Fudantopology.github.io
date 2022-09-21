@@ -126,7 +126,7 @@
 
 
 
-- Dec. 1 2022. [Julien Paupert](), Arizona State University
+- Dec. 1 2022. [Julien Paupert](https://math.la.asu.edu/~paupert/research.html), Arizona State University
      
        Time:  10：00-11：00 (Special Time)
        
