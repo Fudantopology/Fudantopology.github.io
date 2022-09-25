@@ -72,7 +72,20 @@
         
         Time: TBA
        
-        Place: TBA  
+        Zoom Id: 853 0188 1524  password: Fudan2022 
+        
+        Title: Lie groups with a small space of metric structures
+
+        Abstract: In this talk we will consider a family of solvable, non-nilpotent
+        Lie groups, including the three-dimensional group SOL. On such a group, any
+        pair of left-invariant Riemannian metrics are found to be roughly similar:
+        after multiplying one of them by a suitable multiplicative constant, they
+        will differ by at most a bounded amount. This allows one to reformulate
+        various earlier results about the quasiisometries of these groups in a 
+        common framework. I will compare this result with a recent theorem of
+        Oregon-Reyes, giving an opposite conclusion when considering non-elementary
+        word-hyperbolic groups: the latter are found to have large spaces of metric 
+        structures. Joint work with Enrico Le Donne and Xiangdong Xie.
 
 
 - Oct. 20 2022, [Indira Chatterji](http://chatterj.perso.math.cnrs.fr/index.html), Universit´e de Nice
@@ -117,7 +130,7 @@
  
 
 
-- Nov. 24 2022, [Richard Webb](https://www.research.manchester.ac.uk/portal/richard.webb.html), The University of Manchester
+- Nov. 24 2022, TBA
       
        Time: TBA
        
