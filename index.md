@@ -15,7 +15,7 @@
        relations with the perverse homotopy t-structure. This is a joint work with
        F. Déglise and N. Feld.   
        
-[Poster](https://scms.fudan.edu.cn/info/3424/5114.htm)
+      [Poster](https://scms.fudan.edu.cn/info/3424/5114.htm)
 
 - Sep. 22 2022， [Andrea Bianchi](https://andreabianchi.sites.ku.dk/), University of Copenhagen
 
@@ -41,7 +41,7 @@
         conjecture.
 
    
-   [Poster](https://scms.fudan.edu.cn/info/3424/5116.htm)     
+       [Poster](https://scms.fudan.edu.cn/info/3424/5116.htm)     
         
 
 - Sep. 29 2022, [Heng Xie](https://sites.google.com/site/xieheng16/), Sun-Yat sen University
@@ -63,7 +63,7 @@
         varieties to singular varieties. I will discuss some applications of the real
         cycle class map.
         
-  [Poster](https://scms.fudan.edu.cn/info/3424/5119.htm)    
+       [Poster](https://scms.fudan.edu.cn/info/3424/5119.htm)    
         
 - Oct. 6 2022, NO TALK due to National holiday.
 
