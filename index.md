@@ -40,8 +40,8 @@
         3) I will discuss the main ideas of the proofs, and I will conclude with a 
         conjecture.
 
-        
-        
+   
+   [Poster](https://scms.fudan.edu.cn/info/3424/5116.htm)     
         
 
 - Sep. 29 2022, [Heng Xie](https://sites.google.com/site/xieheng16/), Sun-Yat sen University
@@ -63,6 +63,7 @@
         varieties to singular varieties. I will discuss some applications of the real
         cycle class map.
         
+  [Poster](https://scms.fudan.edu.cn/info/3424/5119.htm)    
         
 - Oct. 6 2022, NO TALK due to National holiday.
 
