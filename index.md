@@ -71,7 +71,7 @@
 
 - Oct. 13 2022, [Gabriel Pallier](http://pallier.org/gabriel/), Sorbonne Université
         
-        Time: TBA
+        Time: 14:30-15:30
        
         Zoom Id: 853 0188 1524  password: Fudan2022 
         
