@@ -165,8 +165,6 @@
 - Dec. 22 2022
 
 
-- Dec. 30 2022
-
 
 ## Spring 2022 Schedule   
 
