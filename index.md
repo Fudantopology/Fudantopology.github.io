@@ -63,7 +63,7 @@
         varieties to singular varieties. I will discuss some applications of the real
         cycle class map.
         
-       [Poster](https://scms.fudan.edu.cn/info/3424/5119.htm)    
+     [Poster](https://scms.fudan.edu.cn/info/3424/5119.htm)    
         
 - Oct. 6 2022, NO TALK due to National holiday.
 
@@ -87,7 +87,8 @@
         Oregon-Reyes, giving an opposite conclusion when considering non-elementary
         word-hyperbolic groups: the latter are found to have large spaces of metric 
         structures. Joint work with Enrico Le Donne and Xiangdong Xie.
-
+ 
+     [Poster](https://scms.fudan.edu.cn/info/3424/5132.htm)   
 
 - Oct. 20 2022, [Indira Chatterji](http://chatterj.perso.math.cnrs.fr/index.html), Universit´e de Nice
 
