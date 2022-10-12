@@ -94,7 +94,7 @@
 
         Time: 15:00 - 17:00
        
-        Place: TBA  
+        Zoom Id: 853 0188 1524  password: Fudan2022  
         
         Title: Median geometry for spaces with measured walls and for groups
         
@@ -105,7 +105,7 @@
       
         Time: TBA
        
-        Place: TBA  
+        Zoom Id: 853 0188 1524  password: Fudan2022 
         
         Title: Martin boundary covers Floyd boundary
         
@@ -115,20 +115,20 @@
  
        Time: TBA
        
-       Place: TBA
+       Zoom Id: 853 0188 1524  password: Fudan2022
 
 
 - Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk), Technion -- Israel Institute of Technology
 
        Time: TBA
        
-       Place: TBA
+       Zoom Id: 853 0188 1524  password: Fudan2022
 
 - Nov. 17 2022, [Merlin Incerti-Medici](https://www.merlinmedici.ch/), Karlsruhe Institute for Technology
 
        Time: TBA
        
-       Place: TBA
+       Zoom Id: 853 0188 1524  password: Fudan2022
  
 
 
@@ -136,7 +136,7 @@
       
        Time: TBA
        
-       Place: TBA
+       Zoom Id: 853 0188 1524  password: Fudan2022
  
 
 
@@ -145,14 +145,14 @@
      
        Time:  10：00-11：00 (Special Time)
        
-       Zoom:
+       Zoom Id: 853 0188 1524  password: Fudan2022
 
 
 - Dec. 8 2022, [Anythony genevois](https://sites.google.com/view/agenevois), University of Montpellier
      
        Time: TBA
        
-       Place: Zoom
+       Zoom Id: 853 0188 1524  password: Fudan2022
 
 
 - Dec. 15 2022 [Giles Gardam](https://www.gilesgardam.com/), University of Münster
@@ -160,7 +160,7 @@
 
         Time: 13:30 - 15:30
        
-        Place: TBA  
+        Zoom Id: 853 0188 1524  password: Fudan2022  
 
 
 - Dec. 22 2022
