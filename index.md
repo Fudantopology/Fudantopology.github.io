@@ -92,7 +92,7 @@
 
 - Oct. 20 2022, [Indira Chatterji](http://chatterj.perso.math.cnrs.fr/index.html), Universit´e de Nice
 
-        Time: TBA
+        Time: 15:00 - 17:00
        
         Place: TBA  
         
