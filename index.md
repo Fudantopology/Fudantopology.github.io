@@ -96,9 +96,17 @@
        
         Zoom Id: 853 0188 1524  password: Fudan2022  
         
-        Title: Median geometry for spaces with measured walls and for groups
+        Title: Median geometry and Hyperbolicity
         
-        Abstract: TBA
+        Abstract: In this project we provide a geometric characterization of spaces with 
+        measured walls that embed isometrically into median metric spaces, so that the 
+        embedded image is at finite Hausdorff distance from the target median space. 
+        Products of real hyperbolic spaces satisfy this geometric property, moreover the
+        corresponding median space is locally compact. As a result, uniform lattices of 
+        isometries of such products act properly discontinuously cocompactly on median 
+        spaces. These lattices are not cubulable. We explain why complex hyperbolic metric 
+        spaces, when endowed with the only known structure of space with measured walls, 
+        cannot be at finite Hausdorff distance from a median metric space.
    
    
 - Oct. 27 2022, [Ilya Gekhtman](), Technion -- Israel Institute of Technology
