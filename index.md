@@ -364,7 +364,7 @@
        disconnected groups, and will indicate some of the obstacles encountered 
        here. This is ongoing work with Ilaria Castellano and Nadia Mazza.           
 
-    [Poster]()
+    [Poster](https://scms.fudan.edu.cn/info/3424/4953.htm)
     
 
 - May 12 2022 [Inheok Choi](https://inhyeokchoi48.github.io/), KAIST.
@@ -408,7 +408,7 @@
        sequence of closed orientable aspherical 3-manifold groups. This is joint work
        with Daniel Groves and Michael Hull.
        
-      [Poster](https://math.fudan.edu.cn/_upload/article/files/70/d4/8c88baff4927b82b75091813d905/82ccdfdb-2d89-4bce-97f8-9c2ace327966.pdf)
+     [Poster](https://math.fudan.edu.cn/_upload/article/files/70/d4/8c88baff4927b82b75091813d905/82ccdfdb-2d89-4bce-97f8-9c2ace327966.pdf)
 
 
 - May 26 2022, NO Talk due to [University Anniversary](https://scms.fudan.edu.cn/info/3427/4956.htm)
@@ -448,7 +448,7 @@
      and talk about how we applied geometric group theory to solve problems from 
      von Neumann algebra.
      
-        [Poster](https://scms.fudan.edu.cn/info/3424/4997.htm)   
+     [Poster](https://scms.fudan.edu.cn/info/3424/4997.htm)   
       
 ## Fall 2021 Schedule   
 - Dec. 30 2021, [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html) Chinese Academy of Sciences
