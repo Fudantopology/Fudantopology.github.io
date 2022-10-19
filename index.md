@@ -98,15 +98,10 @@
         
         Title: Median geometry and Hyperbolicity
         
-        Abstract: In this project we provide a geometric characterization of spaces with 
-        measured walls that embed isometrically into median metric spaces, so that the 
-        embedded image is at finite Hausdorff distance from the target median space. 
-        Products of real hyperbolic spaces satisfy this geometric property, moreover the
-        corresponding median space is locally compact. As a result, uniform lattices of 
-        isometries of such products act properly discontinuously cocompactly on median 
-        spaces. These lattices are not cubulable. We explain why complex hyperbolic metric 
-        spaces, when endowed with the only known structure of space with measured walls, 
-        cannot be at finite Hausdorff distance from a median metric space.
+        Abstract: I will be discussing triangles in metric spaces, and how 
+        informations on triangles can give informations on algebraic properties
+        of a cocompact group of isometries of the metric space. This talk will
+        be accessible to non-spacialists.
    
    
 - Oct. 27 2022, [Ilya Gekhtman](), Technion -- Israel Institute of Technology
