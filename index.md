@@ -103,16 +103,49 @@
         of a cocompact group of isometries of the metric space. This talk will
         be accessible to non-spacialists.
    
+     [Poster](https://scms.fudan.edu.cn/info/3424/5383.htm)
    
 - Oct. 27 2022, [Ilya Gekhtman](), Technion -- Israel Institute of Technology
       
-        Time: TBA
+        Time: 15:00 - 17:00
        
         Zoom Id: 853 0188 1524  password: Fudan2022 
         
-        Title: Martin boundary covers Floyd boundary
+        Title: Martin, Floyd and Bowditch boundaries of relatively hyperbolic groups
         
-        Abstract:
+        Abstract: Consider a transient random walk on a countable group $G$. The 
+        Green distance between two points in the group is defined to be minus the
+        boundary of the probability that a random path starting at the first point
+        ever reaches the second. The Martin compactification of the random walk is 
+        a topological space defined to be the horofunction boundary of the Green 
+        distance. It is a topological model for the Poisson boundary.
+        
+       The Martin boundary typically heavily depends on the random walk; it is thus
+       exciting when for some large class of random walks, the Martin boundary is 
+       equivariantly homeomorphic to some well known geometric boundary of the group.
+       Ancona showed in 1988 that this is the case for finitely supported random walks
+       on hyperbolic groups: the Martin boundary is identified with the Gromov boundary.
+       
+       We generalize Ancona's results to relatively hyperbolic groups: the Martin boundary
+       equivariantly continuously surjects onto the Gromov boundary of any hyperbolic space
+       on which the group acts geometrically finitely (called the Bowditch boundary), and 
+       the preimage of any conical limit point is a singleton. When the parabolic subgroups 
+       are virtually abelian (e.g. for Kleinian groups) we show that the preimage of a parabolic 
+       fixed point is a sphere of appropriate dimension, so the Martin boundary can be identified
+       with a Sierpinski carpet. A major technical tool is a generalization of a deviation
+       inequality due to Ancona saying the Green distance is nearly additive along word geodesics, 
+       which has various other applications, including to comparing harmonic and Patterson-Sullivan 
+       measures for negatively curved manifolds and to local limit theorems for random walks.
+       
+      We do all this using an intermediate construction called the Floyd metric obtaining by 
+      suitably rescaling the Cayley graph and considering the associated completion called 
+      the Floyd compactification. We show that for any finitely supported random walk on a 
+      finitely generated group, the Martin boundary surjects to the Floyd boundary, which 
+      in turn by work of Gerasimov covers the Bowditch boundary of relatively hyperbolic 
+      groups. This is based on several joint works with subsets of Dussaule, Gerasimov, 
+      Potyagailo, and Yang.    
+    
+   [Poster](https://scms.fudan.edu.cn/info/3424/5399.htm)
 
 - Nov. 3 2022, [Marco Linton](https://warwick.ac.uk/fac/sci/maths/people/staff/linton/), University of Warwick
  
