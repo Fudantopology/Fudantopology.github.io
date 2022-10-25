@@ -168,9 +168,9 @@
  
 
 
-- Nov. 24 2022, TBA
+- Nov. 24 2022, Reid Monroe Harris, The Chinese University of Hong Kong,Shenzhen
       
-       Time: TBA
+       Time: 13:30 - 15:30
        
        Zoom Id: 853 0188 1524  password: Fudan2022
  
