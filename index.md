@@ -156,9 +156,24 @@
 
 - Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk), Technion -- Israel Institute of Technology
 
-       Time: TBA
+       Time: 15:00 - 17:00
        
        Zoom Id: 853 0188 1524  password: Fudan2022
+       
+       Title: Residually finite quotients via relative cumulation
+       
+       Abstract: Small cancellation theory is a rich source of cocompactly cubulated groups. 
+       The classical C’(1/6) condition has a natural generalization to quotients of free 
+       products.  While free products exhibit much more exotic behavior than free groups, 
+       these quotients act on a Gromov hyperbolic polygonal complexes and have been used to 
+       solve embedding problems in groups.  When the factor groups are assumed to act 
+       geometrically on a CAT(0) cube complex, Martin and Steenbock show that such C’(1/6)
+       quotients are again cocompactly cubulated.  I will describe joint work with Eduard
+       Einstein proving that when the free factors are residually finite every C’(1/6) 
+       quotient is again residually finite. Our proof relies on showing that the quotient
+       groups are relatively cubulated.
+       
+     [Poster]()
 
 - Nov. 17 2022, [Merlin Incerti-Medici](https://www.merlinmedici.ch/), Karlsruhe Institute for Technology
 
