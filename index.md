@@ -149,9 +149,25 @@
 
 - Nov. 3 2022, [Marco Linton](https://warwick.ac.uk/fac/sci/maths/people/staff/linton/), University of Warwick
  
-       Time: TBA
+       Time: 5pm - 7pm (Very Special Time)
        
        Zoom Id: 853 0188 1524  password: Fudan2022
+       
+       Time: Hyperbolic one-relator groups
+       
+       Abstract: Since their introduction by Gromov in the 80s, a wealth of tools have been
+       developed to study hyperbolic groups. Thus, when studying a class of groups, a 
+       characterisation of those that are hyperbolic can be very useful. In this talk we
+       will turn to the class of one-relator groups. In previous work, we showed that a 
+       one-relator group not containing any Baumslag--Solitar subgroups is hyperbolic, 
+       provided it has a Magnus hierarchy in which no one-relator group with a so called 
+       `exceptional intersection' appears. I will define one-relator groups with exceptional 
+       intersection, discuss the aforementioned result and will then provide a characterisation
+       of the hyperbolic one-relator groups with exceptional intersection. Finally, I will then 
+       discuss how this characterisation can be used to establish properties for all one-relator
+       groups.
+       
+       
 
 
 - Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk), Technion -- Israel Institute of Technology
