@@ -149,7 +149,7 @@
 
 - Nov. 3 2022, [Marco Linton](https://warwick.ac.uk/fac/sci/maths/people/staff/linton/), University of Warwick
  
-       Time: 5pm - 7pm (Very Special Time)
+       Time: 16:00 - 18:00 (Very Special Time)
        
        Zoom Id: 853 0188 1524  password: Fudan2022
        
