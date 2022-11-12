@@ -194,9 +194,27 @@
 
 - Nov. 17 2022, [Merlin Incerti-Medici](https://www.merlinmedici.ch/), Karlsruhe Institute for Technology
 
-       Time: TBA
+       Time: 
        
        Zoom Id: 853 0188 1524  password: Fudan2022
+       
+       Title: Hyperbolic projections and topological invariance of Morse boundaries
+       
+       Abstract:When studying hyperbolic spaces, they admit a boundary at infinity that is
+       invariant under quasi-isometries. This allows us to associate this boundary as a
+       topological invariant to hyperbolic groups. This procedure fails quickly when moving
+       to other spaces; already for CAT(0) spaces there are quasi-isometric spaces that have
+       non-homeomorphic boundary at infinity. In recent years, several notions of boundaries
+       have been introduced to remedy this. One such boundary is the Morse boundary, which,
+       for CAT(0) spaces, can be seen as subsets of the visual boundary. However, it turns out 
+       that the topology that makes the Morse boundary quasi-isometry-invariant does not coincide 
+       with the topology of the visual boundary and the visual topology is not quasi-isometry-invariant
+       even when restricted to Morse boundaries.
+       In this talk, we will show that nevertheless, the visual topology on Morse boundaries has 
+       some decent invariance properties for a large class of examples (most cubulated groups). 
+       We will do so by introducing a new method to define a topology on Morse boundaries, show that
+       this topology has good invariance properties and that it is a naturally occurring topology 
+       for many examples.
  
 
 
