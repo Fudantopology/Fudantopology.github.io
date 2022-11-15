@@ -167,7 +167,7 @@
        discuss how this characterisation can be used to establish properties for all one-relator
        groups.
        
-       
+     [Poster](https://scms.fudan.edu.cn/info/3424/5419.htm)  
 
 
 - Nov. 10 2022, [Thomas Ng](https://sites.google.com/site/thomasng192/?fbclid=IwAR3bnOneTRzQdo2fxLlcm6H1Dw0oFzhU-lZh9qAF-MCMfwgjGbaJ0gmtHDk), Technion -- Israel Institute of Technology
@@ -190,7 +190,7 @@
        relies on showing that the quotient groups admit relatively cubulations, a kind of 
        improper action on cube complexes.
        
-     [Poster]()
+     [Poster](https://scms.fudan.edu.cn/1110Thomas.pdf)
 
 - Nov. 17 2022, [Merlin Incerti-Medici](https://www.merlinmedici.ch/), Karlsruhe Institute for Technology
 
@@ -216,7 +216,7 @@
        this topology has good invariance properties and that it is a naturally occurring topology 
        for many examples.
  
-
+     [Poster](https://scms.fudan.edu.cn/1117Merlin.pdf)
 
 - Nov. 24 2022, Reid Monroe Harris, The Chinese University of Hong Kong,Shenzhen
       
