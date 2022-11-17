@@ -194,7 +194,7 @@
 
 - Nov. 17 2022, [Merlin Incerti-Medici](https://www.merlinmedici.ch/), Karlsruhe Institute for Technology
 
-       Time: 
+       Time: 15:00 -17:00
        
        Zoom Id: 853 0188 1524  password: Fudan2022
        
@@ -223,8 +223,25 @@
        Time: 13:30 - 15:30
        
        Zoom Id: 853 0188 1524  password: Fudan2022
+       
+       Title: Monodromy of Smooth Quartic Plane Curves
+       
+       Abstract: We consider the parameter space ${\mathcal U}_d$ of smooth plane curves of degree
+       $d$. The universal smooth plane curve of degree $d$ is a fiber bundle 
+       $\mathcal{E}_d\to\mathcal{U}_d$ with fiber diffeomorphic to a surface $\Sigma_g$. 
+       This bundle gives rise to a monodromy homomorphism $\rho_d:\pi_1(\mathcal{U}_d)\to\mathrm{Mod}(\Sigma_g)$, 
+       where $\mathrm{Mod}(\Sigma_g):=\pi_0(\mathrm{Diff}^+(\Sigma_g))$ is the mapping class group of
+       $\Sigma_g$. The main result of this paper is that the kernel of 
+       $\rho_4:\pi_1(\mathcal{U}_4)\to\mathrm{Mod}(\Sigma_3)$ is isomorphic to 
+       $F_\infty\times\mathbb{Z}/3\mathbb{Z}$, where $F_\infty$ is a free group of countably infinite
+       rank. In the process of proving this theorem, we show that the complement 
+       $\mathcal{T}_g\setminus\mathcal{H}_g$ of the hyperelliptic locus $\mathcal{H}_g$ in 
+       Teichm\"uller space $\mathcal{T}_g$ has the homotopy type of an infinite wedge of spheres. 
+       As a corollary, we obtain that the moduli space of plane quartic curves is aspherical. 
+       The proofs use results from the Weil-Petersson geometry of Teichm\"uller space together 
+       with results from algebraic geometry.
  
-
+    [Poster]()
 
 
 - Dec. 1 2022. [Julien Paupert](https://math.la.asu.edu/~paupert/research.html), Arizona State University
