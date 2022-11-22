@@ -249,7 +249,17 @@
        Time:  10：00-11：00 (Special Time)
        
        Zoom Id: 853 0188 1524  password: Fudan2022
+       
+       Title: Presentations for cusped arithmetic hyperbolic lattices
+       
+       Abstract: We present a general method to compute a presentation for any cusped hyperbolic
+       lattice $\Gamma$, applying a classical result of Macbeath to a suitable $\Gamma$-invariant 
+       horoball cover of the corresponding symmetric space.  As applications we compute presentations
+       for the Picard modular groups ${\rm PU}(2,1,\mathcal{O}_d)$ for $d=1,3,7$ and the quaternionic 
+       lattice ${\rm PU}(2,1,\mathcal{H})$ with entries in the Hurwitz integer ring $\mathcal{H}$. 
+       This is joint work with Alice Mark.
 
+     [Poster]()
 
 - Dec. 8 2022, [Anythony genevois](https://sites.google.com/view/agenevois), University of Montpellier
      
