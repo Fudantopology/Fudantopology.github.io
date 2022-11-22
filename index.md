@@ -241,7 +241,7 @@
        The proofs use results from the Weil-Petersson geometry of Teichm\"uller space together 
        with results from algebraic geometry.
  
-    [Poster]()
+    [Poster](https://scms.fudan.edu.cn/Reid22.11.pdf)
 
 
 - Dec. 1 2022. [Julien Paupert](https://math.la.asu.edu/~paupert/research.html), Arizona State University
