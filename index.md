@@ -276,7 +276,14 @@
         Zoom Id: 853 0188 1524  password: Fudan2022  
 
 
-- Dec. 22 2022
+- Dec. 22 2022 [Fei Han](https://discovery.nus.edu.sg/1759-fei-han), National University of Singapore
+
+      Time: 13:30 - 15:30
+       
+      Zoom Id: 853 0188 1524  password: Fudan2022  
+      
+      Title: TBA
+
 
 
 
