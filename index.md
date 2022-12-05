@@ -261,7 +261,7 @@
 
      [Poster]()
 
-- Dec. 8 2022, [Anythony genevois](https://sites.google.com/view/agenevois), University of Montpellier
+- Dec. 8 2022, [Anythony genevois](https://sites.google.com/view/agenevois), University of Montpellier （CANCELLED）
      
        Time: TBA
        
