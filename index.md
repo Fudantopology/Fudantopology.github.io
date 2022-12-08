@@ -259,7 +259,7 @@
        lattice ${\rm PU}(2,1,\mathcal{H})$ with entries in the Hurwitz integer ring $\mathcal{H}$. 
        This is joint work with Alice Mark.
 
-     [Poster]()
+     [Poster](https://scms.fudan.edu.cn/Julien_Paupert.pdf)
 
 - Dec. 8 2022, [Anythony genevois](https://sites.google.com/view/agenevois), University of Montpellier （CANCELLED）
      
@@ -274,6 +274,16 @@
         Time: 13:30 - 15:30
        
         Zoom Id: 853 0188 1524  password: Fudan2022  
+        
+        Title: The Kaplansky conjectures
+        
+        Abstract: There is a series of four fundamental and long-standing conjectures on group rings 
+        attributed to Kaplansky. For example, the zero divisor conjecture states that the group ring
+        of a torsion-free group with field coefficients has no zero divisors. I will discuss these conjectures,
+        their connections to other open questions in various areas of mathematics, and my recent disproof of the
+        unit conjecture.
+        
+        
 
 
 - Dec. 22 2022 [Fei Han](https://discovery.nus.edu.sg/1759-fei-han), National University of Singapore
