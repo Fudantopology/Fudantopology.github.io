@@ -292,7 +292,14 @@
        
       Zoom Id: 853 0188 1524  password: Fudan2022  
       
-      Title: TBA
+      Title: title: Characteristic numbers and index theoretic invariants for 24 dimensional string manifolds
+      
+      Abstract: A manifolds M is called string manifold is its free loop space LM is spin.
+      There are many studies on the string geometry. Dimension 24 is in particular
+      interesting for string geometry. In the talk, I will report our work on the study
+      of characteristic numbers and index theoretic invariants for 24 dimensional
+      string manifolds and string cobordism following Mahowald-Hopkins. This represents 
+      our joint work with Ruizhi Huang
 
 
 
