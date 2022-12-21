@@ -294,7 +294,7 @@
       
       Title: title: Characteristic numbers and index theoretic invariants for 24 dimensional string manifolds
       
-      Abstract: A manifolds M is called string manifold is its free loop space LM is spin.
+      Abstract: A manifolds M is called string manifold i its free loop space LM is spin.
       There are many studies on the string geometry. Dimension 24 is in particular
       interesting for string geometry. In the talk, I will report our work on the study
       of characteristic numbers and index theoretic invariants for 24 dimensional
