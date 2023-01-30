@@ -1,3 +1,40 @@
+## Spring 2023 Schedule 
+
+- Feb. 21 2023
+
+- Feb. 28 2023
+
+- Mar. 7 2023
+
+- Mar. 14
+
+- Mar. 21
+
+- Mar. 28
+
+- Apr. 4
+
+- Apr. 11
+
+- Apr. 18
+
+- Apr. 25
+
+- May 2, No Talk ??
+
+- May 9, 
+
+- May 16, 
+
+- May 23 
+
+- May 30
+
+- Jun. 6 
+
+
+
+
 
 
 ## Fall 2022 Schedule 
