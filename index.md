@@ -1,8 +1,18 @@
 ## Spring 2023 Schedule 
 
-- Feb. 21 2023
+The regular meeting time for our seminar this semester has changed to Tuesday 3pm to 5pm.
 
-- Feb. 28 2023
+
+- Feb. 28 2023, Josiah Oh (Fudan University)
+
+  Time: 
+  
+  Place:
+  
+  Title:
+  
+  Abstract:
+  
 
 - Mar. 7 2023
 
