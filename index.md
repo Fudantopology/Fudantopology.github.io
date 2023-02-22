@@ -5,13 +5,19 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - Feb. 28 2023, Josiah Oh (Fudan University)
 
-  Time: 
+  Time: 15:00 - 17:00
   
-  Place:
+  Place: SCMS 102
   
-  Title:
+  Title: Quasi-isometric rigidity for a product of lattices
   
-  Abstract:
+  Abstract: Quasi-isometric rigidity theorems contribute to Gromov's program of classifying 
+  finitely generated groups up to quasi-isometry. In this talk we discuss the quasi-isometric
+  rigidity for the class of groups N x L, where N is a lattice in a simply connected nilpotent
+  Lie group and L is a non-uniform lattice in a rank one semisimple Lie group. Such a group is,
+  up to finite noise, an extension by a nilpotent lattice of a non-uniform lattice commensurable
+  to L. This is the first step towards proving quasi-isometric rigidity for a class of spaces 
+  generalizing high-dimensional graph manifolds, as defined by Frigerio-Lafont-Sisto.
   
 
 - Mar. 7 2023, Mengmeng Xu (Fudan University)
