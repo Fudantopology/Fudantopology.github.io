@@ -22,13 +22,20 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - Mar. 7 2023, Mengmeng Xu (Fudan University)
 
-  Time: 
+  Time: 15：00-16：00
   
-  Place:
+  Place: 1704， East Main Guahuang Tower
   
-  Title:
+  Title: Torsion in 1-cusped Picard modular groups
   
-  Abstract:
+  Abstract: We discuss a systematic effective method to construct coarse fundamental domains
+  for the action of the Picard modular groups PU(2,1,O_d). We demand that the ring O_d of
+  algebraic integers in Q(i√d) has class number one, i.e. d=1,2,3,7,11,19,43,67,163. The 
+  computations can be performed quickly up to the value d=19. As an application of this 
+  method, we classify conjugacy classes of torsion elements, deduce short presentations 
+  for the groups, and construct neat subgroups of small index. This is joint work with
+  M. Deraux.
+  
 
 - Mar. 14
 
