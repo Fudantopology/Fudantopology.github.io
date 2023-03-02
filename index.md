@@ -41,7 +41,16 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - Mar. 21
 
-- Mar. 28
+- Mar. 28  Yi Huang, Tsinghua University
+  
+  Time: 15:00 - 17:00
+  
+  Place: SCMS 102
+  
+  Title:
+  
+  Abstract:
+  
 
 - Apr. 4
 
