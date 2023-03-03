@@ -45,7 +45,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   
   Time: 15:00 - 17:00
   
-  Place: SCMS 102
+  Place: SCMS 346
   
   Title:
   
@@ -62,7 +62,9 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - May 2, No Talk ??
 
-- May 9, 
+- May 9, [Stefan Witzel](https://switzel.eu), Universität Gießen
+    
+
 
 - May 16, 
 
