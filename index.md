@@ -41,7 +41,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - Mar. 21
 
-- Mar. 28  Yi Huang, Tsinghua University
+- Mar. 28  [Yi Huang](https://ymsc.tsinghua.edu.cn/info/1033/3109.htm), Tsinghua University
   
   Time: 15:00 - 17:00
   
