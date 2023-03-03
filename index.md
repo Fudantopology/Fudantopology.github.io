@@ -3,7 +3,7 @@
 The regular meeting time for our seminar this semester has changed to Tuesday 3pm to 5pm.
 
 
-- Feb. 28 2023, Josiah Oh (Fudan University)
+- Feb. 28 2023, Josiah Oh， Fudan University
 
   Time: 15:00 - 17:00
   
@@ -20,7 +20,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   generalizing high-dimensional graph manifolds, as defined by Frigerio-Lafont-Sisto.
   
 
-- Mar. 7 2023, Mengmeng Xu (Fudan University)
+- Mar. 7 2023, Mengmeng Xu， Fudan University
 
   Time: 15：00-16：00
   
@@ -54,7 +54,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - Apr. 4
 
-- Apr. 11
+- Apr. 11 [Eduard Schesler](https://www.fernuni-hagen.de/juniorprofessur-algebra/team/eduard.schesler.shtml), FernUniversität in Hagen
 
 - Apr. 18
 
