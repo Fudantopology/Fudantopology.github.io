@@ -39,7 +39,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - Mar. 14
 
-- Mar. 21
+- Mar. 21 [Benjamin Brück](https://people.math.ethz.ch/~bbrueck/), ETH Zürich
 
 - Mar. 28  [Yi Huang](https://www.yihuang.site/), Tsinghua University
   
