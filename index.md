@@ -62,7 +62,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
  
  Place: Zoom
 
-- Apr. 25
+- Apr. 25 [Rachel Skipper](https://sites.google.com/view/skippermath) ENS Paris
 
 - May 2, No Talk ??
 
