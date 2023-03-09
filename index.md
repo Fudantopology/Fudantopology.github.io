@@ -57,10 +57,12 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 - Apr. 11 [Eduard Schesler](https://www.fernuni-hagen.de/juniorprofessur-algebra/team/eduard.schesler.shtml), FernUniversität in Hagen
 
 - Apr. 18 [Dawid Kielak](https://people.maths.ox.ac.uk/kielak/), University of Oxford
+- 
  
- Time: 16:00 - 17:30
+   Time: 16:00 - 17:30
  
- Place: Zoom
+   Place: Zoom
+   
 
 - Apr. 25 [Rachel Skipper](https://sites.google.com/view/skippermath) ENS Paris
 
