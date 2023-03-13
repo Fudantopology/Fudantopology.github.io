@@ -18,8 +18,9 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   up to finite noise, an extension by a nilpotent lattice of a non-uniform lattice commensurable
   to L. This is the first step towards proving quasi-isometric rigidity for a class of spaces 
   generalizing high-dimensional graph manifolds, as defined by Frigerio-Lafont-Sisto.
+   
+  [Poster](https://scms.fudan.edu.cn/Josiah_Oh.pdf)
   
-
 - Mar. 7 2023, Mengmeng Xu， Fudan University
 
   Time: 15：00-16：00
@@ -36,10 +37,31 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   for the groups, and construct neat subgroups of small index. This is joint work with
   M. Deraux.
   
+  [Poster](https://scms.fudan.edu.cn/Mengmen_Xu.pdf)
 
-- Mar. 14
+- Mar. 14 NO TALK
 
 - Mar. 21 [Benjamin Brück](https://people.math.ethz.ch/~bbrueck/), ETH Zürich
+  
+  Time: 15:00 - 17:00
+  
+  Title: Computing high-dimensional group cohomology via duality
+  
+  Abstract: In recent years, duality approaches have yielded new results about the 
+  high-dimensional cohomology of several groups and moduli spaces, such as SL<sub>n</sub>(<b>Z</b>) 
+  and M<sub>g</sub>. I will explain the general strategy of these approaches and survey 
+  results that have been obtained so far.
+
+  To give an example, I will first explain how Borel-Serre duality can be used to show that
+  the rational cohomology of SL<sub>n</sub>(<b>Z</b>) vanishes near its virtual cohomological
+  dimension. This is based on joint work with Miller-Patzt-Sroka-Wilson and builds on results
+  by Church-Farb-Putman.
+  
+ I will then put this into a more general context by giving an overview of analogous results
+ for mapping class groups of surfaces, automorphism groups of free groups and further 
+ arithmetic groups such as SL<sub>n</sub>(O<sub>K</sub>) and Sp<sub>2n</sub>(<b>Z</b>).
+
+
 
 - Mar. 28  [Yi Huang](https://www.yihuang.site/), Tsinghua University
   
