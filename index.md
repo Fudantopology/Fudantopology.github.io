@@ -57,9 +57,9 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   dimension. This is based on joint work with Miller-Patzt-Sroka-Wilson and builds on results
   by Church-Farb-Putman.
   
- I will then put this into a more general context by giving an overview of analogous results
- for mapping class groups of surfaces, automorphism groups of free groups and further 
- arithmetic groups such as SL<sub>n</sub>(O<sub>K</sub>) and Sp<sub>2n</sub>(<b>Z</b>).
+  I will then put this into a more general context by giving an overview of analogous results
+  for mapping class groups of surfaces, automorphism groups of free groups and further 
+  arithmetic groups such as SL<sub>n</sub>(O<sub>K</sub>) and Sp<sub>2n</sub>(<b>Z</b>).
 
 
 
