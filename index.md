@@ -45,6 +45,8 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   
   Time: 15:00 - 17:00
   
+  Zoom id: 853 0188 1524  Password:Fudan2023
+  
   Title: Computing high-dimensional group cohomology via duality
   
   Abstract: In recent years, duality approaches have yielded new results about the 
@@ -74,7 +76,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   Abstract:
   
 
-- Apr. 4
+- Apr. 4 [Bin Yu](https://math.tongji.edu.cn/info/1386/7734.htm), Tongji University
 
 - Apr. 11 [Eduard Schesler](https://www.fernuni-hagen.de/juniorprofessur-algebra/team/eduard.schesler.shtml), FernUniversität in Hagen
 
