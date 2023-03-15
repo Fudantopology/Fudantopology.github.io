@@ -97,7 +97,9 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
     
 
 
-- May 16, 
+- May 16, [Maria Cumplido](https://personal.us.es/cumplido/), University of Seville
+
+    Time: 15:00 - 17:00
 
 - May 23 
 
