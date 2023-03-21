@@ -63,7 +63,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   for mapping class groups of surfaces, automorphism groups of free groups and further 
   arithmetic groups such as SL<sub>n</sub>(O<sub>K</sub>) and Sp<sub>2n</sub>(<b>Z</b>).
 
-
+  [Poster](https://scms.fudan.edu.cn/Benjamin.pdf)
 
 - Mar. 28  [Yi Huang](https://www.yihuang.site/), Tsinghua University
   
