@@ -71,9 +71,21 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   
   Place: SCMS 346
   
-  Title:
+  Title: The earthquake metric
   
-  Abstract:
+  Abstract: Earthquakes are natural generalisations of Fenchel-Nielsen twists deformations
+  on Teichmueller space, and Thurston’s remarkable earthquake theorem asserts that any 
+  hyperbolic metric on a given closed surface can be deformed to any other by a unique 
+  (left) earthquake. This was famously employed by Kerckhoff in his proof of the Nielsen
+  realisation problem, which quickly cemented their importance in Teichmüller theory. 
+  Geometrically speaking, however, (long) Earthquake paths are far from being “twist 
+  efficient” - indeed, Mirzakhani shows that earthquake flows on Teichmüller space are
+  measure conjugate to the horocyclic flow. Motivated by wishing to understand how one
+  might efficiently “earthquake” between hyperbolic structures, we initiate the first 
+  systematic study of the earthquake metric—a Finsler metric first introduced in 
+  Thurston’s “Minimal stretch maps between hyperbolic surfaces” preprint, and discover
+  surprising connections to both the Thurston metric and the Weil-Petersson metric. 
+  This is work in collaboration with K. Ohshika, H. Pan and A. Papadopoulos.
   
 
 - Apr. 4 [Bin Yu](https://math.tongji.edu.cn/info/1386/7734.htm), Tongji University
