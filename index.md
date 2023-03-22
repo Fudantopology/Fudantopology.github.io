@@ -37,7 +37,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   for the groups, and construct neat subgroups of small index. This is joint work with
   M. Deraux.
   
-  [Poster](https://scms.fudan.edu.cn/Mengmen_Xu.pdf)
+ [Poster](https://scms.fudan.edu.cn/Mengmen_Xu.pdf)
 
 - Mar. 14 NO TALK
 
