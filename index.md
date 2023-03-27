@@ -101,7 +101,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - Apr. 25 [Rachel Skipper](https://sites.google.com/view/skippermath) ENS Paris
 
-- May 2, No Talk ??
+- May 2, No Talk due to Worker's day.
 
 - May 9, [Stefan Witzel](https://switzel.eu), Universität Gießen
 
