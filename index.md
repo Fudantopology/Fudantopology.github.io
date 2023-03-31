@@ -87,8 +87,21 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   surprising connections to both the Thurston metric and the Weil-Petersson metric. 
   This is work in collaboration with K. Ohshika, H. Pan and A. Papadopoulos.
   
+  [Poster](https://scms.fudan.edu.cn/YI_HUANG.pdf)
 
 - Apr. 4 [Bin Yu](https://math.tongji.edu.cn/info/1386/7734.htm), Tongji University
+   
+   Time: 15:00 - 17:00
+   
+   Place: SCMS 346
+   
+   Title: The existence of arbitrary large number of non R-covered Anosov flows on hyperbolic 3-manifolds
+   
+   Abstract: We will talk about a result about Anosov flows on hyperbolic three manifolds, 
+   which says that for every positive integer n, there exists a closed hyperbolic 3-manifold
+   M that carries at least n pairwise different (i.e., not orbitally equivalent) non R-covered
+   Anosov flows. This is a joint work with Francois Beguin.
+
 
 - Apr. 11 [Eduard Schesler](https://www.fernuni-hagen.de/juniorprofessur-algebra/team/eduard.schesler.shtml), FernUniversität in Hagen
 
