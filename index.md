@@ -104,6 +104,25 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 
 - Apr. 11 [Eduard Schesler](https://www.fernuni-hagen.de/juniorprofessur-algebra/team/eduard.schesler.shtml), FernUniversität in Hagen
+ 
+  Time: 15:00 - 17:00
+  
+  Zoom id: 853 0188 1524  Password:Fudan2023
+  
+  Title: From telescopes to frames and simple groups
+  
+  Abstract: I will introduce the notion of a telescope of groups. Very roughly a telescope
+  is a directed system of groups that contains various commuting images of some fixed group B.
+  Imitating known constructions of groups acting on rooted trees, we obtain a number of 
+  examples of B-telescopes and discuss several applications.
+ 
+  We give examples of  2-generated  infinite amenable simple groups. We show that every 
+  finitely generated residually finite (amenable) group embeds into a finitely generated 
+  (amenable) simple LEF-group. We construct 2-generated frames in products of finite simple 
+  groups and show that there are Grothendieck pairs consisting of amenable groups and groups 
+  with property (tau). This talk is based on a joint work with Steffen Kionke.
+
+
 
 - Apr. 18 [Dawid Kielak](https://people.maths.ox.ac.uk/kielak/), University of Oxford 
  
