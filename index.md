@@ -122,7 +122,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   groups and show that there are Grothendieck pairs consisting of amenable groups and groups 
   with property (tau). This talk is based on a joint work with Steffen Kionke.
 
-
+ [Poster](https://scms.fudan.edu.cn/info/4534/5637.htm)
 
 - Apr. 18 [Dawid Kielak](https://people.maths.ox.ac.uk/kielak/), University of Oxford 
  
