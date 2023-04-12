@@ -128,7 +128,13 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
  
    Time: 16:00 - 17:30
  
-   Place: Zoom
+   Zoom id: 853 0188 1524  Password:Fudan2023
+  
+   Title: Vitually free-by-cyclic groups
+   
+   Abstract: (joint with Marco Linton) I will talk about a homological way of recognising virtually 
+   free-by-cyclic groups among hyperbolic virtually compact special groups. This yields to an 
+   interesting observation about one-relator groups with torsion.
    
 
 - Apr. 25 [Rachel Skipper](https://sites.google.com/view/skippermath) ENS Paris
