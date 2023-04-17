@@ -136,6 +136,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
    free-by-cyclic groups among hyperbolic virtually compact special groups. This yields to an 
    interesting observation about one-relator groups with torsion.
    
+  [Poster](https://scms.fudan.edu.cn/DawidKielak.pdf)
 
 - Apr. 25 [Rachel Skipper](https://sites.google.com/view/skippermath) ENS Paris
 
