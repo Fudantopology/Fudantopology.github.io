@@ -151,11 +151,14 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
 - May 23 
 
-- May 30, [Anthony Genevois](https://sites.google.com/view/agenevois/accueil)
-   
-   Time: 15:00 - 17:00
 
-- Jun. 6 
+- May 30, [Kasra Rafi](https://www.math.toronto.edu/~rafi/) (Colloquium)
+   
+   
+
+- Jun. 6，[Anthony Genevois](https://sites.google.com/view/agenevois/accueil)
+   
+   Time: 15:00 - 17:00 
 
 
 
