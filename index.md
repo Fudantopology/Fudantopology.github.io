@@ -139,6 +139,18 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   [Poster](https://scms.fudan.edu.cn/DawidKielak.pdf)
 
 - Apr. 25 [Rachel Skipper](https://sites.google.com/view/skippermath) ENS Paris
+   
+   Time: 15:00 - 17:00
+ 
+   Zoom id: 853 0188 1524  Password:Fudan2023
+  
+   Title: Computing Scale in Neretin's group
+   
+   Abstract: For an automorphism of a totally disconnected, locally compact group, Willis introduced 
+   the notion of scale which provides information on its behavior. In this talk, we will discuss 
+   the setting where the tdlc group is Neretin's group and where the automorphism comes from conjugation
+   in the group. This is an ongoing joint work with Michal Ferov and George Willis at the University of Newcastle.
+
 
 - May 2, No Talk due to Worker's day.
 
