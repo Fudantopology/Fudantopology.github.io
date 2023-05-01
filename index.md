@@ -155,6 +155,33 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 - May 2, No Talk due to Worker's day.
 
 - May 9, [Stefan Witzel](https://switzel.eu), Universität Gießen
+   
+   Time: 15:00 - 17:00
+ 
+   Zoom id: 853 0188 1524  Password:Fudan2023
+  
+   Title: Arithmetic approximate lattices and their finiteness properties
+   
+   Abstract: Approximate groups were identified as a natural framework for
+   geometric group theory by Björklund and Hartnick and further developed
+   by Cordes, Hartnick and Tonić, unifying previous research on apparently
+   disparate areas such as finite approximate groups (Breuillard, Green,
+   Tao) and quasi-crystals (Meyer and others).
+
+   Approximate groups arise naturally via a cut-and-project procedure from
+   lattices in locally compact groups. A central point I want to make is
+   that S-arithmetic groups are, by their standard definition, the result
+   of cut-and-project procedure. They happen to be groups as long as S
+   contains all infinite places, an assumption usually imposed.
+
+   In the context of approximate groups, that assumption can be lifted and
+   gives rise to S-arithmetic approximate groups in characteristic 0 that
+   are not groups but resemble S-arithmetic groups in positive
+   characteristic. The finiteness properties of S-arithmetic subgroups of
+   reductive groups in positive characteristic are determined by the Rank
+   Theorem (joint with Bux and Köhl). I will present joint work with Tobias
+   Hartnick proving a Rank Theorem for S-arithmetic approximate groups in
+   characteristic 0.
 
 
 - May 16, [Maria Cumplido](https://personal.us.es/cumplido/), University of Seville
