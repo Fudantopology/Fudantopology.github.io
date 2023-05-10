@@ -182,7 +182,8 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
    Theorem (joint with Bux and Köhl). I will present joint work with Tobias
    Hartnick proving a Rank Theorem for S-arithmetic approximate groups in
    characteristic 0.
-
+   
+[Poster](https://scms.fudan.edu.cn/StefanWitzel.pdf)
 
 - May 16, [Maria Cumplido](https://personal.us.es/cumplido/), University of Seville
 
