@@ -188,6 +188,32 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 - May 16, [Maria Cumplido](https://personal.us.es/cumplido/), University of Seville
 
     Time: 15:00 - 17:00
+ 
+    Zoom id: 853 0188 1524  Password:Fudan2023
+    
+    Title: Intersection of parabolic subgroups in Artin groups
+    
+    Abstract: Artin groups are a natural generalisation of braid groups from an 
+    algebraic point of view: in the same way that braids are obtained from the
+    presentation of the symmetric group, other Coxeter groups give rise to more 
+    general Artin groups. There are very few results proven for every Artin group. 
+    To study them, specialists have focused on some special kind of subgroup, called
+    "parabolic subgroups".  These groups are used to build important simplicial complexes,
+    as the Deligne complex or the recent complex of irreducible parabolic subgroups. The 
+    question "Is the intersection of parabolic subgroups a parabolic subgroup?" is a very
+    basic question whose answer was only known for RAAGs until 2018. In this talk, we will
+    speak about the progress on that matter since then, starting with the breakthrough of 
+    the positive answer for spherical-type Artin groups and we will see how we can answer 
+    this question in Artin groups of large type, by using the geometric realisation of the
+    poset of parabolic subgroups, that we have named "Artin complex". In particular, we 
+    will show that this complex in the large case has a property called sistolicity (a 
+    sort of weak CAT(0) property) that allows us to apply techniques from geometric group
+    theory. These are a joint works with Volker Gebhardt, Juan González-Meneses, Bert 
+    Wiest, Alexandre Martin and Nicolas Vaskou.
+    
+    
+    
+    
 
 - May 23 
 
