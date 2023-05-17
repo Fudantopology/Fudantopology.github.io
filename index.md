@@ -211,11 +211,26 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
     theory. These are a joint works with Volker Gebhardt, Juan González-Meneses, Bert 
     Wiest, Alexandre Martin and Nicolas Vaskou.
     
-    
+   [Poster](https://scms.fudan.edu.cn/MariaCumplido.pdf) 
     
     
 
-- May 23 
+- May 23, Weinan Lin, Peking University
+
+  Time: 15:30 - 17:00
+  
+  Place: Guahuang Westside building 506
+  
+  Title: Noncommutative Gröbner basis and Ext groups
+
+  Abstract: The Gröbner basis is a powerful tool in commutative algebra. We can use it to do many 
+  calculations such as computing the presentations of the kernel and cokernel of a map between 
+  finitely presented modules over a commutative algebra. However, many important algebras including 
+  the Steenrod algebra in algebraic topology are not commutative. We make a noncommutative generalization 
+  of the Gröbner basis which can be applied to the Steenrod algebra A. This leads to highly efficient
+  calculations in the category of A-modules including the computation of E2 pages of Adams spectral
+  sequences.
+
 
 
 - May 30, [Kasra Rafi](https://www.math.toronto.edu/~rafi/) (Colloquium)
