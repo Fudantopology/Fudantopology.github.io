@@ -219,7 +219,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
 
   Time: 15:30 - 17:00
   
-  Place: Guahuang Westside building 506
+  Place: HGX 506
   
   Title: Noncommutative Gröbner basis and Ext groups
 
@@ -231,18 +231,56 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
   calculations in the category of A-modules including the computation of E2 pages of Adams spectral
   sequences.
 
-
+ [Poster](https://scms.fudan.edu.cn/0523LIN.pdf)
 
 - May 30, [Kasra Rafi](https://www.math.toronto.edu/~rafi/) (Colloquium)
    
+   Time: 16:00 - 17:00
+   
+   Place: Gu Lecture Hall, SCMS
+   
+   Abstract: 
+   
+   [Poster](https://scms.fudan.edu.cn/info/4499/5717.htm)
    
 
-- Jun. 6，[Anthony Genevois](https://sites.google.com/view/agenevois/accueil)
+- Jun. 6，there will be two talks this week.
+   
+   Runjie Hu（Stony Brook University） 
+   
+   Time: 13:30 -14:30 
+   
+   Place: HGX 506
+   
+   Title: Algebraic Model of Manifolds
+   
+   Abstract: The surgery theory of dimension at least 5 stayedinthecentral position of classification of
+   manifolds in the last century. In1970s, Ranicki invented the cosheaf theory of derived quadraticforms 
+   to give an algebraic discription of the existence of highdimensional manifolds over a fixed homotopy
+   type andthehomotopy manifold classifications. On the other hand, we couldunderstand a homotopy type
+   by passage to rational andp-adicinformation. Quillen and Sullivan individually developedtherational
+   homotopy theories. Sullivan sketched the approachtoalgebraize simply connected rational manifolds,
+   i.e., a free dgaoverQ together with a Poincare duality and several rational Pontryaginclasses, and 
+   Zhixu Su completed the proof in her thesis. About twodecades ago, Mandell proved that E-inifinity 
+   algebras over Fp-barcanb be the algebraic models of p-adic nilpotent homotopytypes. Five years ago, 
+   Rivera and Zeinalian showed that the cobarconstruction of coalgebras could give algebraic models of
+   integral homotopy types. We want to generalize Sullivan's rational discussionof manifolds to give 
+   algebraic models of manifolds. The project isstill in progress but I will talk about our recent 
+   work of 2-adicdiscussion of Ranicki's theory and one application of this powerful theory to 
+   understand Galois actions on smooth complex varieties.
+   
+   [Poster](https://scms.fudan.edu.cn/0523LIN.pdf)
+   
+   
+   [Anthony Genevois](https://sites.google.com/view/agenevois/accueil), IMAG
    
    Time: 15:00 - 17:00 
+   
+   Zoom id: 853 0188 1524  Password:Fudan2023
 
-
-
+   Title: 
+   
+   Abstract:
 
 
 
