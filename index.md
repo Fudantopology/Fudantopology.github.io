@@ -281,9 +281,15 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
    
    Zoom id: 853 0188 1524  Password:Fudan2023
 
-   Title: 
+   Title: Hyperbolic translation lengths in (quasi-)median graphs
    
-   Abstract:
+   Abstract: Motivated by the fact that elements of a mapping class group have rational and
+   computable translation lengths in the corresponding curve graph, I will explain during 
+   the talk how we can show that isometries of quasi-median graphs have rational and computable
+   translation lengths in the corresponding crossing graphs. Quasi-median graphs provide a 
+   natural generalisation of median graphs, also known as one-skeletons of CAT(0) cube 
+   complexes. They appear naturally in the study of graph products of groups. As a concrete 
+   application, the theorem applies to right-angled Artin groups and their extension graphs.
 
 
 
