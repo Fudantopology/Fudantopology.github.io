@@ -1,6 +1,7 @@
 ## Fall 2023 Schedule 
 The regular meeting time for our seminar this semester has changed to Friday 4pm to 5:30pm.
 
+
 - Sep. 15 2023,
 
 - Sep. 22 2023
