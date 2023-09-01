@@ -1,3 +1,35 @@
+## Fall 2023 Schedule 
+The regular meeting time for our seminar this semester has changed to Friday 4pm to 5:30pm.
+
+- Sep. 15 2023,
+
+- Sep. 22 2023
+
+- Sep. 29 2023 No talk due to Mid-Autumn Festeival.
+
+- Oct. 13 2023
+
+- Oct. 20 2023
+
+- Oct. 27 2023
+
+- Nov. 3 2023
+
+- Nov. 10 2023
+
+- Nov. 17 2023
+
+- Nov. 24 2023
+
+- Dec. 1 2023
+
+- Dec. 8 2023
+
+- Dec. 15 2023
+
+- Dec. 22 2023  
+
+
 ## Spring 2023 Schedule 
 
 The regular meeting time for our seminar this semester has changed to Tuesday 3pm to 5pm.
