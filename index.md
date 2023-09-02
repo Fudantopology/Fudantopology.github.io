@@ -4,7 +4,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Sep. 15 2023, Jingbang Guo, Fudan University
 
-  Time: 16:00 = 17:30
+  Time: 16:00 - 17:30
 
   Place:
 
