@@ -6,18 +6,43 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: 16:00 - 17:30
 
-  Place:
+  Place: SCMS 106
 
-  Title:
+  Title: Topological Hochschild homology and Prismatic Cohomology 
 
-  Abstract:
+  Abstract: The theory of prismatic cohomology is a universal p-adic cohomology theory, in
+  the sense that it specializes to the classical p-adic cohomology theories such as the de
+  Rham  cohomology and the p-adic etale cohomology. Originally, this universal p-adic
+  cohomology theory was expected by the calculation of topological Hochschild homology
+  for (integral) perfectoid rings. In this seminar, the basic ideas of prismatic cohomology
+  and topological Hochschild homology will be introduced, and between which the delicate
+  interconnection will be emphasized. Especially the general theory of relative topological
+  Hochschild homology and the phenomena of Bokstedt periodicity, which might benefit the
+  calculation of (absolute) topological cyclic homology through the descent technique,
+  are to be discussed. 
   
 
-- Sep. 22 2023
+- Sep. 22 2023 [Soumen Sarkar](https://home.iitm.ac.in/soumen/), Indian Institute of Technology Madras
+
+  Time: 16:00 - 17:30
+
+  Place:
+
+  Title: Cohomology of quasitoric manifolds over a vertex cut of a finite product of simplices
+
+
+  Abstract: In this talk, I'll classify the characteristic matrices associated to quasitoric
+  manifolds over a vertex cut of a finite product of simplices satisfying a `sign condition'.
+  I'll discuss the integral cohomology rings of these quasitoric manifolds with possibly
+  minimal generators and show several relations among the products of these generators. 
+  Then, I'll classify integral cohomology rings (up to isomorphism as graded rings) of the
+  quasitoric manifolds over the vertex cut of a finite product of simplices. This is a joint
+  work with Subhankar Sau. 
+  
 
 - Sep. 29 2023 No talk due to Mid-Autumn Festeival.
 
-- Oct. 13 2023 Bingbing Liang, Soochow University
+- Oct. 13 2023 [Bingbing Liang](https://sites.google.com/site/bingbingliang2016/), Soochow University
 
   Time: 16:00 - 17:30
 
