@@ -54,6 +54,8 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Sep. 29 2023 No talk due to Mid-Autumn Festeival.
 
+- Oct. 6 2023, No talk due to National holiday.
+
 - Oct. 13 2023 [Bingbing Liang](https://sites.google.com/site/bingbingliang2016/), Soochow University
 
   Time: 16:00 - 17:30
