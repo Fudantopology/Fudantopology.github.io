@@ -22,11 +22,23 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   are to be discussed. 
   
 
-- Sep. 22 2023 [Soumen Sarkar](https://home.iitm.ac.in/soumen/), Indian Institute of Technology Madras
+- Sep. 22 2023
 
-  Time: 16:00 - 17:30
+  Hongyu Wang,Yangzhou University
 
-  Place:
+  Time: 15:00 - 16:00
+
+  Place: East Main Guahuang Tower 1801
+
+  Title: Donaldson question for tamed closed almost complex four-manifolds
+
+  Abstract: TBA
+
+ [Soumen Sarkar](https://home.iitm.ac.in/soumen/), Indian Institute of Technology Madras
+
+  Time: 16:00 - 17:00
+
+  Place: East Main Guahuang Tower 1801
 
   Title: Cohomology of quasitoric manifolds over a vertex cut of a finite product of simplices
 
