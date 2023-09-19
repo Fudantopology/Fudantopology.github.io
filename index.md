@@ -34,16 +34,16 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Abstract: TBA
 
- [Soumen Sarkar](https://home.iitm.ac.in/soumen/), Indian Institute of Technology Madras
+  [Soumen Sarkar](https://home.iitm.ac.in/soumen/), Indian Institute of Technology Madras
 
-  Time: 16:00 - 17:00
+   Time: 16:00 - 17:00
 
-  Place: East Main Guahuang Tower 1801
+   Place: East Main Guahuang Tower 1801
+ 
+   Title: Cohomology of quasitoric manifolds over a vertex cut of a finite product of simplices
 
-  Title: Cohomology of quasitoric manifolds over a vertex cut of a finite product of simplices
 
-
-  Abstract: In this talk, I'll classify the characteristic matrices associated to quasitoric
+   Abstract: In this talk, I'll classify the characteristic matrices associated to quasitoric
   manifolds over a vertex cut of a finite product of simplices satisfying a `sign condition'.
   I'll discuss the integral cohomology rings of these quasitoric manifolds with possibly
   minimal generators and show several relations among the products of these generators. 
