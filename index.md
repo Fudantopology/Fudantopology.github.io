@@ -67,7 +67,16 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   Abstract:
   
 
-- Oct. 20 2023
+- Oct. 19 2023 [Li Cai](https://www.xjtlu.edu.cn/en/departments/academic-departments/pure-mathematics/staff/li-cai), Xi'an Jiaotong-Liverpool University
+
+  Time: Oct. 19 
+
+  Place:
+
+  Title:
+
+  Abstract:
+  
 
 - Oct. 27 2023
 
