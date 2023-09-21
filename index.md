@@ -112,7 +112,17 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
    Abstract:
 
 
-- Nov. 24 2023
+- Nov. 24 2023 [Haimiao Chen](https://www.btbu.edu.cn/szdw/dszy/sssds/sxytjxy/83eb78c81f1542e699b81a56ce9534f1.htm), Beijing Technology and Business University
+
+  Time:
+
+  Place:
+
+  Title:
+
+  Abstract:
+
+  
 
 - Dec. 1 2023
 
