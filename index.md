@@ -62,20 +62,37 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Place:
 
-  Title:
+  Title:  
 
-  Abstract:
+  Abstract: 
   
 
 - Oct. 19 2023 [Li Cai](https://www.xjtlu.edu.cn/en/departments/academic-departments/pure-mathematics/staff/li-cai), Xi'an Jiaotong-Liverpool University
 
-  Time: Oct. 19 
+  Time: Oct. 19， 15:00 - 16:00 
+
+  Place:
+
+  Title: On graph products of spaces, groups and Hopf algebras
+
+  Abstract: In this talk we show that, the loop space X of a graph product of spaces is given by
+   (up to weak homotopy equivalence of topological monoids) a graph product of simplicial
+  groups, using Kan’s construction of loop spaces on simplicial sets. As a consequence, we
+   obtain a theorem of Dobrinskaya: when X is connected, its homology (with coefficients
+  from a field) is a graph product H of connected Hopf algebras. Some properties of the
+  commutator of H will also be discussed.
+
+  Fangting Zheng, Xi'an Jiaotong-Liverpool University
+
+  Time:
 
   Place:
 
   Title:
 
   Abstract:
+
+  
   
 
 - Oct. 27 2023
