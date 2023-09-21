@@ -84,7 +84,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   [Fangting Zheng](https://www.xjtlu.edu.cn/en/departments/academic-departments/pure-mathematics/staff/fangting-zheng), Xi'an Jiaotong-Liverpool University
 
-  Time:
+  Time: 16:00 -17:00
 
   Place:
 
