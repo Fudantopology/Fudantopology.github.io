@@ -82,7 +82,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   from a field) is a graph product H of connected Hopf algebras. Some properties of the
   commutator of H will also be discussed.
 
-  Fangting Zheng, Xi'an Jiaotong-Liverpool University
+  [Fangting Zheng](https://www.xjtlu.edu.cn/en/departments/academic-departments/pure-mathematics/staff/fangting-zheng), Xi'an Jiaotong-Liverpool University
 
   Time:
 
@@ -101,7 +101,16 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Nov. 10 2023
 
-- Nov. 17 2023
+- Nov. 17 2023 [Binbin Xu](https://sites.google.com/site/mathbinbin/home), Nankai University
+
+   Time: 16:00 - 17:00
+
+   Place:
+
+   Title:
+
+   Abstract:
+
 
 - Nov. 24 2023
 
