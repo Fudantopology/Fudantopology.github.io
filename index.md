@@ -382,9 +382,7 @@ The regular meeting time for our seminar this semester has changed to Tuesday 3p
    [Poster](https://scms.fudan.edu.cn/info/4499/5717.htm)
    
 
-- Jun. 6，there will be two talks this week.
-   
-   Runjie Hu（Stony Brook University） 
+- Jun. 6，Runjie Hu, Stony Brook University
    
    Time: 13:30 -14:30 
    
