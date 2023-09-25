@@ -71,7 +71,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: Oct. 19， 15:00 - 16:00 
 
-  Place:
+  Place: East Main Guahuang Tower 2001
 
   Title: On graph products of spaces, groups and Hopf algebras
 
@@ -86,11 +86,13 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: 16:00 -17:00
 
-  Place:
+  Place: East Main Guahuang Tower 2001
 
-  Title:
+  Title: Hyperbolic orbifolds of small volume
 
-  Abstract:
+  Abstract: Volume is a natural measure of complexity of a hyperbolic manifold, especially for
+  the one of odd dimension where the Euler characteristic vanishes. In this talk, I will give a
+  sketchy panorama about simple, i.e., small volume, hyperbolic manifolds and orbifolds.
 
   
   
@@ -112,7 +114,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
    Abstract:
 
 
-- Nov. 24 2023 [Haimiao Chen](https://www.btbu.edu.cn/szdw/dszy/sssds/sxytjxy/83eb78c81f1542e699b81a56ce9534f1.htm), Beijing Technology and Business University
+- Nov. 24 2023 
 
   Time:
 
@@ -124,9 +126,19 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   
 
-- Dec. 1 2023
+- Dec. 1 2023 [Edward Schesler](https://eduardschesler.de/) FernUniversität in Hagen
 
-- Dec. 8 2023
+  Time: 16:00 - 17:30
+
+  Place:
+
+  Title:
+
+  Abstract:
+
+  
+
+- Dec. 8 2023 [Haimiao Chen](https://www.btbu.edu.cn/szdw/dszy/sssds/sxytjxy/83eb78c81f1542e699b81a56ce9534f1.htm), Beijing Technology and Business University
 
 - Dec. 15 2023
 
