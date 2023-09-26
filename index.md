@@ -62,9 +62,14 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Place:
 
-  Title:  
+  Title:  A general version of Kaplansky‘s direct-finiteness conjecture 
 
-  Abstract: 
+  Abstract: The classical Kaplansky’s direct-finiteness conjecture says that if a, b are two elements of
+  a group ring KG for a filed K and a group G satisfying that ab=1, then ba=1. Kaplansky proves the case
+  that K is a field of characteristic zero and G is any group. Joint with Hanfeng Li, we prove a general
+  case that K is replaced with a left Noetherian unital ring R and G is a sofic group. The tools of the
+  this proof are refined mean length functions defined on the RG-modules in connection with some category
+  language
   
 
 - Oct. 19 2023 [Li Cai](https://www.xjtlu.edu.cn/en/departments/academic-departments/pure-mathematics/staff/li-cai), Xi'an Jiaotong-Liverpool University
