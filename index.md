@@ -60,7 +60,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: 16:00 - 17:30
 
-  Place:
+  Place: SCMS 102
 
   Title:  A general version of Kaplansky‘s direct-finiteness conjecture 
 
@@ -112,7 +112,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
    Time: 16:00 - 17:00
 
-   Place:
+   Place: SCMS 102
 
    Title:
 
@@ -135,7 +135,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: 16:00 - 17:30
 
-  Place:
+  Place: SCMS 102
 
   Title:
 
