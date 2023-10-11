@@ -147,7 +147,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Dec. 15 2023
 
-- Dec. 22 2023  
+- Dec. 22 2023  [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), Chinese Academy of Sciences. 
 
 
 ## Spring 2023 Schedule 
