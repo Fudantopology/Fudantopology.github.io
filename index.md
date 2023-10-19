@@ -110,7 +110,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Nov. 17 2023 [Binbin Xu](https://sites.google.com/site/mathbinbin/home), Nankai University
 
-   Time: 16:00 - 17:00
+   Time: 16:00 - 17:30
 
    Place: SCMS 102
 
@@ -119,11 +119,11 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
    Abstract:
 
 
-- Nov. 24 2023 
+- Nov. 24 2023 [Biao Ma](https://sites.google.com/view/biao-ma), the Technion in Haifa.
 
-  Time:
+  Time: 16:00 - 17:30
 
-  Place:
+  Place: SCMS 102
 
   Title:
 
