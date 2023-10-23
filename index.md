@@ -108,11 +108,11 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Nov. 10 2023
 
-- Nov. 17 2023 [Binbin Xu](https://sites.google.com/site/mathbinbin/home), Nankai University
+- Nov. 17 2023 [Binbin Xu](https://sites.google.com/site/mathbinbin/home), Nankai University and Chi-Kwong Fok, Xi'an Jiaotong-Liverpool University
 
-   Time: 16:00 - 17:30
+   Time: 16:30 - 17:30 
 
-   Place: SCMS 102
+   Place: TBA
 
    Title:
 
