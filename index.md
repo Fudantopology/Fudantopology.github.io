@@ -107,6 +107,22 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 - Nov. 3 2023
 
 - Nov. 10 2023 [Paul-Henry Leemann](https://www.xjtlu.edu.cn/zh/departments/academic-departments/pure-mathematics/staff/paulhenry-leemann), Xi'an Jiaotong-Liverpool University
+  
+  Time: 16:00 - 17:30
+
+  Place: SCMS 102
+
+  Title:  Cayley graphs with few automorphisms
+
+  Abstract: Let G be a group and S a generating set. Then the group G naturally acts on the
+   Cayley graph Cay(G,S) by left multiplications. The group G is said to be rigid if there
+  exists an S such that the only automorphisms of Cay(G,S) are the ones coming from the action
+  of G. Equivalently, a group G is rigid if there exists a graph X with G=Aut(X) acting simply
+   transitively on the vertices of X. While the classification of finite rigid groups was
+  achieved in 1981, few results were known about infinite groups. In a recent work, with M.
+  de la Salle we gave a complete classification of infinite finitely generated rigid groups.
+  As a consequence, we also obtain that every finitely generated group admits a Cayley graph
+  with countable automorphism group.
 
 - Nov. 17 2023 [Binbin Xu](https://sites.google.com/site/mathbinbin/home), Nankai University and [Chi-Kwong Fok](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/pure-mathematics/department-staff/academic-staff/staff/chikwong-fok), Xi'an Jiaotong-Liverpool University
 
