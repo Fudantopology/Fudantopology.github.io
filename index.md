@@ -124,15 +124,46 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   As a consequence, we also obtain that every finitely generated group admits a Cayley graph
   with countable automorphism group.
 
-- Nov. 17 2023 [Binbin Xu](https://sites.google.com/site/mathbinbin/home), Nankai University and [Chi-Kwong Fok](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/pure-mathematics/department-staff/academic-staff/staff/chikwong-fok), Xi'an Jiaotong-Liverpool University
+ [Poster](https://scms.fudan.edu.cn/Paul-HenryLeemann.pdf)
+
+- Nov. 17 2023 [Binbin Xu](https://sites.google.com/site/mathbinbin/home), Nankai University
+
+  Time: 15:30 - 16:30 
+
+   Place: SCMS 102
+
+   Title: Equivalent Curves on Surfaces
+
+   Abstract: We consider a closed oriented surface of genus at least 2. To describe curves
+  on it, one natural idea is to choose once for all a collection of curves as a reference
+   system and to hope that any other curve can be determined by its intersection numbers
+  with reference curves. For simple curves, using the work of Dehn and Thurston, it is possible
+   to find such a reference system consisting of finitely many simple curves. The situation
+   becomes more complicated when curves have self-intersections. In particular, for any non-negative
+   integer k, it is possible to find a pair of curves having the same intersection number with
+  every curve with k self-intersections. Such a pair of curves are called k-equivalent curves.
+  In this talk, I will discuss the general picture of a pair of k-equivalent curves and the
+   relation between k-equivalence relations for different k's. This is a joint-work with Hugo
+   Parlier.
+
+   [Chi-Kwong Fok](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/pure-mathematics/department-staff/academic-staff/staff/chikwong-fok), Xi'an Jiaotong-Liverpool University
 
    Time: 16:30 - 17:30 
 
-   Place: TBA
+   Place: SCMS 102
 
-   Title:
+   Title: Equivariant formality of homogeneous spaces
 
-   Abstract:
+   Abstract: Equivariant formality, a notion in equivariant topology introduced by
+  Goresky-Kottwitz-Macpherson, is a desirable property of spaces with group actions.
+  Broad classes of spaces of especial interest are well-known to be equivariantly formal,
+   e.g., compact symplectic manifolds equipped with Hamiltonian compact Lie group actions
+   and projective varieties equipped with linear algebraic torus actions, of which flag varieties
+   are examples. Less is known about compact homogeneous spaces G/K equipped with the isotropy
+  action of K, which is not necessarily of maximal rank. In this talk we will review the notion
+   of equivariant formality and previous attempts of characterizing equivariant formality of G/K,
+  and then present our results on this problem using an analogue of equivariant formality in
+  K-theory. Part of the work presented in this talk is joint with Jeffrey Carlson.
 
 
 - Nov. 24 2023 [Biao Ma](https://sites.google.com/view/biao-ma), the Technion in Haifa.
