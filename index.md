@@ -166,7 +166,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   K-theory. Part of the work presented in this talk is joint with Jeffrey Carlson.
 
 
-- Nov. 24 2023 [Biao Ma](https://sites.google.com/view/biao-ma), the Technion in Haifa.
+- Nov. 24 2023 [Biao Ma](https://sites.google.com/view/biao-ma), the Technion in Haifa. CANCELLED
 
   Time: 16:00 - 17:30
 
