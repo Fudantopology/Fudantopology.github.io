@@ -194,7 +194,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: 16:00 - 17:30
 
-  Place: 
+  Place: East Main Guahuang Tower 1801
 
   Title: Character varieties and skein modules of knot complements
 
