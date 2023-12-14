@@ -214,7 +214,19 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Dec. 15 2023
 
-- Dec. 22 2023  [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), Chinese Academy of Sciences. 
+- Dec. 22 2023  [Yang Su](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), Chinese Academy of Sciences.
+
+  Time: 16:00 - 17: 30
+
+  Place: SCMS 102
+
+  Title: Mapping class group of manifolds which look like 3-dimensional complete intersections
+
+  Abstract: In this talk I will introduce our computation of the mapping class group of closed
+  simply-connected 6-manifolds which look like complete intersections. I will also discuss some
+  algebraic properties of this mapping class group, including the abelianization, the center, and
+  that the mapping class group is residually finite and virtually torsion-free.This is a joint work
+   with M.Kreck.
 
 
 ## Spring 2023 Schedule 
