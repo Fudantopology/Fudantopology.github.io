@@ -228,7 +228,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   that the mapping class group is residually finite and virtually torsion-free.This is a joint work
    with M.Kreck.
 
-  - Jan. 8 [Lei Chen](https://www-math.umd.edu/people/faculty/item/1605-chenlei.html), University of Maryland
+- Jan. 8 [Lei Chen](https://www-math.umd.edu/people/faculty/item/1605-chenlei.html), University of Maryland
 
     Time: 16:00 - 17: 00
 
