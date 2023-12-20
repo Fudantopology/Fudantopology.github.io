@@ -237,8 +237,8 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
     Title: Mapping class groups of circle bundles over a surface
 
     Abstract: In this talk, we study the algebraic structure of mapping class group Mod(M) of 3-manifolds
-     M that fiber as a circle bundle over a surface S1 → M → Sg. We prove an exact sequence 1 → H1(Sg)
-     → Mod(M) → Mod(Sg) → 1, relate this to the Birman exact sequence, and determine when this sequence
+     M that fiber as a circle bundle over a surface S^1 → M → S_g. We prove an exact sequence 1 → H_1(S_g)
+     → Mod(M) → Mod(S_g) → 1, relate this to the Birman exact sequence, and determine when this sequence
      splits. We will also discuss the Nielsen realization problem for such manifolds and give a partial
      answer. This is joint work with Bena Tshishiku.
 
