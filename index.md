@@ -1,3 +1,73 @@
+## Spring 2024 Schedule 
+The regular meeting time for our seminar this semester has changed to Friday 4pm to 5pm.
+
+- Mar. 8 2024 Claudio Llosa Isenrich, Karlsruhe Institute of Technology
+
+  Time: 16:00 - 17:00
+
+  Place: SCMS 102
+
+  Title: Dehn functions of central products of nilpotent groups
+
+  Abstract: The Dehn function of a finitely presented group provides a quantitative measure
+   for the difficulty of detecting if a word in its generators represents the trivial element
+   of the group. By work of Gersten, Holt and Riley the Dehn function of a nilpotent group of
+   class c is bounded above by n^{c+1}. However, we are still far from determining the
+   precise Dehn functions of all nilpotent groups. In this talk, I will explain recent results
+   that allow us to determine the Dehn functions of large classes of nilpotent groups arising
+   as central products. As a consequence, for every k>2, we obtain many pairs of finitely
+   presented k-nilpotent groups with bilipschitz asymptotic cones, but with different Dehn
+   functions. This shows that Dehn functions can distinguish between nilpotent groups with the
+   same asymptotic cone, making them interesting in the context of the conjectural quasi-isometry
+   classification of nilpotent groups.  This talk is based on joint works with García-Mejía,
+   Pallier and Tessera.
+  
+
+- Mar. 14 2024 (Special Date, joint with SCMS Colloquium) Kai-Uwe Bux, Bielefeld University
+
+  Time: 17:00 - 18:00
+
+  Place: Gu Lecture Hall SCMS
+
+  Title: Telling groups apart by measures of complexity
+
+  Abstract:  It is hopeless to classify infinite groups up to isomorphism. 
+  There are several invariants one can use to chart the vast area 
+  inhabited by such groups. I shall discuss several numerical group 
+  invariants coming from topology, homology, and geometry:
+
+         * finiteness properties
+         * (co)homologicial and geometric dimensions
+         * isoperimetric inequalities
+
+  I shall illustrate these concepts by means of examples; and the main 
+  source of examples for groups in this talk will be arithmetic groups, 
+  e.g., the group of invertible integer n-by-n matrices.
+
+- Mar. 22 2024,
+
+- Mar. 29 2024
+
+- Apr. 5 2024
+
+- Apr. 12 2024
+
+- Apr. 19 2024
+
+- Apr. 26 2024
+
+- May 10 2024
+
+- May 17 2024
+
+- May 24 2024
+
+- May 31 2024
+
+- Jun. 7 2024
+ 
+
+
 ## Fall 2023 Schedule 
 The regular meeting time for our seminar this semester has changed to Friday 4pm to 5:30pm.
 
