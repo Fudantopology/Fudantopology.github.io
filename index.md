@@ -50,7 +50,11 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Apr. 5 2024
 
-- Apr. 12 2024
+- Apr. 12 2024 Biao Ma, Tongji University
+
+  Time: 16:00 - 17:00
+
+  Place: TBA
 
 - Apr. 19 2024
 
