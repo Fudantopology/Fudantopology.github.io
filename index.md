@@ -1,7 +1,7 @@
 ## Spring 2024 Schedule 
 The regular meeting time for our seminar this semester has changed to Friday 4pm to 5pm.
 
-- Mar. 8 2024 Claudio Llosa Isenrich, Karlsruhe Institute of Technology
+- Mar. 8 2024 [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html), Karlsruhe Institute of Technology
 
   Time: 16:00 - 17:00
 
@@ -23,7 +23,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
    Pallier and Tessera.
   
 
-- Mar. 14 2024 (Special Date, joint with SCMS Colloquium) Kai-Uwe Bux, Bielefeld University
+- Mar. 14 2024 (Special Date, joint with SCMS Colloquium) [Kai-Uwe Bux](https://www.math.uni-bielefeld.de/~bux/), Bielefeld University
 
   Time: 17:00 - 18:00
 
@@ -54,15 +54,53 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: 16:00 - 17:00
 
-  Place: TBA
+  Place: SCMS 102
+
+  Title: Profinite rigidity of the multivariable Alexander polynomials of links
+
+  Abstract: The profinite completion of a group encodes the set of all finite quotients
+   of the group. An interesting question in low dimensional topology is what kind of
+   properties of a 3-manifold can be determined by the profinite completion of its
+  fundamental group. In 2018, Ueki showed that for a knot in $S^3$, the Alexander
+  polynomial of the knot is determined by the profinite completion of its knot group.
+  For a link in $S^3$, one would like to know if the multivariable Alexander polynomial
+   is also determined by its link group. In this talk, I will explain why this question
+  is complicated and report some results on what we know. This talk is based on an ongoing
+  joint work with Jun Ueki.
 
 - Apr. 19 2024
 
 - Apr. 26 2024
 
-- May 10 2024
+- May 10 2024, [Mohamed-Lamine Messaci](https://sites.google.com/view/laminemessaci/accueil), Université Côte d'Azur
 
-- May 17 2024
+  Time: 16:00 - 17:00
+
+  Zoom id: 646 617 8889  Password:123456wu
+
+  Title: Median spaces
+
+  Abstract: Median spaces have garnered attention in the field of geometric group
+  theory due to the characterization that they give to the Kazhdan property (T)
+  and to the Haagerup property. They also give a common framework for studying
+  isometric actions on R-trees and CAT(0) cube complexes. In the first part of
+  the talk, we introduce these spaces, give examples and recall some results.
+  In the second part, we will consider the case of locally compact median spaces
+   of finite rank.
+  
+  
+
+- May 17 2024 Youlin Li, Shanghai Jiao Tong University
+
+  Time: 16:00 - 17:00 
+
+  Place: TBA
+
+  Title:
+
+  Abstract:
+
+  
 
 - May 24 2024
 
