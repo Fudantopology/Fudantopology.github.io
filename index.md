@@ -72,7 +72,29 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
 - Apr. 26 2024
 
-- May 10 2024, [Mohamed-Lamine Messaci](https://sites.google.com/view/laminemessaci/accueil), Université Côte d'Azur
+- May 10 2024, 
+  
+  
+
+- May 17 2024 Youlin Li, Shanghai Jiao Tong University
+
+  Time: 16:00 - 17:00 
+
+  Place: SCMS 
+
+  Title: Algebraically overtwisted tight contact 3-manifolds from contact +1 surgeries
+
+  Abstract: In this talk, we find many algebraically overtwisted and tight 3-manifolds by
+  contact +1 surgeries. In particular, we show that a contact 1/k surgery on the standard
+  contact 3-sphere  along any Legendrian positive torus knot with the maximal Thurston–Bennequin
+  invariant yields an algebraically overtwisted and tight 3-manifold, where k is a positive
+  integer. This is joint work with Zhengyi Zhou.
+
+  
+
+- May 24 2024
+
+- May 31 2024 [Mohamed-Lamine Messaci](https://sites.google.com/view/laminemessaci/accueil), Université Côte d'Azur
 
   Time: 16:00 - 17:00
 
@@ -87,24 +109,6 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   the talk, we introduce these spaces, give examples and recall some results.
   In the second part, we will consider the case of locally compact median spaces
    of finite rank.
-  
-  
-
-- May 17 2024 Youlin Li, Shanghai Jiao Tong University
-
-  Time: 16:00 - 17:00 
-
-  Place: TBA
-
-  Title:
-
-  Abstract:
-
-  
-
-- May 24 2024
-
-- May 31 2024
 
 - Jun. 7 2024
  
