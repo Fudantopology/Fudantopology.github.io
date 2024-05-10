@@ -80,7 +80,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
 
   Time: 16:00 - 17:00 
 
-  Place: SCMS 
+  Place: SCMS 102
 
   Title: Algebraically overtwisted tight contact 3-manifolds from contact +1 surgeries
 
