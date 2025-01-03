@@ -1,4 +1,221 @@
 ## Spring 2024 Schedule 
+The regular meeting time for our seminar this semester has changed to Friday 4pm to 5pm. Starting from this semester, the seminar is joint with SIMIS.
+
+- Sep. 13 Yang Shen, Fudan University 
+
+  Time: 16:00 - 17:00
+
+  Place: SIMIS 1610
+
+  Title: Eigenvalues of random hyperbolic surfaces
+
+  Abstract: The theory of random hyperbolic surfaces of the Weil-Petersson model was first introduced by
+  Mirzakhani. It is well-developed in recent years. In this talk, we mainly talk about the behaviors of
+  closed geodesics and eigenvalues of random hyperbolic surfaces. This talk is based on some recent
+  works of the speaker, Yunhui Wu, Yuxin He and Yuhao Xue. 
+
+- Sep. 19, Zhenghao, RaoRutgers University. 
+
+  Time: 21:00 - 22:00 (Special Time)
+
+  Zoom meeting id: 283 044 9723 Password: tUd1sA
+
+  Title: Subgroups of Genus-2 Quasi-Fuchsian groups and Cocompact Kleinian Groups
+
+  Abstract: Kahn and Markovic proved the Surface Subgroup Conjecture for compact hyperbolic 3-manifolds over
+  a decade ago, constructing surface subgroups that can be nearly Fuchsian. However, a compact hyperbolic
+   3-manifold may also contain surface subgroups that are significantly not totally geodesic. We extend
+  this by showing that given any genus-2 quasi-Fuchsian group Γ and any cocompact Kleinian group G, for
+   any K>1, there exists a surface subgroup H of G that is K-quasiconformally conjugate to a finite
+  index subgroup F<Γ. As an application, we demonstrate that the Hausdorff dimensions of the limit
+   sets of surface subgroups of G are dense in the interval [1,2].
+
+- Sep. 27. Andrea Seppi, the Institut Fourier of Grenoble.
+
+  Time: 16:00 -17:00
+  
+  Zoom Meeting ID: 944 6083 3287 Passcode: 199950
+
+  Title: Uniqueness and non-uniqueness for the Asymptotic Plateau Problem in hyperbolic three-space.
+  Abstract: The Asymptotic Plateau Problem in the hyperbolic space is the problem of existence of
+  minimal surfaces with a prescribed Jordan curve as a boundary “at infinity”. Since the work
+  of Anderson in the 1980s, it is known to have a solution, which is however in general not
+  unique. In this talk, I will give an overview of the subject, present examples of
+  “pathological” non-uniqueness, and describe some criteria for uniqueness.
+
+- Oct. 11 Xiaolei Wu, Fudan University.
+
+  Time: 16:00 - 17:00
+
+  Place: SIMIS 1610
+
+  Title: Compactly-supported classes in the homology of big mapping class groups 
+
+  Abstract:I will start the talk with an overview about the theory of big mapping class groups.
+  Then I will discuss some recent advances on the homology of big mapping class groups. In
+  particular, I want to talk about some of my recent work with Martin Palmer on when  the
+  homology of the big mapping class groups could have elements with compact support. 
+
+- Oct. 18 Jiming Ma, Fudan University.
+
+  Time: 16:00 - 17:00
+
+  Place: SIMIS 1610
+
+  Title: Figure-eight knot is always over there
+
+  Abstract:It is well known that the complex hyperbolic triangle group $\Delta(3,3,4)$  generated
+   by three  complex  reflections $I_1,I_2,I_3$ in $\mathbf{PU}(2,1)$  has a 1-dimensional moduli
+  space. Deforming the representations from the classical  real Fuchsian one to $\Delta(3,3,4; \infty)$,
+  that is, when $I_3I_2I_1I_2$ is accidental parabolic, the 3-manifolds at infinity change,  from
+   a Seifert 3-manifold to the  figure-eight knot complement.
+
+  When $I_3I_2I_1I_2$ is loxodromic, there is an open set $\Omega \subset \partial \mathbf{H}^2_{\mathbb C}=
+  \mathbb S^3$ associated to $I_3I_2I_1I_2$, which is a subset of the  discontinuous region. We 
+  show the quotient space $\Omega/ \Delta(3,3,4)$ is always the figure-eight knot complement in
+  the deformation process. This gives the topological/geometrical explanation that the 3-manifold
+  at infinity of $\Delta(3,3,4; \infty)$ is the figure-eight knot complement. In particular, this
+  confirms the conjecture of Falbel-Guilloux-Will.   This is joint work with Baohua Xie.
+
+- Oct. 25 Yanqing Zou, East China Normal University.
+  
+  Time: 16:00 - 17:00
+
+  Place: SIMIS 1610
+
+  Title: Some results on distance two Heegaard splittings
+
+  Abstract:In 2000, Hempel introduced the Heegaard distance for studying a Heegaard splitting. Since
+  then, many classical results have been obtained. Among them, one result is that distance at least
+  three Heegaard splitting is of a hyperbolic 3-manifold. In this talk, we will share some recent
+   results on distance two Heegaard splittings. This is a joint work with Wenjie Diao, Ruifeng Qiu.
+
+ - Nov. 6 Zihao Liu, Rice University.
+  
+  Time: 10:00 - 11:00
+
+  Zoom Meeting No.: 910 3139 9342 Passcode: 957825
+
+  Title: Scaled homology and topological entropy
+
+  Abstract:In this talk, I will introduce a scaled homology theory, lc-homology, for metric
+  spaces such that every metric space can be visually regarded as “locally contractible” with
+  this newly-built homology as well as its connection to classic singular homology theory. 
+  In addition, after briefly introducing topological entropy, I will discuss how to generalize 
+  one of the existing results of entropy conjecture, relaxing the smooth manifold restrictions 
+  on the compact metric spaces, by using lc-homology groups. This is joint work with Bingzhe
+  Hou and Kiyoshi Igusa.
+  
+  
+- Nov. 8 Shi Wang, Shanghai Tech University.
+  
+  Time: 16:00 - 17:00
+
+  Place: SIMIS 1610
+
+  Title:  The natural flow and the critical exponent
+
+  Abstract:For a complete Riemannian manifold of nonpositive curvature, we introduce a flow. We
+  give an upper bound on the k-Jacobian of the flow in terms of the critical exponent of the
+  fundamental group. We also give several applications connecting the geometry and topology of
+  the manifold, which includes the linear isoperimetric inequality, the homological vanishing
+  theorem and the non-existence of compact complex subvarieties in certain complex hyperbolic
+  manifolds. This is joint work with Chris Connell and Ben McReynolds.
+
+- Nov. 15, Kailin Pan, Peking University. 
+
+ Time: 13:30 - 15:00 
+
+ Place: SCMS 102
+
+ Title: Ring operads and symmetric bimonoidal categories
+
+ Abstract: We generalize the classical operad pair theory to a newmodel for E_\infty ring spaces, 
+ which we call ring operad theory, and stablishaconnection with the classical operad pair theory,
+ allowingtheclassical multiplicative infinite loop machine to be appliedtoalgebras over any E_\infty 
+ ring operad. As an application, we showthat classifying spaces of symmetric bimonoidal categories
+ are directlyhomeomorphic to certain  E_\infty ring spaces in the ring operadsense. Consequently,
+ this provides a simpler construction of the algebraicK-theory as an E_\infty ring spectra.
+
+ 
+ - Nov. 22, Zhenguo Huangfu, ShanghaiTech University.
+
+ Time: 16:00 - 17:00 
+
+ Place: SCMS 102
+
+ Title: Relative Bounded Cohomology on Groups with Contracting Elements
+
+ Abstract: Let $G$ be a countable group acting properly on a metric spacewith contracting elements 
+ and $\{H_i:1\le i\le n\}$ be a finite collection of Morse subgroups in $G$. We prove that each 
+ $H_i$ has infinite index in $G$ if and only if the relative second boundedcohomology
+ $H^{2}_b(G, \{H_i\}_{i=1}^n; \mathbb{R})$is infinite-dimensional. In addition, we 
+ also prove that for any contracting element $g$, there exists $k>0$ such that 
+ $H^{2}_b(G, \llangle g^k\rrangle; \mathbb{R})$ is infinite-dimensional. Our 
+ results generalize a theorem of Pagliantini-Rolli for finite-rank free groups and 
+ produce some new results on the (relative) second bounded cohomology of groups. 
+ Under the same conditions, we also prove a Gap Theorem stating that any $C$-contracting
+ element $g$ in $G$ either has a power which is conjugate to its inverse, or else the
+ stable commutator length of $g$ is at least equal to some constant $\tau=\tau(C)>0$.
+ This generalizes the Gap Theorem obtained by Calegari-Fujiwara for hyperbolic groups 
+ and mapping class groups. Joint work with Renxing Wan.
+
+  
+- Nov. 29, Tengren Zhang, Tengren Zhang
+
+  Time: 16: - 17:00
+
+  Zoom Meeting id: 942 4677 6586 Passcode 451690
+
+  Title: Patterson-Sullivan measures for relative Anosov groups
+
+  Abstract: Relative Anosov groups are a class of subgroups of a semisimple Lie group G
+   that include all Anosov subgroups, and all geometrically finite subgroups when G has
+   rank one. We prove that under some mild conditions on G, the Poincare series associated
+   to a relative Anosov subgroup (and a linear function on the Cartan subspace of G) diverges
+   at its critical exponent if its critical exponent is finite. As a consequence of this,
+  we deduce uniqueness and ergodicity results for the associated Patterson-Sullivan measure
+   whose dimension is the critical exponent. This is joint work with Richard Canary and
+  Andrew Zimmer.
+
+
+- Dec. 6, Renxing Wan, East China Normal University
+
+ Time: 16:00 - 17:00 
+
+ Place: SCMS 102
+
+ Title: This talk presents a study of the well-known marked length spectrum rigidity 
+ problem in the coarse-geometric setting. 
+ 
+ For any two (possibly non-proper) group
+ actions $G\curvearrowright
+ X_1$ and $G\curvearrowright X_2$ with contracting property, 
+ we prove that if the two actions have the same marked length spectrum,
+ then the orbit map $Go_1\to Go_2$ must be a rough isometry. In addition,
+ we prove a finer marked length spectrum rigidity from confined subgroups and
+ further, geometrically dense subgroups. Our proof is based on the Extension
+ Lemma and uses purely elementary metric geometry. This is joint work with 
+ Xiaoyu Xu and Wenyuan Yang.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Spring 2024 Schedule 
 The regular meeting time for our seminar this semester has changed to Friday 4pm to 5pm.
 
 - Mar. 8 2024 [Claudio Llosa Isenrich](https://www.math.kit.edu/user/llosa/index.html), Karlsruhe Institute of Technology
