@@ -1,4 +1,4 @@
-## Spring 2024 Schedule 
+## Fall 2024 Schedule 
 The regular meeting time for our seminar this semester has changed to Friday 4pm to 5pm. Starting from this semester, the seminar is joint with SIMIS.
 
 - Sep. 13 Yang Shen, Fudan University 
@@ -198,6 +198,67 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
  Lemma and uses purely elementary metric geometry. This is joint work with 
  Xiaoyu Xu and Wenyuan Yang.
 
+- Dec. 13, Gabriele Viaggi, University of Rome
+
+  Time: 16:00 - 17:00 
+
+  Zoom Meeting id: 283 044 9723 Passcode: tUd1sA
+
+Title: Length bounds for hyperbolic Heegaard splittings
+
+Abstract: In theory, by Mostow rigidity, the geometry of a hyperbolic 3-manifold is
+a function of its topology, but how to predict explicitly geometric features from a
+combinatorial presentation of the 3-manifold? By groundbreaking work of Minsky and 
+Brock, Canary, and Minsky such a formula exists for the class of hyperbolic 3-manifolds
+fibering over the circle. Their model allows to understand explicitly quantities such 
+as volume, length spectrum, and Laplace spectrum directly from topological data. It 
+is desirable to develop a similar picture for Heegaard splittings as it would apply 
+to all 3-manifolds. In this talk, I will present some joint work with Alessandro 
+SIsto and Peter Feller where we develop an explicit purely topological formula for
+the length of a (short) geodesic in a hyperbolic Heegaard splitting.
+
+- Dec. 20, Zheng Kuang, Texas A&M
+
+  Time: 10:10 - 11:10
+
+  Zoom Meeting ID: 646 617 8889    Passcode: 123456wu
+
+  Title: Growth of groups with finitely many incompressible elements
+
+  Abstract: Groups of intermediate growth has been an active researchtopic in geometric
+   and asymptotic group theory since 1980 whenR. Grigorchuk constructed the first example
+  of such a group, namely, the Grigorchuk group. In this talk, I will describe a new class
+  of groups of intermediate growth. I will define the class of groups of bounded type from
+   tile inflations, and show that if the set ofincompressible elements of a group in this
+  class is finite, then this group has intermediate growth.
+
+
+  
+- Dec. 20, Ruojing Jiang, MIT
+
+ Time: 16:00 - 17:00 
+
+ Place: SIMIS 1610
+
+ Tilte: Minimal Surface Entropy of Hyperbolic Manifolds 
+
+ Abstract: I will discuss the definition of minimal surface entropy and review the results
+ for both closed hyperbolic 3-manifolds and the finite volume case. On one hand, for metrics
+ with sectional curvature no greater than -1, the entropy achieves its minimum value if 
+ and only if it is hyperbolic. On the other hand, among all metrics with scalar curvature
+ bounded from below by -6, the entropy reaches its maximum at the hyperbolic metric.
+
+- Dec. 27, Abdul Zalloum, Harbin Institute of Technology
+
+  Time: 16:00 - 17:00
+
+  Place: SCMS 102
+
+  Title: Globally stable cylinders for residually finite hyperbolic groups
+
+  Abstract: In 1995, Rips and Sela asked if torsion-free hyperbolic groups
+  admit globally stable cylindres. I will discuss recent work with Petyt-Spriano
+   were we show that all residually finite hyperbolic groups admit such.
 
 
 
