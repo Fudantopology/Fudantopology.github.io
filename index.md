@@ -1,3 +1,43 @@
+## Spring 2025 Schedule
+
+The regular meeting time for our seminar this semester has changed to Friday 4:30pm to 5:30pm. Starting from this semester, the seminar is joint with SIMIS.
+
+- Feb. 21, Yue Gao, Anhui Normal University
+
+
+- Feb. 28 Kejia Zhu, UC riverside
+
+
+- Mar. 7 Ben Lowe, Unversity of Chicago
+
+- Mar. 11 Fernando AI Assal, Wisconsin Madison
+
+- Mar. 21 Shi Wang, Shanghaitech University
+
+- Mar. 28 Xiaolei Wu??
+
+- Apr. 1, Jiawei Zhou, Bimsa
+
+- Apr. 11, Wei Wang, Shanghai Ocean University
+
+- Apr. 18
+
+- Apr. 25
+
+- May 9,
+
+- May 16, Ke Feng， University of Electronic Science and Technology of China
+
+- May 23
+
+- May 30
+
+- Jun. 6
+
+
+
+
+
 ## Fall 2024 Schedule 
 The regular meeting time for our seminar this semester has changed to Friday 4pm to 5pm. Starting from this semester, the seminar is joint with SIMIS.
 
