@@ -1,6 +1,6 @@
 ## Spring 2025 Schedule
 
-The regular meeting time for our seminar this semester has changed to Friday 4:30pm to 5:30pm. Starting from this semester, the seminar is joint with SIMIS.
+The regular meeting time for our seminar this semester will be Friday 4:30pm to 5:30pm. Starting from this semester, the seminar is joint with SIMIS.
 
 - Feb. 21, Yue Gao, Anhui Normal University
 
