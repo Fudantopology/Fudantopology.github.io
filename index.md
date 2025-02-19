@@ -28,7 +28,7 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - May 16, Ke Feng， University of Electronic Science and Technology of China
 
-- May 23
+- May 23, Jianru Duan, Peking Universtiy
 
 - May 30
 
