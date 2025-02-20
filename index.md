@@ -4,6 +4,19 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Feb. 21, Yue Gao, Anhui Normal University
 
+  Time: 16:30 - 17:30
+
+  Place: SIMIS 1510
+
+  Title: Shape of Thurston’s filling systole subset in surface moduli space
+
+  Abstract: In this talk, I am going to talk about the sparseness of Thurston's subset.
+  Sparseness is a geometric concept on Thurston's subset first raised by Anderson-Parlier-Pettet
+   in 2016. We have proved the sparseness of Thurston's subset in the sense of Teichmüller
+  distance and Weil-Petersson distance. More precisely, most surfaces in genus g surface
+  moduli space have Teichmüller distance $\frac{1}{5}\log\log g$ and Weil-Petersson
+  distance $0.6521(\sqrt{\log g}−\sqrt{7\log\log g})$ to the Thurston's subset.
+
 
 - Feb. 28 Kejia Zhu, UC riverside
 
@@ -20,7 +33,7 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Apr. 11, Wei Wang, Shanghai Ocean University
 
-- Apr. 18
+- Apr. 18 José Pedro Quintanilha, University of Heidelberg
 
 - Apr. 25
 
