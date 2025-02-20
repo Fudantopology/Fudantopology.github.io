@@ -20,6 +20,20 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Feb. 28 Kejia Zhu, UC riverside
 
+  Time: 16:30 - 17:30
+
+  Place: SCMS 102
+
+  Title: CAT(0) Geometry of Complex Curve Complements and Families
+
+  Abstract: Motivated by the question of whether braid groups are CAT(0),
+  we investigate the CAT(0) behavior of fundamental groups of plane curve
+  complements and certain universal families. If C is the branch locus of a
+  generic projection of a smooth, complete intersection surface to P^2 , we
+  show that the fundamental group of P^2 ∖ C is CAT(0). In the other
+  direction, we prove that the fundamental group of the universal family
+  associated with the singularities of type E6, E7, and E8 is not CAT(0). This
+  is joint work with C. Bregman and A. Libgober.
 
 - Mar. 7 Ben Lowe, Unversity of Chicago
 
