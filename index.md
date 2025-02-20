@@ -24,7 +24,7 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Apr. 25
 
-- May 9,
+- May 9, Yu Zhang, Tianjin University
 
 - May 16, Ke Feng， University of Electronic Science and Technology of China
 
