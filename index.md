@@ -98,7 +98,7 @@ The regular meeting time for our seminar this semester has changed to Friday 4pm
   closed geodesics and eigenvalues of random hyperbolic surfaces. This talk is based on some recent
   works of the speaker, Yunhui Wu, Yuxin He and Yuhao Xue. 
 
-- Sep. 19, Zhenghao, RaoRutgers University. 
+- Sep. 19, Zhenghao Rao,Rutgers University. 
 
   Time: 21:00 - 22:00 (Special Time)
 
