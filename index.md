@@ -37,6 +37,23 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Mar. 7 Ben Lowe, Unversity of Chicago
 
+  Time: 8:30 - 9:30 (Friday Morning unusual time)
+
+  Meeting ID: 924 3954 7729 Passcode: 710422 
+
+  Zoom Link: https://zoom.us/j/92439547729?pwd=Wr62uDCIukxKy5erL9bs3ylvIqmaUT.1
+
+  Title: Minimal Surfaces in Negative Curvature
+
+  Abstract: It follows from work by Kahn-Markovic that every closed negatively
+   curved 3-manifold contains essential minimal surfaces in great abundance.
+   Since then the goal of better understanding these minimal surfaces has been
+   a focus of activity, both in analogy to the geodesic flow one dimension lower
+   and the more positive-curvature-centric min-max theory of minimal surfaces.
+    This talk will survey recent developments in this area, which brings together
+   techniques from dynamical systems, geometric analysis, and hyperbolic geometry.  
+  
+
 - Mar. 11 Fernando AI Assal, Wisconsin Madison
 
 - Mar. 21 Shi Wang, Shanghaitech University
