@@ -64,6 +64,23 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Apr. 11, Wei Wang, Shanghai Ocean University
 
+  Time: 16:30 - 17:30
+
+  Place: TBA
+
+  Title: Some Gromoll filtration groups and homotopy groups of diffeomorphism groups
+
+  Abstract: In 1964, Gromoll gave a filtration of the group of homotopy n+1-spheres for n>5
+  and connected this filtration to the pinching of homotopy spheres. On the other hand, this
+   filtration is closely related to homotopy groups of diffeomorphism groups of smooth
+  manifolds.
+
+   In this talk, we will first give some background on Gromoll filtration groups and
+   diffeomorphism groups from a topological point of view. Then we will introduce some
+  methods of calculation and give our recent results. We will also discuss some further
+  applications to certain smooth fibre bundles.
+  
+
 - Apr. 18 José Pedro Quintanilha, University of Heidelberg
 
 - Apr. 25
