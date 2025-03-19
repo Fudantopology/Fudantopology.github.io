@@ -56,7 +56,37 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Mar. 11 Fernando AI Assal, Wisconsin Madison
 
+  Time: 20:00 - 21:00
+
+  Zoom Meeting ID: 944 6083 3287 Passcode: 199950
+
+  Title: Limits of asymptotically Fuchsian surfaces in a closed hyperbolic 3-manifold
+
+  Abstract: Let M be a closed hyperbolic 3-manifold and let Gr(M) be its 2-plane
+  Grassmann bundle. We will discuss the following result: the weak-* limits of the
+   probability area measures on Gr(M) of pleated or minimal closed connected
+  essential K-quasifuchsian surfaces as K goes to 1 are all convex combinations
+  of the probability area measures of the immersed closed totally geodesic surfaces
+  of M and the probability volume (Haar) measure of Gr(M).
+
+
+  
+
 - Mar. 21 Shi Wang, Shanghaitech University
+
+  Time: 16:30 - 17:30 
+
+  Place: Simis 1710  
+
+  Title: Nonpositively curved 4-manifolds with zero Euler characteristic
+
+  Abstract: The well-known Chern-Gauss-Bonnet theorem shows that the Euler
+   characteristic of a closed nonpositively curved 4-manifolds is always
+  nonnegative. In this talk, I will present a geometric characterization
+  of the equality case--at each point, it is either Ricci degenerate or
+  locally foliated by totally geodesic flats. I'll also mention the connection
+   to Gromov's two conjectures regarding on simplicial volume. This is joint
+  work with Chris Connell and Yuping Ruan.  
 
 - Mar. 28 Xiaolei Wu??
 
