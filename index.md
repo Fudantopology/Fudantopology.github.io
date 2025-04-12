@@ -151,7 +151,7 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Apr. 18 José Pedro Quintanilha, University of Heidelberg
 
-  Time: 16:30 : 17:30
+  Time: 16:30 - 17:30
 
   Zoom id:  646 617 8889 Passcode: 123456wu
 
