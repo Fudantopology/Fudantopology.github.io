@@ -88,15 +88,53 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
    to Gromov's two conjectures regarding on simplicial volume. This is joint
   work with Chris Connell and Yuping Ruan.  
 
-- Mar. 28 Xiaolei Wu??
+- Mar. 28 Xiaolei Wu
+
+  Time: 16:30 - 17:30
+
+  Place: Simis 1510
+
+  Title: Embedding groups into simple groups
+
+  Abstract:  Simple groups has played an important role in the studying of groups.
+   The  Boone-Higman Conjecture says a finitely generated group can be embedded
+  into a finitely presented simple group if and only if  it has solvable word
+  problem. The conjecture has now been proved for many classes of groups,
+  including hyperbolic groups, RAAGs and linear groups over the rationals.
+  In this talk, we will first give an overview of the conjecture. Then we
+  discuss a strategy that can be used to embed groups acting faithfully on
+   locally finite trees to finitely presented simple groups. In particular
+   we verify the conjecture for the Baumslag-Solitar groups and free-by-cyclic
+   groups. The talk is based on a joint work with Kai-Uwe Bux and Claudio
+  Llosa Isenrich.
+
+
+  
 
 - Apr. 1, Jiawei Zhou, Bimsa
+
+  Time: 16:00 - 17:00
+
+  Place: Simis 1510  
+
+  Title: Some results in non-simply connected rational homotopy theory
+
+  Abstract: Certain statements that are straightforward in simply connected
+   rational homotopy theory become surprisingly subtle for the non-simply
+  connected case and remain open problems. In this talk I will address two
+   such questions: first, proving that minimal Sullivan model realizations
+   still preserve rational cohomology in the non-simply connected setting;
+  second, establishing an upper bound for the Lusternik-Schnirelmann category
+   of a relative Sullivan algebra in terms of the LS categories of its base
+  algebra and fiber algebra. 
+
+  
 
 - Apr. 11, Wei Wang, Shanghai Ocean University
 
   Time: 16:30 - 17:30
 
-  Place: TBA
+  Place: SCMS 102
 
   Title: Some Gromoll filtration groups and homotopy groups of diffeomorphism groups
 
@@ -113,7 +151,46 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - Apr. 18 José Pedro Quintanilha, University of Heidelberg
 
-- Apr. 25
+  Time: 16:30 : 17:30
+
+  Zoom id:  646 617 8889 Passcode: 123456wu
+
+  Title: Geometric invariants for locally compact groups
+
+  Abstract: The features of a group being finitely generated or finitely presented
+  are, respectively, the n=1
+  and n=2 cases of the finiteness property F_n. Towards the end of the
+  last century, the question of
+  when these finiteness conditions descend to subgroups of G led to the
+  discovery of the sets
+  Sigma^n(G) (and their homological counterparts Sigma^n(G;A), for A a
+  Z[G]-module). Each set
+  Sigma^n(G) is a collection of homomorphisms G --> R, refining property
+  F_n in the sense that G has
+  type F_n precisely if Sigma^n(G) contains the zero map. In the
+  literature, Sigma-sets are also
+  often called BNSR-invariants, due to Bieri, Neumann, Strebel and Renz,
+  who pioneered the theory.
+
+  Another direction in which to generalize finiteness properties is to
+  consider groups G with a
+  locally compact Hausdorff topology. In that setting, Abels and Tiemeyer
+  introduced the compactness
+  properties C_n, which specialize to F_n for G discrete (though this fact
+  is far from obvious at a
+  first glance). In joint work with Kai-Uwe Bux and Elisa Hartmann, we
+  have refined these properties
+  C_n to sets Sigma^n(G), with our definition recovering the classical
+  Sigma sets in the discrete
+  case. We have also generalized various results of classical Sigma-theory
+  to the setting of locally
+  compact groups. In my talk, I will give an introduction to the theory of
+  Sigma sets and explain
+  some of these results.
+
+  
+
+- Apr. 25 No talk this week due to Mini-course by Xin Li from Glasgow. 
 
 - May 9, Yu Zhang, Tianjin University
 
