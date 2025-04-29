@@ -198,7 +198,7 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - May 23, Jianru Duan, Peking Universtiy
 
-- May 30
+- May 30, Thorben Kastenholz, Karlsruhe Institut of Technology
 
 - Jun. 6
 
