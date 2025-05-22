@@ -215,11 +215,53 @@ related spectra.
 
 - May 16, Ke Feng， University of Electronic Science and Technology of China
 
+  Time:  16:30 - 17:30
+  
+  Place: Simis 1510
+
+  Title: Some progress on geometric ideal triangulation
+
+  Abstract:  Gluing ideal tetrahedra plays a crucial role in the construction of hyperbolic 3-manifolds.
+   It is still not known that whether a hyperbolic 3-manifold admits a geometric ideal triangulation.
+   In this talk, I will show some progress to hyperbolize and further obtain geometric triangulations of
+   3-manifolds. I will show the rigidity of hyperbolic polyhedral metrics on 3-manifolds, and the connections
+   between 3D-combinatorial Ricci flows and Thurston's geometric ideal triangulations, which is a joint work
+  with Huabin Ge. Further, I will show a new existence result of the geometric ideal triangulation which is a
+  joint work with Huabin Ge and Yunpeng Meng.
+
+  
+
 - May 23, Jianru Duan, Peking Universtiy
+
+  Time:  16:00 - 17:00
+  
+  Place: SCMS 102
+
+  Title: The L^2 Alexander torsion for 3-manifolds and sutured manifold theory
+
+  Abstract: The L^2-Alexander torsion is an invariant associated to a 3-manifold and an 1-cohomology class.
+   This invariant is a real function with many properties similar to the classical Alexander polynomial.
+  In this talk, I will first review the basics of L^2-theory of 3-manifolds (e.g. L^2-betti numbers, L^2-torsions),
+  then discuss the "leading coefficient" of the L^2-Alexander torsion and show its connection with Gabai's sutured manifold
+  theory and the guts theory recently developed by Agol-Zhang.
+  
 
 - May 30, Thorben Kastenholz, Karlsruhe Institut of Technology
 
-- Jun. 6
+  Time: 16:30 - 17:30
+
+  Zoom id:  646 617 8889 Passcode: 123456wu
+
+  Title: Non Vanishing of the Fourth Bounded Cohomology of Free Groups and Codimension 2 Subspaces
+
+  Abstract: Bounded cohomology is a powerful albeit very hard to compute invariant. Nothing encapsulates that
+   more than the as of yet mysterious bounded cohomology of free groups. During this talk I will give a very
+  brief introduction to bounded cohomology, further motivate why one should care about the bounded cohomology
+  of free groups and then explain how to show that it is non-zero in degrees two, three and four.
+
+
+  
+- Jun. 6, Not talk this week due to mini-course by Bin Sun from Michgan State University
 
 
 
