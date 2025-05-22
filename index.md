@@ -194,6 +194,25 @@ The regular meeting time for our seminar this semester will be Friday 4:30pm to 
 
 - May 9, Yu Zhang, Tianjin University
 
+  Time:  16:00 - 17:00
+  
+  Place: SCMS 102
+
+  Title: Extensive Computations Of the Adams Spectral Sequence E_2-Pages at Odd Primes
+
+  Abstract:  In this talk, I will present joint work with Weinan Lin that overcomes
+  fundamental computational limitations in computing the E 2-page ofthe Adams spectral
+  sequence at odd primes
+Leveraging a novel generalization of Grobner basis theory, we develop an eflicient
+framework that allows us to determine complete additive and multiplicative structures
+in significantly larger degree ranges than previously possible. Notably, our method
+achieves these results in practical time frames. circumventing the rapid growth inherent in carlier techniques.
+These advances not only advance thealgorithmic toolkit for spectral sequences but also lay
+the groundwork for targeted investigations into stable homotopy groups of spheres and
+related spectra.
+
+
+
 - May 16, Ke Feng， University of Electronic Science and Technology of China
 
 - May 23, Jianru Duan, Peking Universtiy
