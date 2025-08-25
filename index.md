@@ -1,3 +1,60 @@
+<img width="468" height="30" alt="image" src="https://github.com/user-attachments/assets/528a5df7-bb8f-4cb6-a8ba-431017a84884" />## Spring 2025 Schedule
+
+- Sep. 12 There will be no seminar this week, instead we will have a mini-course by Hiroki Matui, Chiba University
+
+  Time:
+
+  Room: 
+
+  Title: Introduction to topological full groups
+
+  Abstract: In this mini-course, we will introduce various properties and examples of
+  topological full groups, which are discrete groups naturally associated with etale
+   groupoids whose unit spaces are Cantor sets. Over the past two decades, these groups
+   have been extensively studied and are now known to exhibit a rich array of features,
+   such as simplicity, amenability, and finite generation, making them central objects
+   at the intersection of group theory, topology, and operator algebras. 
+
+   Starting from the definition of topological full groups, we will discuss basic examples
+  arising from minimal Z-actions and AF groupoids. We will also explain the connections
+  to groupoid homology, and the reconstruction theorem which claims the group structure of
+  the topological full group remembers the groupoid itself.
+  
+  A significant part of the theory revolves around the dichotomy of ample groupoids into
+  two classes: almost finite and purely infinite groupoids. With this distinction in mind,
+  we will discuss structural results such as simplicity of the commutator subgroup, amenability,
+  and finite generation of topological full groups. Depending on time constraints, we may select
+  certain topics to discuss in more detail. 
+
+
+- Sep. 19
+
+- Sep. 26
+
+- Oct. 17
+
+- Oct. 24
+
+- Oct. 31
+
+- Nov. 7
+
+- Nov. 14
+
+- Nov. 21
+
+- Nov. 28
+
+- Dec. 5
+
+- Dec. 12
+
+- Dec. 19
+
+- Dec. 26
+
+
+
 ## Spring 2025 Schedule
 
 The regular meeting time for our seminar this semester will be Friday 4:30pm to 5:30pm. The seminar is joint with SIMIS.
