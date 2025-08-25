@@ -1,8 +1,12 @@
-<img width="468" height="30" alt="image" src="https://github.com/user-attachments/assets/528a5df7-bb8f-4cb6-a8ba-431017a84884" />## Spring 2025 Schedule
+## Fall 2025 Schedule
 
 - Sep. 12 There will be no seminar this week, instead we will have a mini-course by Hiroki Matui, Chiba University
 
   Time:
+  
+  Sep. 9th. Tuesday 15:00 - 17:00
+  Sep. 11.   Thursday 15:00 - 17:00
+  Sep. 12th. Friday 15:00 - 17:00
 
   Room: 
 
