@@ -35,13 +35,13 @@
 
 - Sep. 26 Jiawen Zhang, Fudan Univeristy
 
-- Oct. 17
+- Oct. 17 
 
 - Oct. 24
 
-- Oct. 31
+- Oct. 31 Lizhen Qin, Nanjing University
 
-- Nov. 7
+- Nov. 7 Jiaochao Wu, Fudan University
 
 - Nov. 14
 
