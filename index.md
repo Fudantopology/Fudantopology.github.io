@@ -35,6 +35,8 @@
 
 - Sep. 26 Jiawen Zhang, Fudan Univeristy
 
+- Oct. 8
+
 - Oct. 17 
 
 - Oct. 24
