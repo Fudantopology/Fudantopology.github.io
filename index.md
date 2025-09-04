@@ -53,7 +53,7 @@
 
 - Dec. 12
 
-- Dec. 19
+- Dec. 19 Weiyan Chen, Tsinghua University
 
 - Dec. 26
 
