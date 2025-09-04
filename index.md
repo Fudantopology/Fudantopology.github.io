@@ -4,11 +4,11 @@
 
   Time:
   
-  Sep. 9th. Tuesday 15:00 - 17:00
-  Sep. 11.   Thursday 15:00 - 17:00
-  Sep. 12th. Friday 15:00 - 17:00
+  Sep. 9th. Tuesday 15:00 - 17:00, SCMS 102
+  Sep. 10.   Wednesday 15:00 - 17:00 SIMIS 710
+  Sep. 12th. Friday 15:00 - 17:00 SCMS 102
 
-  Room: 
+  
 
   Title: Introduction to topological full groups
 
@@ -31,9 +31,9 @@
   certain topics to discuss in more detail. 
 
 
-- Sep. 19
+- Sep. 19 
 
-- Sep. 26
+- Sep. 26 Jiawen Zhang, Fudan Univeristy
 
 - Oct. 17
 
