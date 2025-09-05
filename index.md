@@ -51,9 +51,9 @@
 
 - Nov. 28
 
-- Dec. 5
+- Dec. 5 Daxun Wei
 
-- Dec. 12
+- Dec. 12 ?CL
 
 - Dec. 19 Weiyan Chen, Tsinghua University
 
