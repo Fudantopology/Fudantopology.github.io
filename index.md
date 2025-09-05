@@ -37,7 +37,7 @@
 
 - Oct. 8
 
-- Oct. 17 
+- Oct. 17 [Robert Tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
 
 - Oct. 24
 
