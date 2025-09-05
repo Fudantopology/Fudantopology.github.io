@@ -51,7 +51,7 @@
 
 - Nov. 28
 
-- Dec. 5 Daxun Wei
+- Dec. 5 Daxun Wang, Tsinghua University
 
 - Dec. 12 ?CL
 
