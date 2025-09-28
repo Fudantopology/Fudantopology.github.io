@@ -35,6 +35,21 @@
 
 - Sep. 26 Jiawen Zhang, Fudan Univeristy
 
+  Time: 16:00 - 17:00
+
+  Place: SCMS 102
+
+  Title: 	A weight-free characterisation for yu’s property A
+
+  Abstract: The notion of Property A was introduced by G. Yu as a coarseanalogue of amenability,
+   which plays a key role to attack the coarse Baum-Connes conjecture. In his original definition,
+   the family of Property A sets of a metric space X are allowed to taken in X\times\mathbb{N}.
+  We show that the Property A sets can indeed be chosenin X itself for any discrete metric space of
+  bounded geometry. Thekey idea is to use a smearing map, inspired fromuniformlyfinitehomology introduced
+   by Block and Weinberger. This is a joint workwith G. Niblo, N. Wright and J. Zhu.
+
+  
+
 - Oct. 8
 
 - Oct. 17 [Robert Tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
