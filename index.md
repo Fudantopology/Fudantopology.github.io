@@ -57,7 +57,7 @@
 
 - Dec. 19 Weiyan Chen, Tsinghua University
 
-- Dec. 26
+- Dec. 26 Hana Jia Kong, Zhejiang University
 
 
 
