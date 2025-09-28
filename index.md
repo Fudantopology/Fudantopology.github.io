@@ -47,7 +47,7 @@
 
 - Nov. 14
 
-- Nov. 21
+- Nov. 21 Guchuan Li, Peking University
 
 - Nov. 28
 
