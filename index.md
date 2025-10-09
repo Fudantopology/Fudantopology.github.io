@@ -68,7 +68,7 @@
 
 - Dec. 5
 
-- Dec. 12 ?CL
+- Dec. 12 No talk this week due to speical week on hyperbolic geometry
 
 - Dec. 19 Weiyan Chen, Tsinghua University
 
