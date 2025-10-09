@@ -58,9 +58,9 @@
 
 - Oct. 31 Lizhen Qin, Nanjing University
 
-- Nov. 7 Jiaochao Wu, Fudan University
+- Nov. 4 (? special time) Richard Webb, University of Manchester 
 
-- Nov. 14
+- Nov. 14 Jiaochao Wu, Fudan University
 
 - Nov. 21 Guchuan Li, Peking University
 
