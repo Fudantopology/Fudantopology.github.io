@@ -54,7 +54,7 @@
 
 - Oct. 17 [Robert Tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
 
-- Oct. 24
+- Oct. 24 Daxun Wang, Tsinghua University
 
 - Oct. 31 Lizhen Qin, Nanjing University
 
@@ -64,9 +64,9 @@
 
 - Nov. 21 Guchuan Li, Peking University
 
-- Nov. 28
+- Nov. 28 MP(?)
 
-- Dec. 5 Daxun Wang, Tsinghua University
+- Dec. 5
 
 - Dec. 12 ?CL
 
