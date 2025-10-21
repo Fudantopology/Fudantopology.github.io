@@ -31,7 +31,7 @@
   certain topics to discuss in more detail. 
 
 
-- Sep. 19 
+- Sep. 19 No talk this week
 
 - Sep. 26 Jiawen Zhang, Fudan Univeristy
 
@@ -50,11 +50,48 @@
 
   
 
-- Oct. 8
+- Oct. 8 No talk this week.
 
 - Oct. 17 [Robert Tang](https://rob-tang.github.io/), Xi’an Jiaotong-Liverpool University
 
+  Time: 16:00 - 17:00
+
+  Place: SCMS 106
+
+  Title: Straightening structures on surfaces
+
+  Abstract: Triangulations are ubiquitous throughout low-dimensional topology and geometry.
+  It is a well-known result that any two triangulations of a topological surface are related
+  by a finite sequence of flips. The analogous result is also known to be true for geometric
+  triangulations for surfaces equipped with certain geometric structures, for example,
+  Euclidean cone metrics or hyperbolic surfaces with a fixed vertex set. However, the
+  prevailing methods for studying triangulations and flip sequences, in the geometric
+  setting, tend to be very specific to the type of geometry involved.
+
+  In this talk, I will introduce straightening structures on surfaces. This provides an
+  axiomatic framework which models the behaviour of geodesic paths on non-positively
+  curved surfaces. Moreover, it permits a notion of 'straight triangulation',
+  generalising the geometric triangulations from the Euclidean or hyperbolic settings.
+   Our main result is that the 'straight flip graph' associated to a straightening
+  structure is non-empty, connected, and quasi-isometrically embedded in the flip
+   graph of the underlying topological surface. I will also describe other classes
+  of geometric structures that give rise to straightening structures.
+
+  This is joint work with Valentina Disarlo.
+
+
+
+  
+
 - Oct. 24 Daxun Wang, Tsinghua University
+
+  Time: 16:00 -17:00
+
+  Place: SMCS 102
+
+  Title:
+
+  Abstract:
 
 - Oct. 31 Lizhen Qin, Nanjing University
 
