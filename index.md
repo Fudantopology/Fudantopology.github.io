@@ -89,13 +89,39 @@
 
   Place: SMCS 102
 
-  Title:
+  Title: Boundary actions of graph of groups and application to C*-simplicity
 
-  Abstract:
+  Abstract: In this talk, we will discuss the actions of the fundamental group
+   of graph of groups on trees and on its associated boundaries. By studying
+  such group actions, we provide a family of examples of fundamental groups of
+  graph of groups that are C*-simple. This is joint work with Xin Ma and
+  Wenyuan Yang.
 
 - Oct. 31 Lizhen Qin, Nanjing University
 
-- Nov. 4 (? special time) Richard Webb, University of Manchester 
+- Nov. 3 (special time) Richard Webb, University of Manchester
+
+  Time: 16:40 - 17:40
+
+  Place: 
+
+  Title: Equators of the 2-sphere and area-preserving homeomorphisms
+
+  Abstract: The curve complex is an important tool in the study of mapping
+  class groups of surfaces, and other areas of low-dimensional topology
+  such as Teichmueller space and hyperbolic 3-manifolds. In this talk,
+  we introduce analogues of the curve complex in order to study the group
+  of area-preserving homeomorphisms (or Hamiltonian diffeomorphisms) of
+  the 2-sphere. How this relates to the dynamics of area-preserving
+  homeomorphisms, and symplectic geometry, is particularly curious,
+   especially because the original curve complex tells us lots of information
+   about the dynamics of mapping classes of surfaces. Using our tools, we are
+   able to construct new quasimorphisms on the group(s) above. I will discuss
+   an application of this regarding the geometry of simple closed curves that
+   separate the sphere into two components of equal area (i.e. equators of the
+  sphere), and how this relates to the Equator Conjecture. Joint work with
+  Yongsheng Jia.
+  
 
 - Nov. 14 Jiaochao Wu, Fudan University
 
