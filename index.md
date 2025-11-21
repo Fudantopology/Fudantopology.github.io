@@ -99,11 +99,28 @@
 
 - Oct. 31 Lizhen Qin, Nanjing University
 
+  Time: 16:00 - 17:00
+
+  Place: SCMS 102
+
+  Title: Fiber self-covering manifolds over tori
+
+  Abstract: A manifold is called self-covering if it can be identified with a
+  nontrivial cover of itself, where the identification may be a homeomorphism,
+   a homotopy equivalence, or another type of map. Manifolds of this class include
+  the circle as the simplest case and, more generally, the n-dimensional torus and
+  its products with any manifold. We consider the question: Is every closed self-covering
+  manifold with an abelian fundamental group necessarily a fiber bundle over a torus?
+  Moreover, does the self-covering map of such a manifold arise directly from a
+   self-covering map of the torus? This talk will present our current findings on
+  this question, which is a joint work with Yang Su (苏阳) and Botong Wang (王博潼).
+  
+
 - Nov. 3 (special time) Richard Webb, University of Manchester
 
   Time: 16:40 - 17:40
 
-  Place: 
+  Place: SCMS 102
 
   Title: Equators of the 2-sphere and area-preserving homeomorphisms
 
@@ -125,13 +142,63 @@
 
 - Nov. 14 Jiaochao Wu, Fudan University
 
+  Time: 16:00 - 17:00
+
+  Place: SCMS 102
+
+  Title: Almost elementary groupoids and classifiable C*-algebras
+
+  Abstract: This talk is based on collaborations with Xin Ma, where we introduce and
+  study a notion of almost elementary étale groupoids (possibly non-ample), which
+  unifies the notions of almost finiteness and pure infiniteness, and implies strict
+  comparison of the groupoid. Our main motivations lie in the connections to the theory
+  of C*-algebras. Most importantly, we show that an almost elementary minimal étale groupoid
+   gives rise to a tracially Z-stable C*-algebra. On the other hand, we verify that many
+   classifiable C*-algebras (including all of the strongly self-absorbing ones) have almost
+  elementary étale groupoid models. We also make progress toward the conjecture that the Jiang-Su
+   algebra Z does not arise from a transformation groupoid.
+  
+
 - Nov. 21 Guchuan Li, Peking University
 
-- Nov. 28 MP(?)
+  Time: 16:00 - 17:00
 
-- Dec. 5
+  Place: SCMS 106
 
-- Dec. 12 No talk this week due to speical week on hyperbolic geometry
+  Title: Transfer maps of profinite groups and their application in chromatic homotopy theory
+
+  Abstract: For a finite cover of spaces from E to B, there is a "wrong way map",
+  the transfer map, from the cohomology of E to the cohomology of B.
+  This agrees with the transfer map in group cohomology. We will
+  define a similar transfer map for a profinite group with finite
+  cohomology dimension. As an application, after K(1)-localization, the
+  classical J-homomorphism can be interpreted as a profinite transfer
+  map. In joint work in progress with Ningchuan Zhang, we extend this
+  idea to define and study profinite transfers between homotopy fixed
+  points of the Morava E-theory for closed subgroups of the Morava
+  stabilizer group. This defines analogs of the J-homomorphism at
+  higher chromatic heights.
+
+  
+  
+
+- Nov. 28 Mark Pengitore， IMPAN
+
+  Time: 16:00 - 17:00
+
+  Place: SCMS 102
+
+  Title: Linearity criteria for automorphism groups of hyperbolic groups
+
+  Abstract: In this talk, we can give a general criterion for the automorphism
+  group of nonelementary hyperbolic groups to be linear in terms of certain
+  epimorphisms from the hyperbolic group to finite products of finite simple
+  groups of Lie type. Potential applications include the question of linearity
+  of mapping class groups.
+
+- Dec. 5 No talk this week due to workshop on Geometric group theory at East China Normal University.
+
+- Dec. 12 No talk this week due to speical week on hyperbolic geometry at SIMIS.
 
 - Dec. 19 Weiyan Chen, Tsinghua University
 
