@@ -1,3 +1,44 @@
+## Spring 2026 Schedule
+
+- Mar. 13 Jacopo Guoyi Chen, SIMIS
+
+  Time: 16:30 - 17:30 
+
+  Place: 
+
+  Title:
+
+  Abstract:
+
+- Mar. 20
+
+- Mar. 27
+
+- Apr. 3
+
+- Apr. 10
+
+- Apr. 17
+
+- Apr. 24
+
+- May 8
+
+- May 15
+
+- May 22
+
+- May 29
+
+- Jun. 5
+
+- Jun. 12
+
+- Jun. 19
+
+
+
+
 ## Fall 2025 Schedule
 
 - Sep. 12 There will be no seminar this week, instead we will have a mini-course by Hiroki Matui, Chiba University
