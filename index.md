@@ -4,13 +4,25 @@
 
   Time: 16:30 - 17:30 
 
+  Place: SCMS 346
+
+  Title: Cusp-transitive 4-manifolds with every cusp section
+
+  Abstract: We realize every closed flat 3-manifold as a cusp section of a complete, finite-volume
+  hyperbolic 4-manifold whose symmetry group acts transitively on the set of cusps. Moreover, for
+  every such 3-manifold, a dense subset of its flat metrics can be realized as cusp sections of a
+  cusp-transitive 4-manifold. Finally, we prove that there are a lot of 4-manifolds with pairwise
+  isometric cusps, for any given cusp type.
+
+- Mar. 20 Zhongzi Wang, Peking University
+
+  Time: 16:30 - 17:30 
+
   Place: 
 
   Title:
 
-  Abstract:
-
-- Mar. 20
+  Abstract: 
 
 - Mar. 27
 
@@ -20,7 +32,8 @@
 
 - Apr. 17
 
-- Apr. 24
+- Apr. 24 Zheng Kuang, Sun Yat-sen University
+  
 
 - May 8
 
