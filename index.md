@@ -24,7 +24,17 @@
 
   Abstract: 
 
-- Mar. 27
+- Mar. 27 Qing Liu, Nankai University
+
+  Time: 16:30 - 17:30 
+
+  Place: 
+
+  Title:
+
+  Abstract: 
+
+
 
 - Apr. 3
 
