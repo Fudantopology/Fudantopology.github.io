@@ -18,11 +18,14 @@
 
   Time: 16:30 - 17:30 
 
-  Place: 
+  Place: SCMS 102
 
-  Title:
+  Title: Finite covers of  3-manifolds which admit no orientation-reversing homeomorphism
 
-  Abstract: 
+  Abstract:  We proved that if a closed orientable prime 3-manifold M is neither covered by
+  the  3-sphere nor covered by a product manifold, then M has a finite cover that admit no
+  orientation-reversing homeomorphism. The proof  uses geometric group theory after Agol-Wise's
+  virtual specialization. This is a joint work with Prof.  Hongbin Sun
 
 - Mar. 27 Qing Liu, Nankai University
 
@@ -30,14 +33,44 @@
 
   Place: 
 
-  Title:
+  Title: Quasi-conformal Structures on Morse Boundaries
 
-  Abstract: 
+  Abstract: Boundaries of hyperbolic groups have played a central role in geometric group theory.
+  For non-hyperbolic spaces such as CAT(0) spaces, mapping class groups, and hierarchically hyperbolic
+  groups, the Morse boundary provides a natural generalization by restricting to Morse geodesic rays.
+  Inspired by Paulin's classical rigidity theorem for Gromov hyperbolic groups, we investigate the
+  conditions under which a homeomorphism between the Morse boundaries of two groups is induced by a
+  quasi-isometry of the groups themselves. In this talk, we introduce natural quasi-conformal structures
+  on Morse boundaries and present key rigidity results that extend Paulin's theorem to the Morse setting.
 
 
 
-- Apr. 3
+- Apr. 3 Xinlong Dong, City University of New York
 
+  Time: 16:30 - 17:30 
+
+  Place: 
+
+  Title: Quadratic differentials and random walks on pants graphs with short geodesics
+
+  Abstract: Let $X$ be an infinite Riemann surface with an upper-bounded geodesic pants decomposition
+  and a subsequence of cuffs whose lengths converge to zero. 
+
+  The vertices of the corresponding pants graph $\mathcal{G}$ are pairs of pants, and edges are cuffs
+  with conductances equal to their lengths. We prove that the geodesic flow on $X$ is ergodic if and
+  only if the random walk on $\mathcal{G}$ is recurrent. This yields explicit criteria for deciding,
+  in terms of cuff-length growth, whether the geodesic flow is ergodic. We provide concrete and new
+  families of Riemann surfaces with an explicit understanding of the phase transitions from recurrent
+  to non-recurrent geodesic flows.
+
+  The above equivalence result uses a characterization of the measured geodesic laminations on $X$ that
+  arise as straightened horizontal foliations of finite-area holomorphic quadratic differentials. The
+  conditions on the measured laminations are translated into the conditions on the existence of a square
+  summable flow function on $\mathcal{G}$.
+
+  This is a joint work with Charles Bordanave and Dragomir Šarić.
+
+  
 - Apr. 10
 
 - Apr. 17
