@@ -316,7 +316,18 @@
 
 - Dec. 26 Hana Jia Kong, Zhejiang University
 
+  Place: SCMS 102
 
+  Time: 16:30 - 17:30
+
+  Title: Some computations in genuine $C_3$​ -equivariant homotopy theory
+
+  Abstract: I will report on some computations in genuine $C_3$-equivariant stable homotopy theory,
+  motivated by attempts to understand $C_3$- equivariant analogues of Brown–Peterson theory. I will
+  talk about computational input coming from the $C_3$-equivariant dual Steenrod algebra and related
+  lifting/extension phenomena in $k$- invariant–style constructions. The talk is intended as a progress
+  report on joint work with Angelini-Knoll, Behrens and Johnson, highlighting what is currently understood
+  and what remains unclear.
 
 ## Spring 2025 Schedule
 
