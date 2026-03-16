@@ -73,7 +73,7 @@
   
 - Apr. 10
 
-- Apr. 17
+- Apr. 17 No seminear this week, due to Mini-course by Jianru Duan, Peking university
 
 - Apr. 24 Zheng Kuang, Sun Yat-sen University
 
