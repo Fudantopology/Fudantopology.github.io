@@ -31,7 +31,7 @@
 
   Time: 16:30 - 17:30 
 
-  Place: 
+  Place: SCMS 102
 
   Title: Quasi-conformal Structures on Morse Boundaries
 
