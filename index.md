@@ -68,7 +68,7 @@
   conditions on the measured laminations are translated into the conditions on the existence of a square
   summable flow function on $\mathcal{G}$.
 
-  This is a joint work with Charles Bordanave and Dragomir Šarić.
+  This is a joint work with Charles Bordenave and Dragomir Šarić.
 
   
 - Apr. 10
