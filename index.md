@@ -71,11 +71,28 @@
   This is a joint work with Charles Bordenave and Dragomir Šarić.
 
   
-- Apr. 10
+- Apr. 10 No Seminar due to conference in Hefei.
 
 - Apr. 17 No seminear this week, due to Mini-course by Jianru Duan, Peking university
 
 - Apr. 24 Zheng Kuang, Sun Yat-sen University
+
+  Time: 16:00 - 17:00
+
+  Place: SCMS 102
+  
+  Title: An introduction to AF-by-discrete groupoids
+
+  Abstract: AF-by-discrete groupoids form a broad class that simultaneously generalizes minimal
+  Cantor systems and several important families of self-similar groups, including groups generated
+  by bounded automata and spinal groups. A particularly interesting subclass, the groupoids of bounded
+  type, gives rise to groups with remarkable properties such as amenability, torsion, and intermediate
+  growth. In this talk, I will give a gentle introduction to AF-by-discrete groupoids, explain the notion
+  of bounded type, and discuss some results on their asymptotic behavior, focusing on amenability and
+  intermediate growth.
+
+  
+  
 
 - Apr. 28, Wenyuan Yang, Peking University (joint with SCMS colloquium, Special Time)
 
@@ -92,15 +109,18 @@
 
 - May 15
 
-- May 22
+- May 22 Xin Gu, Westlake University
 
 - May 29 Carl-Fredrik Nyberg Brodda， KIAS
 
 - Jun. 5
 
-- Jun. 12
+- Jun. 12 Yongquan Zhang, College of William and Mary
+          Reyes, Chile
 
-- Jun. 19
+- Jun. 19 Wenzhao Chen ShanghaiTech
+
+- Jun. 22, Shulin Chen, University of Chicago
 
 
 
