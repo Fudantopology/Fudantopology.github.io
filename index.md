@@ -117,7 +117,7 @@
 
 - Jun. 12 Yongquan Zhang, College of William and Mary and Reyes, Chile
 
-- Jun. 19 Wenzhao Chen ShanghaiTech
+- Jun. 19 Wenzhao Chen， ShanghaiTech
 
 - Jun. 22, Shulin Chen, University of Chicago
 
