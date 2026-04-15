@@ -115,7 +115,7 @@
 
 - Jun. 5
 
-- Jun. 12 Yongquan Zhang, College of William and Mary and Reyes, Chile
+- Jun. 12 Yongquan Zhang, College of William and Mary
 
 - Jun. 19 Wenzhao Chen， ShanghaiTech
 
