@@ -77,7 +77,7 @@
 
 - Apr. 24 Zheng Kuang, South China University of Technology
 
-  Time: 16:00 - 17:00
+  Time: 16:30 - 17:30
 
   Place: SCMS 102
   
