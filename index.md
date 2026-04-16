@@ -49,7 +49,7 @@
 
   Time: 16:30 - 17:30 
 
-  Place: 
+  Place: SCMS 106
 
   Title: Quadratic differentials and random walks on pants graphs with short geodesics
 
