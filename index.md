@@ -75,7 +75,7 @@
 
 - Apr. 17 No seminear this week, due to Mini-course by Jianru Duan, Peking university
 
-- Apr. 24 Zheng Kuang, Sun Yat-sen University
+- Apr. 24 Zheng Kuang, South China University of Technology
 
   Time: 16:00 - 17:00
 
