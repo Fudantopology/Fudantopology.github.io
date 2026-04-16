@@ -113,7 +113,7 @@
 
 - May 29 Carl-Fredrik Nyberg Brodda， KIAS and a mini-course by Yongquan Zhang, College of William and Mary 
 
-- Jun. 5
+- Jun. 5  Matteo Migliorini, Karlsruher Institut für Technologie
 
 - Jun. 12 
 
