@@ -111,11 +111,11 @@
 
 - May 22 Xin Gu, Westlake University
 
-- May 29 Carl-Fredrik Nyberg Brodda， KIAS
+- May 29 Carl-Fredrik Nyberg Brodda， KIAS and a mini-course by Yongquan Zhang, College of William and Mary 
 
 - Jun. 5
 
-- Jun. 12 Yongquan Zhang, College of William and Mary
+- Jun. 12 
 
 - Jun. 19 Wenzhao Chen， ShanghaiTech
 
