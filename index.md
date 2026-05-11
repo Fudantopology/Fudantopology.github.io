@@ -98,14 +98,38 @@
 
   Place: Gu Lecture Hall
 
-  Time:
+  Time: 16:00 - 17:00
 
-  Title:
+  Title: Dimensions of escaping and recurrent geodesics
 
-  Abstract:
+  Abstract: In this talk, we investigate the asymptotic behavior of geodesics—such as escaping and
+  recurrent trajectories—on Riemannian manifolds. Recurrent geodesics are characterized by their
+   endpoints in the visual boundary, which correspond to conical limit points for the fundamental
+  group. The Hausdorff dimension of (uniformly) conical points has been extensively studied,
+  beginning with Patterson’s work (1975) on Fuchsian groups, followed by Sullivan (1979) for
+  geometrically finite Kleinian groups, and later Bishop-Jones (1996) for general Kleinian
+  groups.  In this talk, we extend these classical results by computing the Hausdorff dimensions
+  of two other key subsets of the limit set:  The Myrberg limit set (a distinguished subclass of
+   non-uniformly conical points) and the non-conical limit set. This is based on joint work with
+  Mahan Mj (TIFR).
   
 
 - May 8 Foling Zou, Chinese Academy of Sciences
+  
+  Place: SCMS 102
+  
+  Time: 16:00 - 17:00
+
+  Title: Equivariant Steenrod Operations
+
+  Abstract: Representation graded Bredon G-equivariant cohomology theories
+are represented by genuine G-spectra. We introduce the concept of REulerian sequences for
+ an equivariant commutative ring spectra R.
+Each R-Eulerian sequence corresponds to a stable R-cohomology
+operation. We apply our theory to equivariant ordinary cohomology
+to produce genuine equivariant lifts of the classical Steenrod
+operations for all finite groups. This is joint work with Prasit
+Bhattacharya, Alex Waugh and Mingcong Zeng.
 
 - May 15
 
