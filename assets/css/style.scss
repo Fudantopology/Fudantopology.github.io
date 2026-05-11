@@ -3,14 +3,17 @@
 
 @import "{{ site.theme }}";
 
+header,
+.page-header,
 #header_wrap {
   background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-                    url("/assets/images/header.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+                    url("/assets/images/header.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
 }
 
-#header_wrap .inner {
-  padding: 80px 10px 60px 10px;
+header {
+  padding-top: 4rem !important;
+  padding-bottom: 4rem !important;
 }
