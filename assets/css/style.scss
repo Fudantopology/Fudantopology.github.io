@@ -19,13 +19,11 @@ header {
 }
 
 #project_title {
-  font-size: 72px !important;
-  color: #003b7a !important;
-  text-shadow: none !important;
+  font-size: 60px !important;
+  color: #ffffff !important;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.55) !important;
 }
 
-@media screen and (max-width: 600px) {
-  #project_title {
-    font-size: 42px !important;
-  }
+#project_tagline {
+  color: #dbeafe !important;
 }
