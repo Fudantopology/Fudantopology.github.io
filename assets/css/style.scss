@@ -18,20 +18,14 @@ header {
   padding-bottom: 4rem !important;
 }
 
-/* Change the website title color */
 #project_title {
-  color: #005bac !important;
+  font-size: 72px !important;
+  color: #003b7a !important;
   text-shadow: none !important;
 }
 
-/* Optional: change the subtitle/tagline color too */
-#project_tagline {
-  color: #005bac !important;
-  text-shadow: none !important;
-}
-/* Make the main title about double size */
-#project_title {
-  font-size: 72px !important;
-  color: #005bac !important;
-  text-shadow: none !important;
+@media screen and (max-width: 600px) {
+  #project_title {
+    font-size: 42px !important;
+  }
 }
