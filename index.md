@@ -221,6 +221,18 @@ of intersection points in hyperbolic 3-manifolds of finite volume.
 
 - Jun. 5  Matteo Migliorini, Karlsruher Institut für Technologie
 
+  Time: 16:30 17:30
+
+  Zoom id: 646 617 8889 Passcode: 123456wu
+
+  Title: The Dehn function of Thompson's group T
+
+  Abstract: Thompson's groups, introduced by Thompson in 1965, have had a lot of attention in the
+  recent years. Being finitely presented, a natural question is to compute their Dehn function. All
+  three groups are conjectured to have quadratic Dehn function; this conjecture was confirmed for
+   Thompson's group F by Guba in 2006. During this talk, we show how to deduce from Guba's result
+  that Thompson's group T has a quadratic Dehn function as well.
+
 - Jun. 12 
 
 - Jun. 19 Wenzhao Chen， ShanghaiTech
