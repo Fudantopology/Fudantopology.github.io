@@ -219,7 +219,7 @@ For the next two talks, I will briefly discuss several different approaches for 
 the case of surfaces, and then focus on recent joint work with Tina Torkaman on equidistribution
 of intersection points in hyperbolic 3-manifolds of finite volume.
 
-- Jun. 5  Matteo Migliorini, Karlsruher Institut für Technologie
+- Jun. 5，  Matteo Migliorini, Karlsruher Institut für Technologie
 
   Time: 16:30 17:30
 
