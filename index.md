@@ -135,7 +135,89 @@ Bhattacharya, Alex Waugh and Mingcong Zeng.
 
 - May 22 Xin Gu, Westlake University
 
-- May 29 Carl-Fredrik Nyberg Brodda， KIAS and a mini-course by Yongquan Zhang, College of William and Mary 
+Place: SCMS 346
+
+Time: 16:00 - 17:00
+
+Title:Topological complexity of enumerative problems in algebraic geometry
+
+Abstract: Typical enumerative problems in algebraic geometry include finding
+the d roots of a generic polynomial in one variable of degree d, finding
+the 27 lines on a smooth cubic surface, and their higher dimensional
+analogs. We introduce the concept of topological complexity of
+enumerative problems, which is a positive integer that measures the
+least possible number of “branches” in the algorithms that solves an
+enumerative problem up to an ϵ error. We are interested in the lower
+bounds of the topological complexity of enumerative problems. We
+introduce finite covering spaces associated to the enumerative
+problems and the concept of Schwarz genus of a covering space,
+which produces lower bounds of the topological complexity, and can
+be detected by cohomology. Finally, we present lower bounds of three
+enumerative problems.
+This is a joint work with Weiyan Chen.
+
+
+- May 29 Carl-Fredrik Nyberg Brodda， KIAS 
+
+Place: SCMS 102
+
+Time: 16:30 - 17:30 
+
+Title: Profinite rigidity and the second homology group
+
+Abstract: A finitely generated residually finite group is said to be profinitely rigid if it is 
+determined in the class of finitely generated residually finite groups by its set of finite quotients.
+Much remains unknown: for example, it is an open problem whether free groups are profinitely rigid. 
+In the past few years, much progress has been made on constructing examples of profinitely rigid groups,
+with a landmark paper by Bridson, McReynolds, Reid, and Spitler producing examples of profinitely 
+rigid hyperbolic 3-manifold groups. In recent work, Bridson & Reid have used a technique via fiber 
+products due to Bass & Lubotzky for constructing failures of profinite rigidity (in the form of 
+"Grothendieck pairs") which relies on being able to guarantee the vanishing of the second homology 
+group of some hyperbolic 3-orbifold groups. In my talk, I will give an introduction to this fascinating 
+blend of areas. I will also give a sketch of an algorithmic procedure for computing the second homology
+group of any hyperbolic 3-orbifold covered by a rational homology 3-sphere, and a useful criterion, both 
+of which can be used to answer two questions of Bridson & Reid.
+
+
+
+and a mini-course by Yongquan Zhang, College of William and Mary
+
+Mon, May 25 | 4:00–6:00 PM | SIMIS 1510
+Tue, May 26 | 4:00–6:00 PM | SIMIS 1610
+Wed, May 27 | 9:30–11:30 AM | SIMIS 1010
+Fri, May 29 | 9:30–11:30 AM | SIMIS 1010
+Abstract:
+
+An isometrically immersed totally geodesic hyperbolic plane in a hyperbolic 3-manifold is simply called
+a geodesic plane. The topological, geometric and dynamical behaviors of geodesic planes have been
+extensively studied. In this series of talks, I will explain some recent progress on these problems.
+
+Independently due to Ratner and Shah, any geodesic plane in a hyperbolic 3-manifold of finite volume 
+is either closed or dense. Recently, McMullen-Mohammadi-Oh generalized these results to convex-compact,
+acylindrical hyperbolic 3-manifolds of infinite volume if we restrict to the interior of the convex core.
+Similar generalizations have also been obtained for some geometrically finite acylindrical 3-manifolds by
+Benoist-Oh. This leads to three natural questions.
+
+1. Does the “closed or dense” dichotomy still hold if we look at the convex core itself?
+2. Can we classify geodesic planes outside convex cores?
+3. What about other geometrically finite acylindrical 3-manifolds not covered by Benoist-Oh?
+
+For the first two talks, I will give a counterexample to Question 1, describe some partial progress for
+Question 3 for a very specific example, and focus on an essentially complete classification for Question 2,
+in joint work with Tina Torkaman.
+
+Closed geodesic planes themselves exhibit interesting collective behavior. Notably, any sequence of
+distinct closed geodesic planes in a finite-volume hyperbolic 3-manifold equidistributes in the sense 
+of measure theory with respect to the hyperbolic volume measure. At the same time, it is well-known 
+that the collection of all closed geodesics also equidistributes. Motivated by recent progress on 
+equidistribution of intersection points of geodesics on hyperbolic surfaces, it is natural to ask 
+the distribution of intersection points between closed geodesic planes and closed geodesics in a
+hyperbolic 3-manifold, and more generally, intersection points between closed totally geodesic 
+submanifolds of complementary dimensions in higher dimensions.
+
+For the next two talks, I will briefly discuss several different approaches for this problem in 
+the case of surfaces, and then focus on recent joint work with Tina Torkaman on equidistribution
+of intersection points in hyperbolic 3-manifolds of finite volume.
 
 - Jun. 5  Matteo Migliorini, Karlsruher Institut für Technologie
 
