@@ -233,11 +233,23 @@ of intersection points in hyperbolic 3-manifolds of finite volume.
    Thompson's group F by Guba in 2006. During this talk, we show how to deduce from Guba's result
   that Thompson's group T has a quadratic Dehn function as well.
 
-- Jun. 12 
+- Mini-course by Xiangdong Xie, Bowling Green State University
 
-- Jun. 19 Wenzhao Chen， ShanghaiTech
+  Time: June 26th.，Friday，10:00 - 12:00；
+        July 1st. Wednesday，13:00- 15:00;
+        July 3rd，Friday，10:00 - 12:00.
+  Place: SCMS 102
 
-- Jun. 22, Shulin Chen, University of Chicago
+  Title: Introduction to quasi-isometric rigidity
+
+
+  Abstract: Quasi-isometric rigidity is a central topic in  Geometric Group Theory and quasi-isometric
+   rigidity theorems have far-reaching consequences.   I will introduce  and compare  various kinds
+   of quasi-isometric rigidity. I will use examples to illustrate the tools and some key steps in the proofs
+   of quasi-isometric rigidity. In the second talk I will concentrate on the use of quasiconformal analysis
+  in quasi-isometric rigidity. In the third talk I will  explain the role of asymptotic cones in quasi-isometric
+   rigidity.
+
 
 
 
