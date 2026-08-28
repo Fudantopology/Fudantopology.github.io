@@ -3,9 +3,12 @@
 
 - Sep. 11/18 There will be no seminar this week, instead we will have a mini-course by Eduard Schesler, Karlsruhe Institute of Technology
 
-Time:  
+Time: 
+
 Sep. 9, Wednesday 15:00 - 17:00
+
 Sep. 16, Wednesday 15:00 - 17:00
+
 Sep. 18, Friday 15:00 - 17:00
 
 Place: 
