@@ -24,6 +24,31 @@ amenable groups that are not elementary amenable (Day’s problem). If time perm
 perspective by discussing self-similar groups and asynchronous automata, as well as cellular automata and
 their connections with amenability and soficity.
 
+- Sep. 25
+
+- Oct. 9
+
+- Oct. 16
+
+- Oct. 23
+
+- Oct. 30
+
+- Nov. 6
+
+- Nov. 13
+
+- Nov. 20
+
+- Nov. 27
+
+- Dec. 4
+
+- Dec. 11
+
+- Dec. 18
+
+- Dec. 25
 
 
 
