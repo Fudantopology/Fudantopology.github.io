@@ -1,7 +1,7 @@
 
 ## Fall 2026 Schedule
 
-- Sep. 11/18 There will be no seminar this week, instead we will have a mini-course by Eduard Schesler, Karlsruhe Institute of Technology
+- Sep. 11/18 There will be no seminar in the first two week, instead we will have a mini-course by Eduard Schesler, Karlsruhe Institute of Technology
 
 Time: 
 
@@ -10,6 +10,8 @@ Sep. 9, Wednesday 15:00 - 17:00
 Sep. 16, Wednesday 15:00 - 17:00
 
 Sep. 18, Friday 15:00 - 17:00
+
+Zoom id: 646 617 8889 Passcode: 123456wu
 
 Place: 
 
