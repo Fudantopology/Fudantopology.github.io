@@ -1,3 +1,36 @@
+
+## Fall 2026 Schedule
+
+- Sep. 11/18 There will be no seminar this week, instead we will have a mini-course by Eduard Schesler, Karlsruhe Institute of Technology
+
+Time:  
+Sep. 9, Wednesday 15:00 - 17:00
+Sep. 16, Wednesday 15:00 - 17:00
+Sep. 18, Friday 15:00 - 17:00
+
+Place: 
+
+Title: Groups and automata
+
+Abstract: Since their first appearance in the 1960s, finite-state automata groups have remained a constant
+source of groups with exotic and intriguing properties. Roughly speaking, an automata group consists of
+homeomorphisms of the Cantor set—viewed as the space of infinite words over a finite alphabet—described 
+by finitely many rules that determine how words are processed letter by letter. In this mini-course, I 
+will introduce the theory of automata groups and present some of its classical examples. I will also 
+discuss the role of automata groups in the solutions of several classical problems in group theory:
+the construction of finitely generated infinite torsion groups (Burnside’s problem), groups of intermediate 
+growth (Milnor’s problem), groups of non-uniform exponential growth (Gromov’s problem), and finitely presented
+amenable groups that are not elementary amenable (Day’s problem). If time permits, we will broaden the 
+perspective by discussing self-similar groups and asynchronous automata, as well as cellular automata and
+their connections with amenability and soficity.
+
+
+
+
+
+
+
+
 ## Spring 2026 Schedule
 
 - Mar. 13 Jacopo Guoyi Chen, SIMIS
