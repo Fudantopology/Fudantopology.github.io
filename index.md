@@ -3,6 +3,13 @@
 
 - Sep. 11 Youlin Li, Shanghai Jiaotong University.
 
+  Time: 16:30 - 17:30 
+
+  Place: TBA
+
+  Title: TBA
+
+  Abstract: TBA
  
 In the same time We will have a mini-course by Eduard Schesler in the first two weeks, Karlsruhe Institute of Technology
 
