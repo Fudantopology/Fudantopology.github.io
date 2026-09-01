@@ -29,13 +29,13 @@ amenable groups that are not elementary amenable (Day’s problem). If time perm
 perspective by discussing self-similar groups and asynchronous automata, as well as cellular automata and
 their connections with amenability and soficity.
 
-- Sep. 25
+
 
 - Oct. 9
 
-- Oct. 16
+- Oct. 16, 23, There will be no seminar in the these two weeks, instead we will have a Marco Linton by Eduard Schesler, ICMAT
 
-- Oct. 23
+
 
 - Oct. 30
 
