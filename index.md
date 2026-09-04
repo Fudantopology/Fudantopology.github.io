@@ -1,9 +1,9 @@
 
 ## Fall 2026 Schedule
 
-- Sep. 11 Youlin Li, Shanghai Jiaotong University.
+- Sep. 11 Youlin Li, Shanghai Jiaotong University and Biao Ma Tongji University
 
-  Time: 16:30 - 17:30 
+  Time: TBA
 
   Place: TBA
 
