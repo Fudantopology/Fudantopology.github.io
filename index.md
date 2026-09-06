@@ -41,7 +41,7 @@ their connections with amenability and soficity.
 
 
 
-- Oct. 9
+- Oct. 9,  Jitendra Bajpai, Christian-Albrechts University of Kiel
 
 - Oct. 16, 23, There will be no seminar in the these two weeks, instead we will have a  mini-course  by Marco Linton, ICMAT
 
