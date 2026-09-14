@@ -1,15 +1,33 @@
 
 ## Fall 2026 Schedule
 
-- Sep. 11 Youlin Li, Shanghai Jiaotong University and Biao Ma Tongji University
+- Sep. 11  Biao Ma Tongji University
 
-  Time: TBA
+  Time: 14:00-14:45
 
-  Place: TBA
+  Place: Guanghua East Tower 1801
 
-  Title: TBA
+  Title: Taut polynomials from finite quotients of fibered hyperbolic 3-manifold groups
 
-  Abstract: TBA
+  Abstract: We prove that the finite quotients of a fibered hyperbolic 3-manifold
+  group detect the taut polynomials of fibered faces of the Thurston norm balls,
+  whenever the monodromy map is fully-punctured. To this end, we develop a general
+  framework for the profinite invariance of twisted multivariable Alexander polynomials.
+   As an application, we identify specific one-cusped hyperbolic $3$-manifolds that
+  are profinitely rigid among $3$-manifold groups, by a strategy using normalized
+   dilatations and the veering census; notably, the taut polynomials distinguish
+  a pair of mapping tori sharing the fiber and the dilatation. This talk is based
+   on joint work with Tamunonye Cheetham-West, Jun Ueki, and Youheng Yao.
+
+
+
+  Youlin Li, Shanghai Jiaotong University
+
+题目：一类双曲三维流形上的tight切触结构的分类
+时间：2026年9月 11日 星期五 15:00-16:40
+地点：光华楼东主楼1801室
+摘要: 我们将讨论一类闭双曲三维流形上的tight切触结构以及可辛填充的切触结构的分类。
+
  
 In the same time We will have a mini-course by Eduard Schesler in the first two weeks, Karlsruhe Institute of Technology
 
@@ -47,7 +65,16 @@ their connections with amenability and soficity.
 
 
 
-- Oct. 30
+- Oct. 28, Qizheng You, Peking University
+
+  Time:
+
+  Place:
+
+  Title:
+
+  Abstract:
+  
 
 - Nov. 6
 
