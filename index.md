@@ -64,6 +64,18 @@ their connections with amenability and soficity.
 
 - Oct. 9,  Jitendra Bajpai, Christian-Albrechts University of Kiel
 
+  Time: 16:30 - 17:30
+
+  Place: SCMS 102
+
+  Title: Arithmeticity and Thinness of Hypergeometric Groups
+
+  Abstract:
+  The monodromy groups of hypergeometric differential equations—often referred to as hypergeometric groups—are
+  subgroups of general linear groups. Arithmetic and thin groups have become central objects of study due to
+   their relevance in number theory, geometry, and even quantum computing. In    this talk, I will give a
+  gentle introduction to hypergeometric groups and present recent progress in their classification.
+
 - Oct. 16, 23, There will be no seminar in the these two weeks, instead we will have a  mini-course  by Marco Linton, ICMAT
 
 
