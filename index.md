@@ -76,7 +76,27 @@ their connections with amenability and soficity.
    their relevance in number theory, geometry, and even quantum computing. In    this talk, I will give a
   gentle introduction to hypergeometric groups and present recent progress in their classification.
 
-- Oct. 16, 23, There will be no seminar in the these two weeks, instead we will have a  mini-course  by Marco Linton, ICMAT
+- Oct. 16, 23,  mini-course  by Marco Linton, ICMAT
+
+  Time:
+
+  Oct 20th. Tuesday, 10 -12
+
+  Oct. 27th. Tuesday, 10 - 12
+
+  Oct. 29th., Thursday 13 - 15.
+
+  Place:
+
+  Title: Vanishing L2-Betti numbers, coherence and virtual fibring.
+
+  Abstract: The purpose of this mini-course will be to explain connections between vanishing of L2-Betti numbers,
+  finiteness properties and virtual fibring of groups. The first lecture will consist of a brief introduction to
+  the theory of L2-invariants, with a particular focus on vanishing criteria. In the second lecture we will see how
+   vanishing of the second L2 -Betti number implies (homological) coherence amongst 2-dimensional groups, sketching
+   the proof of the coherence of one-relator groups. In the third lecture we will see how vanishing of L2 -Betti
+  numbers in a given range implies the existence of virtual characters with strong properties, discussing Kielak's
+  virtual fibring theorem and some generalisations.
 
 
 
