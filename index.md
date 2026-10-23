@@ -119,7 +119,7 @@ their connections with amenability and soficity.
 
 - Nov. 27
 
-- Dec. 4
+- Dec. 4 Chi Cheuk Tsang, Tongji University
 
 - Dec. 11
 
