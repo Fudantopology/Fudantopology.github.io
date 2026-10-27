@@ -115,7 +115,15 @@ their connections with amenability and soficity.
 
 - Nov. 13
 
-- Nov. 20
+- Nov. 20 Yongqiang Liu, University of Science and Technology of China
+
+  Time:
+
+  Place:
+
+  Title:
+
+  Abstract:
 
 - Nov. 27
 
