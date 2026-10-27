@@ -129,7 +129,7 @@ their connections with amenability and soficity.
 
 - Dec. 4 Chi Cheuk Tsang, Tongji University
 
-- Dec. 11 
+- Dec. 11 Xiaoyu Xu, Peking University
 
 - Dec. 18 Zhipeng Duan, Nanjing Normal University
 
