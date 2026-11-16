@@ -117,13 +117,24 @@ their connections with amenability and soficity.
 
 - Nov. 20 Yongqiang Liu, University of Science and Technology of China
 
-  Time:
+  Time: 16:30 - 17:30 
 
-  Place:
+  Place: SCMS
 
-  Title:
+  Title: Twisted homology jump loci, twisted Alexander polynomials, and Sigma-invariants
 
-  Abstract:
+  Abstract: The twisted Alexander polynomials of a space, associated to a linear representation  of
+  the fundamental group, are non-abelian refinements of the classical Alexander polynomial from knot theory.
+   In this paper, we show that they arise naturally from a new family of invariants---the twisted homology
+  jump loci---which extend the rank-one characteristic varieties to higher-rank local systems. Using the tropical
+   geometry of these twisted loci, we obtain sharper upper bounds for the Bieri--Neumann--Strebel--Renz (BNSR)
+  Sigma-invariants.
+
+ For compact orientable 3-manifolds with toroidal or empty boundary, we use a theorem of Friedl--Vidussi to show 
+ that the closure of the union of these twisted tropical bound is sharp: it recovers the fibered faces of the Thurston
+ norm ball exactly, a result that fails without twisting. For compact Kahler manifolds, we prove that the twisted Alexander
+ polynomial must equal 0 or 1. Both results provide obstructions to geometric realizability that are strictly stronger than 
+ their classical untwisted counterparts. Joint work with A.I. Suciu.
 
 - Nov. 27
 
