@@ -130,12 +130,12 @@ their connections with amenability and soficity.
    geometry of these twisted loci, we obtain sharper upper bounds for the Bieri--Neumann--Strebel--Renz (BNSR)
   Sigma-invariants.
 
- For compact orientable 3-manifolds with toroidal or empty boundary, we use a theorem of Friedl--Vidussi to show 
- that the closure of the union of these twisted tropical bound is sharp: it recovers the fibered faces of the Thurston
- norm ball exactly, a result that fails without twisting. For compact Kahler manifolds, we prove that the twisted Alexander
- polynomial must equal 0 or 1. Both results provide obstructions to geometric realizability that are strictly stronger than 
- their classical untwisted counterparts. Joint work with A.I. Suciu.
-
+  For compact orientable 3-manifolds with toroidal or empty boundary, we use a theorem of Friedl--Vidussi to show 
+  that the closure of the union of these twisted tropical bound is sharp: it recovers the fibered faces of the Thurston
+  norm ball exactly, a result that fails without twisting. For compact Kahler manifolds, we prove that the twisted Alexander
+  polynomial must equal 0 or 1. Both results provide obstructions to geometric realizability that are strictly stronger than 
+  their classical untwisted counterparts. Joint work with A.I. Suciu.
+ 
 - Nov. 27
 
 - Dec. 4 Chi Cheuk Tsang, Tongji University
