@@ -140,6 +140,17 @@ their connections with amenability and soficity.
 
 - Dec. 4 Chi Cheuk Tsang, Tongji University
 
+  Time: 16:30 - 17:30
+
+  Place: 
+
+  Title: Flows and foliations on 3-manifolds: An overview
+
+  Abstract: One method of studying the geometry and topology of 3-manifolds is by studying the flows and foliations on them.
+  This approach grew out of a strategy of Thurston to prove geometrization, and has been shown to have deep links with other
+   topics in low-dimensional topology. In this talk, we provide an overview of the field, sampling the status of key steps of
+   Thurston's program, as well as discussing some more current research directions.
+
 - Dec. 11 Xiaoyu Xu, Peking University
 
 - Dec. 18 Zhipeng Duan, Nanjing Normal University
